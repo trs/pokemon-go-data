@@ -1,0 +1,15 @@
+{
+  "id": "364",
+  "name": "Sealeo",
+  "number": 364,
+  "forms": [
+    {
+      "name": "Normal",
+      "code": "normal"
+    }
+  ],
+  "types": [
+    "Ice",
+    "Water"
+  ]
+}

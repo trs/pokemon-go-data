@@ -1,0 +1,15 @@
+{
+  "id": "487-altered",
+  "name": "Giratina",
+  "number": 487,
+  "forms": [
+    {
+      "name": "Altered",
+      "code": "altered"
+    }
+  ],
+  "types": [
+    "Ghost",
+    "Dragon"
+  ]
+}

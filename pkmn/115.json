@@ -1,0 +1,14 @@
+{
+  "id": "115",
+  "name": "Kangaskhan",
+  "number": 115,
+  "forms": [
+    {
+      "name": "Normal",
+      "code": "normal"
+    }
+  ],
+  "types": [
+    "Normal"
+  ]
+}

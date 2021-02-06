@@ -1,0 +1,15 @@
+{
+  "id": "564",
+  "name": "Tirtouga",
+  "number": 564,
+  "forms": [
+    {
+      "name": "Normal",
+      "code": "normal"
+    }
+  ],
+  "types": [
+    "Water",
+    "Rock"
+  ]
+}

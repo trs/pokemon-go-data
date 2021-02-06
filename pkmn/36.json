@@ -1,0 +1,14 @@
+{
+  "id": "36",
+  "name": "Clefable",
+  "number": 36,
+  "forms": [
+    {
+      "name": "Normal",
+      "code": "normal"
+    }
+  ],
+  "types": [
+    "Fairy"
+  ]
+}

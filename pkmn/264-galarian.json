@@ -1,0 +1,15 @@
+{
+  "id": "264-galarian",
+  "name": "Linoone",
+  "number": 264,
+  "forms": [
+    {
+      "name": "Galarian",
+      "code": "galarian"
+    }
+  ],
+  "types": [
+    "Dark",
+    "Normal"
+  ]
+}

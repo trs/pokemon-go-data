@@ -1,0 +1,14 @@
+{
+  "id": "404",
+  "name": "Luxio",
+  "number": 404,
+  "forms": [
+    {
+      "name": "Normal",
+      "code": "normal"
+    }
+  ],
+  "types": [
+    "Electric"
+  ]
+}

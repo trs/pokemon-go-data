@@ -1,0 +1,14 @@
+{
+  "id": "579",
+  "name": "Reuniclus",
+  "number": 579,
+  "forms": [
+    {
+      "name": "Normal",
+      "code": "normal"
+    }
+  ],
+  "types": [
+    "Psychic"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": "585-winter",
+  "name": "Deerling",
+  "number": 585,
+  "forms": [
+    {
+      "name": "Winter",
+      "code": "winter"
+    }
+  ],
+  "types": [
+    "Normal",
+    "Grass"
+  ]
+}

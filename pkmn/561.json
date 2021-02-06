@@ -1,0 +1,15 @@
+{
+  "id": "561",
+  "name": "Sigilyph",
+  "number": 561,
+  "forms": [
+    {
+      "name": "Normal",
+      "code": "normal"
+    }
+  ],
+  "types": [
+    "Psychic",
+    "Flying"
+  ]
+}

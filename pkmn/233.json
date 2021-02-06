@@ -1,0 +1,14 @@
+{
+  "id": "233",
+  "name": "Porygon2",
+  "number": 233,
+  "forms": [
+    {
+      "name": "Normal",
+      "code": "normal"
+    }
+  ],
+  "types": [
+    "Normal"
+  ]
+}

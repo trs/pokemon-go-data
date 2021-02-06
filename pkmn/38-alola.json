@@ -1,0 +1,15 @@
+{
+  "id": "38-alola",
+  "name": "Ninetales",
+  "number": 38,
+  "forms": [
+    {
+      "name": "Alola",
+      "code": "alola"
+    }
+  ],
+  "types": [
+    "Ice",
+    "Fairy"
+  ]
+}

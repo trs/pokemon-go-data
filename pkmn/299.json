@@ -1,0 +1,14 @@
+{
+  "id": "299",
+  "name": "Nosepass",
+  "number": 299,
+  "forms": [
+    {
+      "name": "Normal",
+      "code": "normal"
+    }
+  ],
+  "types": [
+    "Rock"
+  ]
+}

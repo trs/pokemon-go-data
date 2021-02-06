@@ -1,0 +1,14 @@
+{
+  "id": "511",
+  "name": "Pansage",
+  "number": 511,
+  "forms": [
+    {
+      "name": "Normal",
+      "code": "normal"
+    }
+  ],
+  "types": [
+    "Grass"
+  ]
+}

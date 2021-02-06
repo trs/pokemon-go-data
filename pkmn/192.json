@@ -1,0 +1,14 @@
+{
+  "id": "192",
+  "name": "Sunflora",
+  "number": 192,
+  "forms": [
+    {
+      "name": "Normal",
+      "code": "normal"
+    }
+  ],
+  "types": [
+    "Grass"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": "479-fan",
+  "name": "Rotom",
+  "number": 479,
+  "forms": [
+    {
+      "name": "Fan",
+      "code": "fan"
+    }
+  ],
+  "types": [
+    "Electric",
+    "Flying"
+  ]
+}

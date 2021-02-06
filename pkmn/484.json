@@ -1,0 +1,15 @@
+{
+  "id": "484",
+  "name": "Palkia",
+  "number": 484,
+  "forms": [
+    {
+      "name": "Normal",
+      "code": "normal"
+    }
+  ],
+  "types": [
+    "Water",
+    "Dragon"
+  ]
+}

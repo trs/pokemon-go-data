@@ -1,0 +1,14 @@
+{
+  "id": "120",
+  "name": "Staryu",
+  "number": 120,
+  "forms": [
+    {
+      "name": "Normal",
+      "code": "normal"
+    }
+  ],
+  "types": [
+    "Water"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": "478",
+  "name": "Froslass",
+  "number": 478,
+  "forms": [
+    {
+      "name": "Normal",
+      "code": "normal"
+    }
+  ],
+  "types": [
+    "Ice",
+    "Ghost"
+  ]
+}

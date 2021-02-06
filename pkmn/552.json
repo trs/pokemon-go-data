@@ -1,0 +1,15 @@
+{
+  "id": "552",
+  "name": "Krokorok",
+  "number": 552,
+  "forms": [
+    {
+      "name": "Normal",
+      "code": "normal"
+    }
+  ],
+  "types": [
+    "Ground",
+    "Dark"
+  ]
+}

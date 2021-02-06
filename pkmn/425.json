@@ -1,0 +1,15 @@
+{
+  "id": "425",
+  "name": "Drifloon",
+  "number": 425,
+  "forms": [
+    {
+      "name": "Normal",
+      "code": "normal"
+    }
+  ],
+  "types": [
+    "Ghost",
+    "Flying"
+  ]
+}

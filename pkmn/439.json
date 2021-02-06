@@ -1,0 +1,15 @@
+{
+  "id": "439",
+  "name": "Mime Jr.",
+  "number": 439,
+  "forms": [
+    {
+      "name": "Normal",
+      "code": "normal"
+    }
+  ],
+  "types": [
+    "Psychic",
+    "Fairy"
+  ]
+}

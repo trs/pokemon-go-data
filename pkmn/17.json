@@ -1,0 +1,15 @@
+{
+  "id": "17",
+  "name": "Pidgeotto",
+  "number": 17,
+  "forms": [
+    {
+      "name": "Normal",
+      "code": "normal"
+    }
+  ],
+  "types": [
+    "Normal",
+    "Flying"
+  ]
+}

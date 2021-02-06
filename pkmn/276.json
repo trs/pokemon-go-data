@@ -1,0 +1,15 @@
+{
+  "id": "276",
+  "name": "Taillow",
+  "number": 276,
+  "forms": [
+    {
+      "name": "Normal",
+      "code": "normal"
+    }
+  ],
+  "types": [
+    "Normal",
+    "Flying"
+  ]
+}

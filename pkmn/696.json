@@ -1,0 +1,15 @@
+{
+  "id": "696",
+  "name": "Tyrunt",
+  "number": 696,
+  "forms": [
+    {
+      "name": "Normal",
+      "code": "normal"
+    }
+  ],
+  "types": [
+    "Rock",
+    "Dragon"
+  ]
+}

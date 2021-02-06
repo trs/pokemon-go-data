@@ -1,0 +1,15 @@
+{
+  "id": "257",
+  "name": "Blaziken",
+  "number": 257,
+  "forms": [
+    {
+      "name": "Normal",
+      "code": "normal"
+    }
+  ],
+  "types": [
+    "Fire",
+    "Fighting"
+  ]
+}

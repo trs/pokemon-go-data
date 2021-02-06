@@ -1,0 +1,15 @@
+{
+  "id": "398",
+  "name": "Staraptor",
+  "number": 398,
+  "forms": [
+    {
+      "name": "Normal",
+      "code": "normal"
+    }
+  ],
+  "types": [
+    "Normal",
+    "Flying"
+  ]
+}

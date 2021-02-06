@@ -1,0 +1,14 @@
+{
+  "id": "501",
+  "name": "Oshawott",
+  "number": 501,
+  "forms": [
+    {
+      "name": "Normal",
+      "code": "normal"
+    }
+  ],
+  "types": [
+    "Water"
+  ]
+}

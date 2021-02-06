@@ -1,0 +1,15 @@
+{
+  "id": "80",
+  "name": "Slowbro",
+  "number": 80,
+  "forms": [
+    {
+      "name": "Normal",
+      "code": "normal"
+    }
+  ],
+  "types": [
+    "Water",
+    "Psychic"
+  ]
+}

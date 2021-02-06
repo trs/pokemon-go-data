@@ -1,0 +1,14 @@
+{
+  "id": "243",
+  "name": "Raikou",
+  "number": 243,
+  "forms": [
+    {
+      "name": "Normal",
+      "code": "normal"
+    }
+  ],
+  "types": [
+    "Electric"
+  ]
+}

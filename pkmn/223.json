@@ -1,0 +1,14 @@
+{
+  "id": "223",
+  "name": "Remoraid",
+  "number": 223,
+  "forms": [
+    {
+      "name": "Normal",
+      "code": "normal"
+    }
+  ],
+  "types": [
+    "Water"
+  ]
+}

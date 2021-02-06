@@ -1,0 +1,15 @@
+{
+  "id": "630",
+  "name": "Mandibuzz",
+  "number": 630,
+  "forms": [
+    {
+      "name": "Normal",
+      "code": "normal"
+    }
+  ],
+  "types": [
+    "Dark",
+    "Flying"
+  ]
+}

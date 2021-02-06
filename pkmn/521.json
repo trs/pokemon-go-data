@@ -1,0 +1,15 @@
+{
+  "id": "521",
+  "name": "Unfezant",
+  "number": 521,
+  "forms": [
+    {
+      "name": "Normal",
+      "code": "normal"
+    }
+  ],
+  "types": [
+    "Normal",
+    "Flying"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": "445",
+  "name": "Garchomp",
+  "number": 445,
+  "forms": [
+    {
+      "name": "Normal",
+      "code": "normal"
+    }
+  ],
+  "types": [
+    "Dragon",
+    "Ground"
+  ]
+}

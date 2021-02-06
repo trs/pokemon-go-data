@@ -1,0 +1,15 @@
+{
+  "id": "413-sandy",
+  "name": "Wormadam",
+  "number": 413,
+  "forms": [
+    {
+      "name": "Sandy",
+      "code": "sandy"
+    }
+  ],
+  "types": [
+    "Bug",
+    "Ground"
+  ]
+}

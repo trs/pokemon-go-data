@@ -1,0 +1,14 @@
+{
+  "id": "577",
+  "name": "Solosis",
+  "number": 577,
+  "forms": [
+    {
+      "name": "Normal",
+      "code": "normal"
+    }
+  ],
+  "types": [
+    "Psychic"
+  ]
+}

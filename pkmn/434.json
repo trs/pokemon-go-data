@@ -1,0 +1,15 @@
+{
+  "id": "434",
+  "name": "Stunky",
+  "number": 434,
+  "forms": [
+    {
+      "name": "Normal",
+      "code": "normal"
+    }
+  ],
+  "types": [
+    "Poison",
+    "Dark"
+  ]
+}

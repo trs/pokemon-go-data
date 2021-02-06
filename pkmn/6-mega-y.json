@@ -1,0 +1,19 @@
+{
+  "id": "6-mega-y",
+  "name": "Charizard",
+  "number": 6,
+  "forms": [
+    {
+      "name": "Normal",
+      "code": "normal"
+    },
+    {
+      "name": "Mega Y",
+      "code": "mega-y"
+    }
+  ],
+  "types": [
+    "Fire",
+    "Flying"
+  ]
+}

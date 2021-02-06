@@ -1,0 +1,15 @@
+{
+  "id": "198",
+  "name": "Murkrow",
+  "number": 198,
+  "forms": [
+    {
+      "name": "Normal",
+      "code": "normal"
+    }
+  ],
+  "types": [
+    "Dark",
+    "Flying"
+  ]
+}

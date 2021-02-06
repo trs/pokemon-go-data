@@ -1,0 +1,15 @@
+{
+  "id": "384",
+  "name": "Rayquaza",
+  "number": 384,
+  "forms": [
+    {
+      "name": "Normal",
+      "code": "normal"
+    }
+  ],
+  "types": [
+    "Dragon",
+    "Flying"
+  ]
+}

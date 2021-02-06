@@ -1,0 +1,15 @@
+{
+  "id": "416",
+  "name": "Vespiquen",
+  "number": 416,
+  "forms": [
+    {
+      "name": "Normal",
+      "code": "normal"
+    }
+  ],
+  "types": [
+    "Bug",
+    "Flying"
+  ]
+}

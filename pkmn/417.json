@@ -1,0 +1,14 @@
+{
+  "id": "417",
+  "name": "Pachirisu",
+  "number": 417,
+  "forms": [
+    {
+      "name": "Normal",
+      "code": "normal"
+    }
+  ],
+  "types": [
+    "Electric"
+  ]
+}

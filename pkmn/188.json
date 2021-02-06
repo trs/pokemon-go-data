@@ -1,0 +1,15 @@
+{
+  "id": "188",
+  "name": "Skiploom",
+  "number": 188,
+  "forms": [
+    {
+      "name": "Normal",
+      "code": "normal"
+    }
+  ],
+  "types": [
+    "Grass",
+    "Flying"
+  ]
+}

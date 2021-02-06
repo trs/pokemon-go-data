@@ -1,0 +1,14 @@
+{
+  "id": "455",
+  "name": "Carnivine",
+  "number": 455,
+  "forms": [
+    {
+      "name": "Normal",
+      "code": "normal"
+    }
+  ],
+  "types": [
+    "Grass"
+  ]
+}

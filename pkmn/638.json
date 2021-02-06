@@ -1,0 +1,15 @@
+{
+  "id": "638",
+  "name": "Cobalion",
+  "number": 638,
+  "forms": [
+    {
+      "name": "Normal",
+      "code": "normal"
+    }
+  ],
+  "types": [
+    "Steel",
+    "Fighting"
+  ]
+}

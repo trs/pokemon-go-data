@@ -1,0 +1,14 @@
+{
+  "id": "574",
+  "name": "Gothita",
+  "number": 574,
+  "forms": [
+    {
+      "name": "Normal",
+      "code": "normal"
+    }
+  ],
+  "types": [
+    "Psychic"
+  ]
+}

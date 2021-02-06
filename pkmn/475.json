@@ -1,0 +1,15 @@
+{
+  "id": "475",
+  "name": "Gallade",
+  "number": 475,
+  "forms": [
+    {
+      "name": "Normal",
+      "code": "normal"
+    }
+  ],
+  "types": [
+    "Psychic",
+    "Fighting"
+  ]
+}

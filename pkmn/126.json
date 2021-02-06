@@ -1,0 +1,14 @@
+{
+  "id": "126",
+  "name": "Magmar",
+  "number": 126,
+  "forms": [
+    {
+      "name": "Normal",
+      "code": "normal"
+    }
+  ],
+  "types": [
+    "Fire"
+  ]
+}

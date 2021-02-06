@@ -1,0 +1,15 @@
+{
+  "id": "307",
+  "name": "Meditite",
+  "number": 307,
+  "forms": [
+    {
+      "name": "Normal",
+      "code": "normal"
+    }
+  ],
+  "types": [
+    "Fighting",
+    "Psychic"
+  ]
+}

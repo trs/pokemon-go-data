@@ -1,0 +1,15 @@
+{
+  "id": "608",
+  "name": "Lampent",
+  "number": 608,
+  "forms": [
+    {
+      "name": "Normal",
+      "code": "normal"
+    }
+  ],
+  "types": [
+    "Ghost",
+    "Fire"
+  ]
+}

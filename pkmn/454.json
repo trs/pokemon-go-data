@@ -1,0 +1,15 @@
+{
+  "id": "454",
+  "name": "Toxicroak",
+  "number": 454,
+  "forms": [
+    {
+      "name": "Normal",
+      "code": "normal"
+    }
+  ],
+  "types": [
+    "Poison",
+    "Fighting"
+  ]
+}

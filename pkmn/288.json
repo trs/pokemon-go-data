@@ -1,0 +1,14 @@
+{
+  "id": "288",
+  "name": "Vigoroth",
+  "number": 288,
+  "forms": [
+    {
+      "name": "Normal",
+      "code": "normal"
+    }
+  ],
+  "types": [
+    "Normal"
+  ]
+}

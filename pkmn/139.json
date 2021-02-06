@@ -1,0 +1,15 @@
+{
+  "id": "139",
+  "name": "Omastar",
+  "number": 139,
+  "forms": [
+    {
+      "name": "Normal",
+      "code": "normal"
+    }
+  ],
+  "types": [
+    "Rock",
+    "Water"
+  ]
+}

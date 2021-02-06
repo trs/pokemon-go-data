@@ -1,0 +1,14 @@
+{
+  "id": "493-ghost",
+  "name": "Arceus",
+  "number": 493,
+  "forms": [
+    {
+      "name": "Ghost",
+      "code": "ghost"
+    }
+  ],
+  "types": [
+    "Ghost"
+  ]
+}

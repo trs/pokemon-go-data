@@ -1,0 +1,15 @@
+{
+  "id": "397",
+  "name": "Staravia",
+  "number": 397,
+  "forms": [
+    {
+      "name": "Normal",
+      "code": "normal"
+    }
+  ],
+  "types": [
+    "Normal",
+    "Flying"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "id": "393",
+  "name": "Piplup",
+  "number": 393,
+  "forms": [
+    {
+      "name": "Normal",
+      "code": "normal"
+    }
+  ],
+  "types": [
+    "Water"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": "862",
+  "name": "Obstagoon",
+  "number": 862,
+  "forms": [
+    {
+      "name": "Normal",
+      "code": "normal"
+    }
+  ],
+  "types": [
+    "Dark",
+    "Normal"
+  ]
+}

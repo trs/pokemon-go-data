@@ -1,0 +1,14 @@
+{
+  "id": "202",
+  "name": "Wobbuffet",
+  "number": 202,
+  "forms": [
+    {
+      "name": "Normal",
+      "code": "normal"
+    }
+  ],
+  "types": [
+    "Psychic"
+  ]
+}

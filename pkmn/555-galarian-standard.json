@@ -1,0 +1,18 @@
+{
+  "id": "555-galarian-standard",
+  "name": "Darmanitan",
+  "number": 555,
+  "forms": [
+    {
+      "name": "Galarian",
+      "code": "galarian"
+    },
+    {
+      "name": "Standard",
+      "code": "standard"
+    }
+  ],
+  "types": [
+    "Ice"
+  ]
+}

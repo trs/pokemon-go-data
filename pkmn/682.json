@@ -1,0 +1,14 @@
+{
+  "id": "682",
+  "name": "Spritzee",
+  "number": 682,
+  "forms": [
+    {
+      "name": "Normal",
+      "code": "normal"
+    }
+  ],
+  "types": [
+    "Fairy"
+  ]
+}

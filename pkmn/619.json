@@ -1,0 +1,14 @@
+{
+  "id": "619",
+  "name": "Mienfoo",
+  "number": 619,
+  "forms": [
+    {
+      "name": "Normal",
+      "code": "normal"
+    }
+  ],
+  "types": [
+    "Fighting"
+  ]
+}

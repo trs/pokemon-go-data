@@ -1,0 +1,14 @@
+{
+  "id": "412-trash",
+  "name": "Burmy",
+  "number": 412,
+  "forms": [
+    {
+      "name": "Trash",
+      "code": "trash"
+    }
+  ],
+  "types": [
+    "Bug"
+  ]
+}

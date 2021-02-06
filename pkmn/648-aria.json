@@ -1,0 +1,15 @@
+{
+  "id": "648-aria",
+  "name": "Meloetta",
+  "number": 648,
+  "forms": [
+    {
+      "name": "Aria",
+      "code": "aria"
+    }
+  ],
+  "types": [
+    "Normal",
+    "Psychic"
+  ]
+}

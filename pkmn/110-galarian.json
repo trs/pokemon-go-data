@@ -1,0 +1,15 @@
+{
+  "id": "110-galarian",
+  "name": "Weezing",
+  "number": 110,
+  "forms": [
+    {
+      "name": "Galarian",
+      "code": "galarian"
+    }
+  ],
+  "types": [
+    "Poison",
+    "Fairy"
+  ]
+}

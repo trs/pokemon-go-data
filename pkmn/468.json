@@ -1,0 +1,15 @@
+{
+  "id": "468",
+  "name": "Togekiss",
+  "number": 468,
+  "forms": [
+    {
+      "name": "Normal",
+      "code": "normal"
+    }
+  ],
+  "types": [
+    "Fairy",
+    "Flying"
+  ]
+}

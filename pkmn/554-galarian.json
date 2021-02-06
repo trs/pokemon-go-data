@@ -1,0 +1,14 @@
+{
+  "id": "554-galarian",
+  "name": "Darumaka",
+  "number": 554,
+  "forms": [
+    {
+      "name": "Galarian",
+      "code": "galarian"
+    }
+  ],
+  "types": [
+    "Ice"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": "389",
+  "name": "Torterra",
+  "number": 389,
+  "forms": [
+    {
+      "name": "Normal",
+      "code": "normal"
+    }
+  ],
+  "types": [
+    "Grass",
+    "Ground"
+  ]
+}

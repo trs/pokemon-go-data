@@ -1,0 +1,14 @@
+{
+  "id": "390",
+  "name": "Chimchar",
+  "number": 390,
+  "forms": [
+    {
+      "name": "Normal",
+      "code": "normal"
+    }
+  ],
+  "types": [
+    "Fire"
+  ]
+}

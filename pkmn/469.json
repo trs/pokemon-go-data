@@ -1,0 +1,15 @@
+{
+  "id": "469",
+  "name": "Yanmega",
+  "number": 469,
+  "forms": [
+    {
+      "name": "Normal",
+      "code": "normal"
+    }
+  ],
+  "types": [
+    "Bug",
+    "Flying"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "id": "603",
+  "name": "Eelektrik",
+  "number": 603,
+  "forms": [
+    {
+      "name": "Normal",
+      "code": "normal"
+    }
+  ],
+  "types": [
+    "Electric"
+  ]
+}

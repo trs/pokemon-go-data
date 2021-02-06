@@ -1,0 +1,14 @@
+{
+  "id": "33",
+  "name": "Nidorino",
+  "number": 33,
+  "forms": [
+    {
+      "name": "Normal",
+      "code": "normal"
+    }
+  ],
+  "types": [
+    "Poison"
+  ]
+}

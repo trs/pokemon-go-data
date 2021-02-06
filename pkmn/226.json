@@ -1,0 +1,15 @@
+{
+  "id": "226",
+  "name": "Mantine",
+  "number": 226,
+  "forms": [
+    {
+      "name": "Normal",
+      "code": "normal"
+    }
+  ],
+  "types": [
+    "Water",
+    "Flying"
+  ]
+}

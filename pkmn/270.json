@@ -1,0 +1,15 @@
+{
+  "id": "270",
+  "name": "Lotad",
+  "number": 270,
+  "forms": [
+    {
+      "name": "Normal",
+      "code": "normal"
+    }
+  ],
+  "types": [
+    "Water",
+    "Grass"
+  ]
+}

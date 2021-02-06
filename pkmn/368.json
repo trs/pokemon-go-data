@@ -1,0 +1,14 @@
+{
+  "id": "368",
+  "name": "Gorebyss",
+  "number": 368,
+  "forms": [
+    {
+      "name": "Normal",
+      "code": "normal"
+    }
+  ],
+  "types": [
+    "Water"
+  ]
+}

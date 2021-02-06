@@ -1,0 +1,14 @@
+{
+  "id": "353",
+  "name": "Shuppet",
+  "number": 353,
+  "forms": [
+    {
+      "name": "Normal",
+      "code": "normal"
+    }
+  ],
+  "types": [
+    "Ghost"
+  ]
+}

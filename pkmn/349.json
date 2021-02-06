@@ -1,0 +1,14 @@
+{
+  "id": "349",
+  "name": "Feebas",
+  "number": 349,
+  "forms": [
+    {
+      "name": "Normal",
+      "code": "normal"
+    }
+  ],
+  "types": [
+    "Water"
+  ]
+}

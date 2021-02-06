@@ -1,0 +1,14 @@
+{
+  "id": "160",
+  "name": "Feraligatr",
+  "number": 160,
+  "forms": [
+    {
+      "name": "Normal",
+      "code": "normal"
+    }
+  ],
+  "types": [
+    "Water"
+  ]
+}

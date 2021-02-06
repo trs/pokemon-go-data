@@ -1,0 +1,14 @@
+{
+  "id": "311",
+  "name": "Plusle",
+  "number": 311,
+  "forms": [
+    {
+      "name": "Normal",
+      "code": "normal"
+    }
+  ],
+  "types": [
+    "Electric"
+  ]
+}

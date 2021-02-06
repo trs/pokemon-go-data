@@ -1,0 +1,15 @@
+{
+  "id": "103-alola",
+  "name": "Exeggutor",
+  "number": 103,
+  "forms": [
+    {
+      "name": "Alola",
+      "code": "alola"
+    }
+  ],
+  "types": [
+    "Grass",
+    "Dragon"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "id": "486",
+  "name": "Regigigas",
+  "number": 486,
+  "forms": [
+    {
+      "name": "Normal",
+      "code": "normal"
+    }
+  ],
+  "types": [
+    "Normal"
+  ]
+}

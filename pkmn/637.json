@@ -1,0 +1,15 @@
+{
+  "id": "637",
+  "name": "Volcarona",
+  "number": 637,
+  "forms": [
+    {
+      "name": "Normal",
+      "code": "normal"
+    }
+  ],
+  "types": [
+    "Bug",
+    "Fire"
+  ]
+}

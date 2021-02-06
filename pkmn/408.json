@@ -1,0 +1,14 @@
+{
+  "id": "408",
+  "name": "Cranidos",
+  "number": 408,
+  "forms": [
+    {
+      "name": "Normal",
+      "code": "normal"
+    }
+  ],
+  "types": [
+    "Rock"
+  ]
+}

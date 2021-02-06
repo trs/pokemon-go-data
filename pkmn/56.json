@@ -1,0 +1,14 @@
+{
+  "id": "56",
+  "name": "Mankey",
+  "number": 56,
+  "forms": [
+    {
+      "name": "Normal",
+      "code": "normal"
+    }
+  ],
+  "types": [
+    "Fighting"
+  ]
+}

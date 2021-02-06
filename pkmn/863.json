@@ -1,0 +1,14 @@
+{
+  "id": "863",
+  "name": "Perrserker",
+  "number": 863,
+  "forms": [
+    {
+      "name": "Normal",
+      "code": "normal"
+    }
+  ],
+  "types": [
+    "Steel"
+  ]
+}

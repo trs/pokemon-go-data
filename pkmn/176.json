@@ -1,0 +1,15 @@
+{
+  "id": "176",
+  "name": "Togetic",
+  "number": 176,
+  "forms": [
+    {
+      "name": "Normal",
+      "code": "normal"
+    }
+  ],
+  "types": [
+    "Fairy",
+    "Flying"
+  ]
+}

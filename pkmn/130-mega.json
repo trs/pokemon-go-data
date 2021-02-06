@@ -1,0 +1,19 @@
+{
+  "id": "130-mega",
+  "name": "Gyarados",
+  "number": 130,
+  "forms": [
+    {
+      "name": "Normal",
+      "code": "normal"
+    },
+    {
+      "name": "Mega",
+      "code": "mega"
+    }
+  ],
+  "types": [
+    "Water",
+    "Dark"
+  ]
+}

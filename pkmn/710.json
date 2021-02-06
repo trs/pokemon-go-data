@@ -1,0 +1,15 @@
+{
+  "id": "710",
+  "name": "Pumpkaboo",
+  "number": 710,
+  "forms": [
+    {
+      "name": "Normal",
+      "code": "normal"
+    }
+  ],
+  "types": [
+    "Ghost",
+    "Grass"
+  ]
+}

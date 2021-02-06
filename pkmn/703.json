@@ -1,0 +1,15 @@
+{
+  "id": "703",
+  "name": "Carbink",
+  "number": 703,
+  "forms": [
+    {
+      "name": "Normal",
+      "code": "normal"
+    }
+  ],
+  "types": [
+    "Rock",
+    "Fairy"
+  ]
+}

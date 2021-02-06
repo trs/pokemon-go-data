@@ -1,0 +1,15 @@
+{
+  "id": "623",
+  "name": "Golurk",
+  "number": 623,
+  "forms": [
+    {
+      "name": "Normal",
+      "code": "normal"
+    }
+  ],
+  "types": [
+    "Ground",
+    "Ghost"
+  ]
+}

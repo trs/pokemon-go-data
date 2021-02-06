@@ -1,0 +1,14 @@
+{
+  "id": "705",
+  "name": "Sliggoo",
+  "number": 705,
+  "forms": [
+    {
+      "name": "Normal",
+      "code": "normal"
+    }
+  ],
+  "types": [
+    "Dragon"
+  ]
+}

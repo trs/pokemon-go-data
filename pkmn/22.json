@@ -1,0 +1,15 @@
+{
+  "id": "22",
+  "name": "Fearow",
+  "number": 22,
+  "forms": [
+    {
+      "name": "Normal",
+      "code": "normal"
+    }
+  ],
+  "types": [
+    "Normal",
+    "Flying"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": "479-heat",
+  "name": "Rotom",
+  "number": 479,
+  "forms": [
+    {
+      "name": "Heat",
+      "code": "heat"
+    }
+  ],
+  "types": [
+    "Electric",
+    "Fire"
+  ]
+}

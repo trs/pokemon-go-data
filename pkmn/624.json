@@ -1,0 +1,15 @@
+{
+  "id": "624",
+  "name": "Pawniard",
+  "number": 624,
+  "forms": [
+    {
+      "name": "Normal",
+      "code": "normal"
+    }
+  ],
+  "types": [
+    "Dark",
+    "Steel"
+  ]
+}

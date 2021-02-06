@@ -1,0 +1,14 @@
+{
+  "id": "554",
+  "name": "Darumaka",
+  "number": 554,
+  "forms": [
+    {
+      "name": "Normal",
+      "code": "normal"
+    }
+  ],
+  "types": [
+    "Fire"
+  ]
+}

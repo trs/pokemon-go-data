@@ -1,0 +1,14 @@
+{
+  "id": "716",
+  "name": "Xerneas",
+  "number": 716,
+  "forms": [
+    {
+      "name": "Normal",
+      "code": "normal"
+    }
+  ],
+  "types": [
+    "Fairy"
+  ]
+}

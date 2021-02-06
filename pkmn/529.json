@@ -1,0 +1,14 @@
+{
+  "id": "529",
+  "name": "Drilbur",
+  "number": 529,
+  "forms": [
+    {
+      "name": "Normal",
+      "code": "normal"
+    }
+  ],
+  "types": [
+    "Ground"
+  ]
+}

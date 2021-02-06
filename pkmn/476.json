@@ -1,0 +1,15 @@
+{
+  "id": "476",
+  "name": "Probopass",
+  "number": 476,
+  "forms": [
+    {
+      "name": "Normal",
+      "code": "normal"
+    }
+  ],
+  "types": [
+    "Rock",
+    "Steel"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": "625",
+  "name": "Bisharp",
+  "number": 625,
+  "forms": [
+    {
+      "name": "Normal",
+      "code": "normal"
+    }
+  ],
+  "types": [
+    "Dark",
+    "Steel"
+  ]
+}

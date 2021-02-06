@@ -1,0 +1,15 @@
+{
+  "id": "436",
+  "name": "Bronzor",
+  "number": 436,
+  "forms": [
+    {
+      "name": "Normal",
+      "code": "normal"
+    }
+  ],
+  "types": [
+    "Steel",
+    "Psychic"
+  ]
+}

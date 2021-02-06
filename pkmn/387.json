@@ -1,0 +1,14 @@
+{
+  "id": "387",
+  "name": "Turtwig",
+  "number": 387,
+  "forms": [
+    {
+      "name": "Normal",
+      "code": "normal"
+    }
+  ],
+  "types": [
+    "Grass"
+  ]
+}

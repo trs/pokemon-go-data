@@ -1,0 +1,14 @@
+{
+  "id": "134",
+  "name": "Vaporeon",
+  "number": 134,
+  "forms": [
+    {
+      "name": "Normal",
+      "code": "normal"
+    }
+  ],
+  "types": [
+    "Water"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "id": "295",
+  "name": "Exploud",
+  "number": 295,
+  "forms": [
+    {
+      "name": "Normal",
+      "code": "normal"
+    }
+  ],
+  "types": [
+    "Normal"
+  ]
+}

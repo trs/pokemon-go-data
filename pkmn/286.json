@@ -1,0 +1,15 @@
+{
+  "id": "286",
+  "name": "Breloom",
+  "number": 286,
+  "forms": [
+    {
+      "name": "Normal",
+      "code": "normal"
+    }
+  ],
+  "types": [
+    "Grass",
+    "Fighting"
+  ]
+}

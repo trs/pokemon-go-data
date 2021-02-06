@@ -1,0 +1,15 @@
+{
+  "id": "220",
+  "name": "Swinub",
+  "number": 220,
+  "forms": [
+    {
+      "name": "Normal",
+      "code": "normal"
+    }
+  ],
+  "types": [
+    "Ice",
+    "Ground"
+  ]
+}

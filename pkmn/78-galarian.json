@@ -1,0 +1,15 @@
+{
+  "id": "78-galarian",
+  "name": "Rapidash",
+  "number": 78,
+  "forms": [
+    {
+      "name": "Galarian",
+      "code": "galarian"
+    }
+  ],
+  "types": [
+    "Psychic",
+    "Fairy"
+  ]
+}

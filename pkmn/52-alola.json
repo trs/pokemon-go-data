@@ -1,0 +1,14 @@
+{
+  "id": "52-alola",
+  "name": "Meowth",
+  "number": 52,
+  "forms": [
+    {
+      "name": "Alola",
+      "code": "alola"
+    }
+  ],
+  "types": [
+    "Dark"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": "464",
+  "name": "Rhyperior",
+  "number": 464,
+  "forms": [
+    {
+      "name": "Normal",
+      "code": "normal"
+    }
+  ],
+  "types": [
+    "Ground",
+    "Rock"
+  ]
+}

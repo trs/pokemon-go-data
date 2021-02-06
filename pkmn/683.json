@@ -1,0 +1,14 @@
+{
+  "id": "683",
+  "name": "Aromatisse",
+  "number": 683,
+  "forms": [
+    {
+      "name": "Normal",
+      "code": "normal"
+    }
+  ],
+  "types": [
+    "Fairy"
+  ]
+}

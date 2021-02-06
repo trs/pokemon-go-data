@@ -1,0 +1,15 @@
+{
+  "id": "555-zen",
+  "name": "Darmanitan",
+  "number": 555,
+  "forms": [
+    {
+      "name": "Zen",
+      "code": "zen"
+    }
+  ],
+  "types": [
+    "Fire",
+    "Psychic"
+  ]
+}

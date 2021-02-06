@@ -1,0 +1,15 @@
+{
+  "id": "247",
+  "name": "Pupitar",
+  "number": 247,
+  "forms": [
+    {
+      "name": "Normal",
+      "code": "normal"
+    }
+  ],
+  "types": [
+    "Rock",
+    "Ground"
+  ]
+}

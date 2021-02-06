@@ -1,0 +1,15 @@
+{
+  "id": "88-alola",
+  "name": "Grimer",
+  "number": 88,
+  "forms": [
+    {
+      "name": "Alola",
+      "code": "alola"
+    }
+  ],
+  "types": [
+    "Poison",
+    "Dark"
+  ]
+}

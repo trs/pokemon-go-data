@@ -1,0 +1,15 @@
+{
+  "id": "451",
+  "name": "Skorupi",
+  "number": 451,
+  "forms": [
+    {
+      "name": "Normal",
+      "code": "normal"
+    }
+  ],
+  "types": [
+    "Poison",
+    "Bug"
+  ]
+}

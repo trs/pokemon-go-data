@@ -1,0 +1,15 @@
+{
+  "id": "303",
+  "name": "Mawile",
+  "number": 303,
+  "forms": [
+    {
+      "name": "Normal",
+      "code": "normal"
+    }
+  ],
+  "types": [
+    "Steel",
+    "Fairy"
+  ]
+}

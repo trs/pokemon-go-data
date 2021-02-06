@@ -1,0 +1,15 @@
+{
+  "id": "636",
+  "name": "Larvesta",
+  "number": 636,
+  "forms": [
+    {
+      "name": "Normal",
+      "code": "normal"
+    }
+  ],
+  "types": [
+    "Bug",
+    "Fire"
+  ]
+}

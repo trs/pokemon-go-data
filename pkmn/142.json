@@ -1,0 +1,15 @@
+{
+  "id": "142",
+  "name": "Aerodactyl",
+  "number": 142,
+  "forms": [
+    {
+      "name": "Normal",
+      "code": "normal"
+    }
+  ],
+  "types": [
+    "Rock",
+    "Flying"
+  ]
+}

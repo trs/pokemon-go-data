@@ -1,0 +1,15 @@
+{
+  "id": "376",
+  "name": "Metagross",
+  "number": 376,
+  "forms": [
+    {
+      "name": "Normal",
+      "code": "normal"
+    }
+  ],
+  "types": [
+    "Steel",
+    "Psychic"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "id": "612",
+  "name": "Haxorus",
+  "number": 612,
+  "forms": [
+    {
+      "name": "Normal",
+      "code": "normal"
+    }
+  ],
+  "types": [
+    "Dragon"
+  ]
+}

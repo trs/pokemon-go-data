@@ -1,0 +1,15 @@
+{
+  "id": "146",
+  "name": "Moltres",
+  "number": 146,
+  "forms": [
+    {
+      "name": "Normal",
+      "code": "normal"
+    }
+  ],
+  "types": [
+    "Fire",
+    "Flying"
+  ]
+}

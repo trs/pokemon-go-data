@@ -1,0 +1,15 @@
+{
+  "id": "44",
+  "name": "Gloom",
+  "number": 44,
+  "forms": [
+    {
+      "name": "Normal",
+      "code": "normal"
+    }
+  ],
+  "types": [
+    "Grass",
+    "Poison"
+  ]
+}

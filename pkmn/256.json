@@ -1,0 +1,15 @@
+{
+  "id": "256",
+  "name": "Combusken",
+  "number": 256,
+  "forms": [
+    {
+      "name": "Normal",
+      "code": "normal"
+    }
+  ],
+  "types": [
+    "Fire",
+    "Fighting"
+  ]
+}

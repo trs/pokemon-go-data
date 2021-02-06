@@ -1,0 +1,15 @@
+{
+  "id": "628",
+  "name": "Braviary",
+  "number": 628,
+  "forms": [
+    {
+      "name": "Normal",
+      "code": "normal"
+    }
+  ],
+  "types": [
+    "Normal",
+    "Flying"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "id": "350",
+  "name": "Milotic",
+  "number": 350,
+  "forms": [
+    {
+      "name": "Normal",
+      "code": "normal"
+    }
+  ],
+  "types": [
+    "Water"
+  ]
+}

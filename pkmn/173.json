@@ -1,0 +1,14 @@
+{
+  "id": "173",
+  "name": "Cleffa",
+  "number": 173,
+  "forms": [
+    {
+      "name": "Normal",
+      "code": "normal"
+    }
+  ],
+  "types": [
+    "Fairy"
+  ]
+}

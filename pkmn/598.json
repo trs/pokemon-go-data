@@ -1,0 +1,15 @@
+{
+  "id": "598",
+  "name": "Ferrothorn",
+  "number": 598,
+  "forms": [
+    {
+      "name": "Normal",
+      "code": "normal"
+    }
+  ],
+  "types": [
+    "Grass",
+    "Steel"
+  ]
+}

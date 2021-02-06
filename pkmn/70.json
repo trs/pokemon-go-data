@@ -1,0 +1,15 @@
+{
+  "id": "70",
+  "name": "Weepinbell",
+  "number": 70,
+  "forms": [
+    {
+      "name": "Normal",
+      "code": "normal"
+    }
+  ],
+  "types": [
+    "Grass",
+    "Poison"
+  ]
+}

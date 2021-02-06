@@ -1,0 +1,14 @@
+{
+  "id": "29",
+  "name": "Nidoran♀",
+  "number": 29,
+  "forms": [
+    {
+      "name": "Normal",
+      "code": "normal"
+    }
+  ],
+  "types": [
+    "Poison"
+  ]
+}

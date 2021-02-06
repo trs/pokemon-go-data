@@ -1,0 +1,15 @@
+{
+  "id": "222",
+  "name": "Corsola",
+  "number": 222,
+  "forms": [
+    {
+      "name": "Normal",
+      "code": "normal"
+    }
+  ],
+  "types": [
+    "Water",
+    "Rock"
+  ]
+}

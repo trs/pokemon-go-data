@@ -1,0 +1,14 @@
+{
+  "id": "420",
+  "name": "Cherubi",
+  "number": 420,
+  "forms": [
+    {
+      "name": "Normal",
+      "code": "normal"
+    }
+  ],
+  "types": [
+    "Grass"
+  ]
+}

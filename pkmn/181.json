@@ -1,0 +1,14 @@
+{
+  "id": "181",
+  "name": "Ampharos",
+  "number": 181,
+  "forms": [
+    {
+      "name": "Normal",
+      "code": "normal"
+    }
+  ],
+  "types": [
+    "Electric"
+  ]
+}

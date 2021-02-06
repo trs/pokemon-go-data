@@ -1,0 +1,15 @@
+{
+  "id": "462",
+  "name": "Magnezone",
+  "number": 462,
+  "forms": [
+    {
+      "name": "Normal",
+      "code": "normal"
+    }
+  ],
+  "types": [
+    "Electric",
+    "Steel"
+  ]
+}

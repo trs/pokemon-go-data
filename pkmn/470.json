@@ -1,0 +1,14 @@
+{
+  "id": "470",
+  "name": "Leafeon",
+  "number": 470,
+  "forms": [
+    {
+      "name": "Normal",
+      "code": "normal"
+    }
+  ],
+  "types": [
+    "Grass"
+  ]
+}

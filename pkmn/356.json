@@ -1,0 +1,14 @@
+{
+  "id": "356",
+  "name": "Dusclops",
+  "number": 356,
+  "forms": [
+    {
+      "name": "Normal",
+      "code": "normal"
+    }
+  ],
+  "types": [
+    "Ghost"
+  ]
+}

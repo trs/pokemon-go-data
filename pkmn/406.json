@@ -1,0 +1,15 @@
+{
+  "id": "406",
+  "name": "Budew",
+  "number": 406,
+  "forms": [
+    {
+      "name": "Normal",
+      "code": "normal"
+    }
+  ],
+  "types": [
+    "Grass",
+    "Poison"
+  ]
+}

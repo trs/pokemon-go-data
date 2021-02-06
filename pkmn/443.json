@@ -1,0 +1,15 @@
+{
+  "id": "443",
+  "name": "Gible",
+  "number": 443,
+  "forms": [
+    {
+      "name": "Normal",
+      "code": "normal"
+    }
+  ],
+  "types": [
+    "Dragon",
+    "Ground"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": "333",
+  "name": "Swablu",
+  "number": 333,
+  "forms": [
+    {
+      "name": "Normal",
+      "code": "normal"
+    }
+  ],
+  "types": [
+    "Normal",
+    "Flying"
+  ]
+}

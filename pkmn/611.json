@@ -1,0 +1,14 @@
+{
+  "id": "611",
+  "name": "Fraxure",
+  "number": 611,
+  "forms": [
+    {
+      "name": "Normal",
+      "code": "normal"
+    }
+  ],
+  "types": [
+    "Dragon"
+  ]
+}

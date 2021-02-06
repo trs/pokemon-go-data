@@ -1,0 +1,15 @@
+{
+  "id": "283",
+  "name": "Surskit",
+  "number": 283,
+  "forms": [
+    {
+      "name": "Normal",
+      "code": "normal"
+    }
+  ],
+  "types": [
+    "Bug",
+    "Water"
+  ]
+}

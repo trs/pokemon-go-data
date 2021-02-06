@@ -1,0 +1,15 @@
+{
+  "id": "170",
+  "name": "Chinchou",
+  "number": 170,
+  "forms": [
+    {
+      "name": "Normal",
+      "code": "normal"
+    }
+  ],
+  "types": [
+    "Water",
+    "Electric"
+  ]
+}

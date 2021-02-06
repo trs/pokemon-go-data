@@ -1,0 +1,15 @@
+{
+  "id": "340",
+  "name": "Whiscash",
+  "number": 340,
+  "forms": [
+    {
+      "name": "Normal",
+      "code": "normal"
+    }
+  ],
+  "types": [
+    "Water",
+    "Ground"
+  ]
+}

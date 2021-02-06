@@ -1,0 +1,14 @@
+{
+  "id": "432",
+  "name": "Purugly",
+  "number": 432,
+  "forms": [
+    {
+      "name": "Normal",
+      "code": "normal"
+    }
+  ],
+  "types": [
+    "Normal"
+  ]
+}

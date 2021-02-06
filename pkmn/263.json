@@ -1,0 +1,14 @@
+{
+  "id": "263",
+  "name": "Zigzagoon",
+  "number": 263,
+  "forms": [
+    {
+      "name": "Normal",
+      "code": "normal"
+    }
+  ],
+  "types": [
+    "Normal"
+  ]
+}

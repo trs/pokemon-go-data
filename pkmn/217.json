@@ -1,0 +1,14 @@
+{
+  "id": "217",
+  "name": "Ursaring",
+  "number": 217,
+  "forms": [
+    {
+      "name": "Normal",
+      "code": "normal"
+    }
+  ],
+  "types": [
+    "Normal"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": "373",
+  "name": "Salamence",
+  "number": 373,
+  "forms": [
+    {
+      "name": "Normal",
+      "code": "normal"
+    }
+  ],
+  "types": [
+    "Dragon",
+    "Flying"
+  ]
+}

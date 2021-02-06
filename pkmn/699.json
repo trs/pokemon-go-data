@@ -1,0 +1,15 @@
+{
+  "id": "699",
+  "name": "Aurorus",
+  "number": 699,
+  "forms": [
+    {
+      "name": "Normal",
+      "code": "normal"
+    }
+  ],
+  "types": [
+    "Rock",
+    "Ice"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": "334",
+  "name": "Altaria",
+  "number": 334,
+  "forms": [
+    {
+      "name": "Normal",
+      "code": "normal"
+    }
+  ],
+  "types": [
+    "Dragon",
+    "Flying"
+  ]
+}

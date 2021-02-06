@@ -1,0 +1,15 @@
+{
+  "id": "291",
+  "name": "Ninjask",
+  "number": 291,
+  "forms": [
+    {
+      "name": "Normal",
+      "code": "normal"
+    }
+  ],
+  "types": [
+    "Bug",
+    "Flying"
+  ]
+}

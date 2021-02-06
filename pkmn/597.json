@@ -1,0 +1,15 @@
+{
+  "id": "597",
+  "name": "Ferroseed",
+  "number": 597,
+  "forms": [
+    {
+      "name": "Normal",
+      "code": "normal"
+    }
+  ],
+  "types": [
+    "Grass",
+    "Steel"
+  ]
+}

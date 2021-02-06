@@ -1,0 +1,15 @@
+{
+  "id": "344",
+  "name": "Claydol",
+  "number": 344,
+  "forms": [
+    {
+      "name": "Normal",
+      "code": "normal"
+    }
+  ],
+  "types": [
+    "Ground",
+    "Psychic"
+  ]
+}

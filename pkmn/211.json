@@ -1,0 +1,15 @@
+{
+  "id": "211",
+  "name": "Qwilfish",
+  "number": 211,
+  "forms": [
+    {
+      "name": "Normal",
+      "code": "normal"
+    }
+  ],
+  "types": [
+    "Water",
+    "Poison"
+  ]
+}

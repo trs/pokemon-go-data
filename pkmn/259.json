@@ -1,0 +1,15 @@
+{
+  "id": "259",
+  "name": "Marshtomp",
+  "number": 259,
+  "forms": [
+    {
+      "name": "Normal",
+      "code": "normal"
+    }
+  ],
+  "types": [
+    "Water",
+    "Ground"
+  ]
+}

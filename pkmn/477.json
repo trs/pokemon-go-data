@@ -1,0 +1,14 @@
+{
+  "id": "477",
+  "name": "Dusknoir",
+  "number": 477,
+  "forms": [
+    {
+      "name": "Normal",
+      "code": "normal"
+    }
+  ],
+  "types": [
+    "Ghost"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "id": "490",
+  "name": "Manaphy",
+  "number": 490,
+  "forms": [
+    {
+      "name": "Normal",
+      "code": "normal"
+    }
+  ],
+  "types": [
+    "Water"
+  ]
+}

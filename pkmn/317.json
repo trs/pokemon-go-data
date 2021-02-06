@@ -1,0 +1,14 @@
+{
+  "id": "317",
+  "name": "Swalot",
+  "number": 317,
+  "forms": [
+    {
+      "name": "Normal",
+      "code": "normal"
+    }
+  ],
+  "types": [
+    "Poison"
+  ]
+}

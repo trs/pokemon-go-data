@@ -1,0 +1,14 @@
+{
+  "id": "150",
+  "name": "Mewtwo",
+  "number": 150,
+  "forms": [
+    {
+      "name": "Normal",
+      "code": "normal"
+    }
+  ],
+  "types": [
+    "Psychic"
+  ]
+}

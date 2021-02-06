@@ -1,0 +1,14 @@
+{
+  "id": "379",
+  "name": "Registeel",
+  "number": 379,
+  "forms": [
+    {
+      "name": "Normal",
+      "code": "normal"
+    }
+  ],
+  "types": [
+    "Steel"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": "662",
+  "name": "Fletchinder",
+  "number": 662,
+  "forms": [
+    {
+      "name": "Normal",
+      "code": "normal"
+    }
+  ],
+  "types": [
+    "Fire",
+    "Flying"
+  ]
+}

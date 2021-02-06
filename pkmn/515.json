@@ -1,0 +1,14 @@
+{
+  "id": "515",
+  "name": "Panpour",
+  "number": 515,
+  "forms": [
+    {
+      "name": "Normal",
+      "code": "normal"
+    }
+  ],
+  "types": [
+    "Water"
+  ]
+}

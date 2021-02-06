@@ -1,0 +1,15 @@
+{
+  "id": "520",
+  "name": "Tranquill",
+  "number": 520,
+  "forms": [
+    {
+      "name": "Normal",
+      "code": "normal"
+    }
+  ],
+  "types": [
+    "Normal",
+    "Flying"
+  ]
+}

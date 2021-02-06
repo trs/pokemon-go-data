@@ -1,0 +1,14 @@
+{
+  "id": "522",
+  "name": "Blitzle",
+  "number": 522,
+  "forms": [
+    {
+      "name": "Normal",
+      "code": "normal"
+    }
+  ],
+  "types": [
+    "Electric"
+  ]
+}

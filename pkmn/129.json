@@ -1,0 +1,14 @@
+{
+  "id": "129",
+  "name": "Magikarp",
+  "number": 129,
+  "forms": [
+    {
+      "name": "Normal",
+      "code": "normal"
+    }
+  ],
+  "types": [
+    "Water"
+  ]
+}

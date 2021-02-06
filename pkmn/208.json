@@ -1,0 +1,15 @@
+{
+  "id": "208",
+  "name": "Steelix",
+  "number": 208,
+  "forms": [
+    {
+      "name": "Normal",
+      "code": "normal"
+    }
+  ],
+  "types": [
+    "Steel",
+    "Ground"
+  ]
+}

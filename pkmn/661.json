@@ -1,0 +1,15 @@
+{
+  "id": "661",
+  "name": "Fletchling",
+  "number": 661,
+  "forms": [
+    {
+      "name": "Normal",
+      "code": "normal"
+    }
+  ],
+  "types": [
+    "Normal",
+    "Flying"
+  ]
+}

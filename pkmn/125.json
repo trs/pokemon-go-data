@@ -1,0 +1,14 @@
+{
+  "id": "125",
+  "name": "Electabuzz",
+  "number": 125,
+  "forms": [
+    {
+      "name": "Normal",
+      "code": "normal"
+    }
+  ],
+  "types": [
+    "Electric"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "id": "358",
+  "name": "Chimecho",
+  "number": 358,
+  "forms": [
+    {
+      "name": "Normal",
+      "code": "normal"
+    }
+  ],
+  "types": [
+    "Psychic"
+  ]
+}

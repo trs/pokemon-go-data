@@ -1,0 +1,15 @@
+{
+  "id": "15",
+  "name": "Beedrill",
+  "number": 15,
+  "forms": [
+    {
+      "name": "Normal",
+      "code": "normal"
+    }
+  ],
+  "types": [
+    "Bug",
+    "Poison"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "id": "117",
+  "name": "Seadra",
+  "number": 117,
+  "forms": [
+    {
+      "name": "Normal",
+      "code": "normal"
+    }
+  ],
+  "types": [
+    "Water"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": "473",
+  "name": "Mamoswine",
+  "number": 473,
+  "forms": [
+    {
+      "name": "Normal",
+      "code": "normal"
+    }
+  ],
+  "types": [
+    "Ice",
+    "Ground"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": "343",
+  "name": "Baltoy",
+  "number": 343,
+  "forms": [
+    {
+      "name": "Normal",
+      "code": "normal"
+    }
+  ],
+  "types": [
+    "Ground",
+    "Psychic"
+  ]
+}

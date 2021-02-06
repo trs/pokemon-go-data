@@ -1,0 +1,14 @@
+{
+  "id": "491",
+  "name": "Darkrai",
+  "number": 491,
+  "forms": [
+    {
+      "name": "Normal",
+      "code": "normal"
+    }
+  ],
+  "types": [
+    "Dark"
+  ]
+}

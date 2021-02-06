@@ -1,0 +1,18 @@
+{
+  "id": "9-mega",
+  "name": "Blastoise",
+  "number": 9,
+  "forms": [
+    {
+      "name": "Normal",
+      "code": "normal"
+    },
+    {
+      "name": "Mega",
+      "code": "mega"
+    }
+  ],
+  "types": [
+    "Water"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": "330",
+  "name": "Flygon",
+  "number": 330,
+  "forms": [
+    {
+      "name": "Normal",
+      "code": "normal"
+    }
+  ],
+  "types": [
+    "Ground",
+    "Dragon"
+  ]
+}

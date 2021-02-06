@@ -1,0 +1,14 @@
+{
+  "id": "481",
+  "name": "Mesprit",
+  "number": 481,
+  "forms": [
+    {
+      "name": "Normal",
+      "code": "normal"
+    }
+  ],
+  "types": [
+    "Psychic"
+  ]
+}

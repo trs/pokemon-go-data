@@ -1,0 +1,15 @@
+{
+  "id": "413-plant",
+  "name": "Wormadam",
+  "number": 413,
+  "forms": [
+    {
+      "name": "Plant",
+      "code": "plant"
+    }
+  ],
+  "types": [
+    "Bug",
+    "Grass"
+  ]
+}

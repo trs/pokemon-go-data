@@ -1,0 +1,15 @@
+{
+  "id": "392",
+  "name": "Infernape",
+  "number": 392,
+  "forms": [
+    {
+      "name": "Normal",
+      "code": "normal"
+    }
+  ],
+  "types": [
+    "Fire",
+    "Fighting"
+  ]
+}

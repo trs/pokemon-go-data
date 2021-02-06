@@ -1,0 +1,15 @@
+{
+  "id": "479-mow",
+  "name": "Rotom",
+  "number": 479,
+  "forms": [
+    {
+      "name": "Mow",
+      "code": "mow"
+    }
+  ],
+  "types": [
+    "Electric",
+    "Grass"
+  ]
+}

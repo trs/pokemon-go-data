@@ -1,0 +1,15 @@
+{
+  "id": "187",
+  "name": "Hoppip",
+  "number": 187,
+  "forms": [
+    {
+      "name": "Normal",
+      "code": "normal"
+    }
+  ],
+  "types": [
+    "Grass",
+    "Flying"
+  ]
+}

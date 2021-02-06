@@ -1,0 +1,14 @@
+{
+  "id": "433",
+  "name": "Chingling",
+  "number": 433,
+  "forms": [
+    {
+      "name": "Normal",
+      "code": "normal"
+    }
+  ],
+  "types": [
+    "Psychic"
+  ]
+}

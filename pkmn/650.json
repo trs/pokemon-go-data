@@ -1,0 +1,14 @@
+{
+  "id": "650",
+  "name": "Chespin",
+  "number": 650,
+  "forms": [
+    {
+      "name": "Normal",
+      "code": "normal"
+    }
+  ],
+  "types": [
+    "Grass"
+  ]
+}

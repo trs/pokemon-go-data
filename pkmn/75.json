@@ -1,0 +1,15 @@
+{
+  "id": "75",
+  "name": "Graveler",
+  "number": 75,
+  "forms": [
+    {
+      "name": "Normal",
+      "code": "normal"
+    }
+  ],
+  "types": [
+    "Rock",
+    "Ground"
+  ]
+}

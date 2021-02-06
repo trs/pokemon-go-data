@@ -1,0 +1,15 @@
+{
+  "id": "711",
+  "name": "Gourgeist",
+  "number": 711,
+  "forms": [
+    {
+      "name": "Normal",
+      "code": "normal"
+    }
+  ],
+  "types": [
+    "Ghost",
+    "Grass"
+  ]
+}

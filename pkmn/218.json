@@ -1,0 +1,14 @@
+{
+  "id": "218",
+  "name": "Slugma",
+  "number": 218,
+  "forms": [
+    {
+      "name": "Normal",
+      "code": "normal"
+    }
+  ],
+  "types": [
+    "Fire"
+  ]
+}

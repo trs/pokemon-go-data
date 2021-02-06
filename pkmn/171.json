@@ -1,0 +1,15 @@
+{
+  "id": "171",
+  "name": "Lanturn",
+  "number": 171,
+  "forms": [
+    {
+      "name": "Normal",
+      "code": "normal"
+    }
+  ],
+  "types": [
+    "Water",
+    "Electric"
+  ]
+}

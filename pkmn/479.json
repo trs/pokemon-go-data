@@ -1,0 +1,15 @@
+{
+  "id": "479",
+  "name": "Rotom",
+  "number": 479,
+  "forms": [
+    {
+      "name": "Normal",
+      "code": "normal"
+    }
+  ],
+  "types": [
+    "Electric",
+    "Ghost"
+  ]
+}

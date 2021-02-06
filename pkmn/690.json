@@ -1,0 +1,15 @@
+{
+  "id": "690",
+  "name": "Skrelp",
+  "number": 690,
+  "forms": [
+    {
+      "name": "Normal",
+      "code": "normal"
+    }
+  ],
+  "types": [
+    "Poison",
+    "Water"
+  ]
+}

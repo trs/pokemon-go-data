@@ -1,0 +1,15 @@
+{
+  "id": "866",
+  "name": "Mr. Rime",
+  "number": 866,
+  "forms": [
+    {
+      "name": "Normal",
+      "code": "normal"
+    }
+  ],
+  "types": [
+    "Ice",
+    "Psychic"
+  ]
+}

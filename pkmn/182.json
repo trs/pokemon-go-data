@@ -1,0 +1,14 @@
+{
+  "id": "182",
+  "name": "Bellossom",
+  "number": 182,
+  "forms": [
+    {
+      "name": "Normal",
+      "code": "normal"
+    }
+  ],
+  "types": [
+    "Grass"
+  ]
+}

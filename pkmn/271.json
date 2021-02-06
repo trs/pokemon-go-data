@@ -1,0 +1,15 @@
+{
+  "id": "271",
+  "name": "Lombre",
+  "number": 271,
+  "forms": [
+    {
+      "name": "Normal",
+      "code": "normal"
+    }
+  ],
+  "types": [
+    "Water",
+    "Grass"
+  ]
+}

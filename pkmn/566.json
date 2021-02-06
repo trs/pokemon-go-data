@@ -1,0 +1,15 @@
+{
+  "id": "566",
+  "name": "Archen",
+  "number": 566,
+  "forms": [
+    {
+      "name": "Normal",
+      "code": "normal"
+    }
+  ],
+  "types": [
+    "Rock",
+    "Flying"
+  ]
+}

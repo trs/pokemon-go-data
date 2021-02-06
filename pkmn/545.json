@@ -1,0 +1,15 @@
+{
+  "id": "545",
+  "name": "Scolipede",
+  "number": 545,
+  "forms": [
+    {
+      "name": "Normal",
+      "code": "normal"
+    }
+  ],
+  "types": [
+    "Bug",
+    "Poison"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "id": "26",
+  "name": "Raichu",
+  "number": 26,
+  "forms": [
+    {
+      "name": "Normal",
+      "code": "normal"
+    }
+  ],
+  "types": [
+    "Electric"
+  ]
+}

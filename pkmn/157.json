@@ -1,0 +1,14 @@
+{
+  "id": "157",
+  "name": "Typhlosion",
+  "number": 157,
+  "forms": [
+    {
+      "name": "Normal",
+      "code": "normal"
+    }
+  ],
+  "types": [
+    "Fire"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": "2",
+  "name": "Ivysaur",
+  "number": 2,
+  "forms": [
+    {
+      "name": "Normal",
+      "code": "normal"
+    }
+  ],
+  "types": [
+    "Grass",
+    "Poison"
+  ]
+}

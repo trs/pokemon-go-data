@@ -1,0 +1,15 @@
+{
+  "id": "413-trash",
+  "name": "Wormadam",
+  "number": 413,
+  "forms": [
+    {
+      "name": "Trash",
+      "code": "trash"
+    }
+  ],
+  "types": [
+    "Bug",
+    "Steel"
+  ]
+}

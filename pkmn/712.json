@@ -1,0 +1,14 @@
+{
+  "id": "712",
+  "name": "Bergmite",
+  "number": 712,
+  "forms": [
+    {
+      "name": "Normal",
+      "code": "normal"
+    }
+  ],
+  "types": [
+    "Ice"
+  ]
+}

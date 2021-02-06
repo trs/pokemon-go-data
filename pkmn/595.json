@@ -1,0 +1,15 @@
+{
+  "id": "595",
+  "name": "Joltik",
+  "number": 595,
+  "forms": [
+    {
+      "name": "Normal",
+      "code": "normal"
+    }
+  ],
+  "types": [
+    "Bug",
+    "Electric"
+  ]
+}

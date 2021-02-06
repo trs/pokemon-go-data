@@ -1,0 +1,14 @@
+{
+  "id": "38",
+  "name": "Ninetales",
+  "number": 38,
+  "forms": [
+    {
+      "name": "Normal",
+      "code": "normal"
+    }
+  ],
+  "types": [
+    "Fire"
+  ]
+}

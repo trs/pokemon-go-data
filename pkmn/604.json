@@ -1,0 +1,14 @@
+{
+  "id": "604",
+  "name": "Eelektross",
+  "number": 604,
+  "forms": [
+    {
+      "name": "Normal",
+      "code": "normal"
+    }
+  ],
+  "types": [
+    "Electric"
+  ]
+}

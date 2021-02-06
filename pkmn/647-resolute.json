@@ -1,0 +1,15 @@
+{
+  "id": "647-resolute",
+  "name": "Keldeo",
+  "number": 647,
+  "forms": [
+    {
+      "name": "Resolute",
+      "code": "resolute"
+    }
+  ],
+  "types": [
+    "Water",
+    "Fighting"
+  ]
+}

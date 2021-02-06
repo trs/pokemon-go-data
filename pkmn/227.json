@@ -1,0 +1,15 @@
+{
+  "id": "227",
+  "name": "Skarmory",
+  "number": 227,
+  "forms": [
+    {
+      "name": "Normal",
+      "code": "normal"
+    }
+  ],
+  "types": [
+    "Steel",
+    "Flying"
+  ]
+}

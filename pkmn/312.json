@@ -1,0 +1,14 @@
+{
+  "id": "312",
+  "name": "Minun",
+  "number": 312,
+  "forms": [
+    {
+      "name": "Normal",
+      "code": "normal"
+    }
+  ],
+  "types": [
+    "Electric"
+  ]
+}

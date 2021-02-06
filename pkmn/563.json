@@ -1,0 +1,14 @@
+{
+  "id": "563",
+  "name": "Cofagrigus",
+  "number": 563,
+  "forms": [
+    {
+      "name": "Normal",
+      "code": "normal"
+    }
+  ],
+  "types": [
+    "Ghost"
+  ]
+}

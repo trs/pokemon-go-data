@@ -1,0 +1,14 @@
+{
+  "id": "152",
+  "name": "Chikorita",
+  "number": 152,
+  "forms": [
+    {
+      "name": "Normal",
+      "code": "normal"
+    }
+  ],
+  "types": [
+    "Grass"
+  ]
+}

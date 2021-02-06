@@ -1,0 +1,14 @@
+{
+  "id": "388",
+  "name": "Grotle",
+  "number": 388,
+  "forms": [
+    {
+      "name": "Normal",
+      "code": "normal"
+    }
+  ],
+  "types": [
+    "Grass"
+  ]
+}

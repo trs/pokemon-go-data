@@ -1,0 +1,15 @@
+{
+  "id": "95",
+  "name": "Onix",
+  "number": 95,
+  "forms": [
+    {
+      "name": "Normal",
+      "code": "normal"
+    }
+  ],
+  "types": [
+    "Rock",
+    "Ground"
+  ]
+}

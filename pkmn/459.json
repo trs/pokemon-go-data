@@ -1,0 +1,15 @@
+{
+  "id": "459",
+  "name": "Snover",
+  "number": 459,
+  "forms": [
+    {
+      "name": "Normal",
+      "code": "normal"
+    }
+  ],
+  "types": [
+    "Grass",
+    "Ice"
+  ]
+}

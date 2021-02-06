@@ -1,0 +1,15 @@
+{
+  "id": "219",
+  "name": "Magcargo",
+  "number": 219,
+  "forms": [
+    {
+      "name": "Normal",
+      "code": "normal"
+    }
+  ],
+  "types": [
+    "Fire",
+    "Rock"
+  ]
+}

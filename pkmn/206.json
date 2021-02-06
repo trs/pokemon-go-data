@@ -1,0 +1,14 @@
+{
+  "id": "206",
+  "name": "Dunsparce",
+  "number": 206,
+  "forms": [
+    {
+      "name": "Normal",
+      "code": "normal"
+    }
+  ],
+  "types": [
+    "Normal"
+  ]
+}

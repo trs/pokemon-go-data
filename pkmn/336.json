@@ -1,0 +1,14 @@
+{
+  "id": "336",
+  "name": "Seviper",
+  "number": 336,
+  "forms": [
+    {
+      "name": "Normal",
+      "code": "normal"
+    }
+  ],
+  "types": [
+    "Poison"
+  ]
+}

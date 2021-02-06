@@ -1,0 +1,14 @@
+{
+  "id": "110",
+  "name": "Weezing",
+  "number": 110,
+  "forms": [
+    {
+      "name": "Normal",
+      "code": "normal"
+    }
+  ],
+  "types": [
+    "Poison"
+  ]
+}

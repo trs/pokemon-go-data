@@ -1,0 +1,15 @@
+{
+  "id": "655",
+  "name": "Delphox",
+  "number": 655,
+  "forms": [
+    {
+      "name": "Normal",
+      "code": "normal"
+    }
+  ],
+  "types": [
+    "Fire",
+    "Psychic"
+  ]
+}

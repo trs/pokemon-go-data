@@ -1,0 +1,15 @@
+{
+  "id": "123",
+  "name": "Scyther",
+  "number": 123,
+  "forms": [
+    {
+      "name": "Normal",
+      "code": "normal"
+    }
+  ],
+  "types": [
+    "Bug",
+    "Flying"
+  ]
+}

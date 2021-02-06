@@ -1,0 +1,15 @@
+{
+  "id": "42",
+  "name": "Golbat",
+  "number": 42,
+  "forms": [
+    {
+      "name": "Normal",
+      "code": "normal"
+    }
+  ],
+  "types": [
+    "Poison",
+    "Flying"
+  ]
+}

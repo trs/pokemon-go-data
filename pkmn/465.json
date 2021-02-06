@@ -1,0 +1,14 @@
+{
+  "id": "465",
+  "name": "Tangrowth",
+  "number": 465,
+  "forms": [
+    {
+      "name": "Normal",
+      "code": "normal"
+    }
+  ],
+  "types": [
+    "Grass"
+  ]
+}

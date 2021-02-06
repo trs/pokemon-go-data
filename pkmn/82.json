@@ -1,0 +1,15 @@
+{
+  "id": "82",
+  "name": "Magneton",
+  "number": 82,
+  "forms": [
+    {
+      "name": "Normal",
+      "code": "normal"
+    }
+  ],
+  "types": [
+    "Electric",
+    "Steel"
+  ]
+}

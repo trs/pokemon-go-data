@@ -1,0 +1,14 @@
+{
+  "id": "626",
+  "name": "Bouffalant",
+  "number": 626,
+  "forms": [
+    {
+      "name": "Normal",
+      "code": "normal"
+    }
+  ],
+  "types": [
+    "Normal"
+  ]
+}

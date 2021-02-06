@@ -1,0 +1,14 @@
+{
+  "id": "651",
+  "name": "Quilladin",
+  "number": 651,
+  "forms": [
+    {
+      "name": "Normal",
+      "code": "normal"
+    }
+  ],
+  "types": [
+    "Grass"
+  ]
+}

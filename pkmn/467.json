@@ -1,0 +1,14 @@
+{
+  "id": "467",
+  "name": "Magmortar",
+  "number": 467,
+  "forms": [
+    {
+      "name": "Normal",
+      "code": "normal"
+    }
+  ],
+  "types": [
+    "Fire"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": "149",
+  "name": "Dragonite",
+  "number": 149,
+  "forms": [
+    {
+      "name": "Normal",
+      "code": "normal"
+    }
+  ],
+  "types": [
+    "Dragon",
+    "Flying"
+  ]
+}

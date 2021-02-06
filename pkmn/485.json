@@ -1,0 +1,15 @@
+{
+  "id": "485",
+  "name": "Heatran",
+  "number": 485,
+  "forms": [
+    {
+      "name": "Normal",
+      "code": "normal"
+    }
+  ],
+  "types": [
+    "Fire",
+    "Steel"
+  ]
+}

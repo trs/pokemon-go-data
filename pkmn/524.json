@@ -1,0 +1,14 @@
+{
+  "id": "524",
+  "name": "Roggenrola",
+  "number": 524,
+  "forms": [
+    {
+      "name": "Normal",
+      "code": "normal"
+    }
+  ],
+  "types": [
+    "Rock"
+  ]
+}

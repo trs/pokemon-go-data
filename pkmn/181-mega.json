@@ -1,0 +1,19 @@
+{
+  "id": "181-mega",
+  "name": "Ampharos",
+  "number": 181,
+  "forms": [
+    {
+      "name": "Normal",
+      "code": "normal"
+    },
+    {
+      "name": "Mega",
+      "code": "mega"
+    }
+  ],
+  "types": [
+    "Electric",
+    "Dragon"
+  ]
+}

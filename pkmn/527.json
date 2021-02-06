@@ -1,0 +1,15 @@
+{
+  "id": "527",
+  "name": "Woobat",
+  "number": 527,
+  "forms": [
+    {
+      "name": "Normal",
+      "code": "normal"
+    }
+  ],
+  "types": [
+    "Psychic",
+    "Flying"
+  ]
+}

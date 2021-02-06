@@ -1,0 +1,15 @@
+{
+  "id": "645-therian",
+  "name": "Landorus",
+  "number": 645,
+  "forms": [
+    {
+      "name": "Therian",
+      "code": "therian"
+    }
+  ],
+  "types": [
+    "Ground",
+    "Flying"
+  ]
+}

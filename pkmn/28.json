@@ -1,0 +1,14 @@
+{
+  "id": "28",
+  "name": "Sandslash",
+  "number": 28,
+  "forms": [
+    {
+      "name": "Normal",
+      "code": "normal"
+    }
+  ],
+  "types": [
+    "Ground"
+  ]
+}

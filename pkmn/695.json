@@ -1,0 +1,15 @@
+{
+  "id": "695",
+  "name": "Heliolisk",
+  "number": 695,
+  "forms": [
+    {
+      "name": "Normal",
+      "code": "normal"
+    }
+  ],
+  "types": [
+    "Electric",
+    "Normal"
+  ]
+}

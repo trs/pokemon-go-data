@@ -1,0 +1,15 @@
+{
+  "id": "707",
+  "name": "Klefki",
+  "number": 707,
+  "forms": [
+    {
+      "name": "Normal",
+      "code": "normal"
+    }
+  ],
+  "types": [
+    "Steel",
+    "Fairy"
+  ]
+}

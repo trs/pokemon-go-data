@@ -1,0 +1,15 @@
+{
+  "id": "195",
+  "name": "Quagsire",
+  "number": 195,
+  "forms": [
+    {
+      "name": "Normal",
+      "code": "normal"
+    }
+  ],
+  "types": [
+    "Water",
+    "Ground"
+  ]
+}

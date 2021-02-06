@@ -1,0 +1,14 @@
+{
+  "id": "119",
+  "name": "Seaking",
+  "number": 119,
+  "forms": [
+    {
+      "name": "Normal",
+      "code": "normal"
+    }
+  ],
+  "types": [
+    "Water"
+  ]
+}

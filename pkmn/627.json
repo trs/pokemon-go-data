@@ -1,0 +1,15 @@
+{
+  "id": "627",
+  "name": "Rufflet",
+  "number": 627,
+  "forms": [
+    {
+      "name": "Normal",
+      "code": "normal"
+    }
+  ],
+  "types": [
+    "Normal",
+    "Flying"
+  ]
+}

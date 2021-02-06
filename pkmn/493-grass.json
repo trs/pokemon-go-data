@@ -1,0 +1,14 @@
+{
+  "id": "493-grass",
+  "name": "Arceus",
+  "number": 493,
+  "forms": [
+    {
+      "name": "Grass",
+      "code": "grass"
+    }
+  ],
+  "types": [
+    "Grass"
+  ]
+}

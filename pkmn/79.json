@@ -1,0 +1,15 @@
+{
+  "id": "79",
+  "name": "Slowpoke",
+  "number": 79,
+  "forms": [
+    {
+      "name": "Normal",
+      "code": "normal"
+    }
+  ],
+  "types": [
+    "Water",
+    "Psychic"
+  ]
+}

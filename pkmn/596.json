@@ -1,0 +1,15 @@
+{
+  "id": "596",
+  "name": "Galvantula",
+  "number": 596,
+  "forms": [
+    {
+      "name": "Normal",
+      "code": "normal"
+    }
+  ],
+  "types": [
+    "Bug",
+    "Electric"
+  ]
+}

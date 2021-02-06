@@ -1,0 +1,14 @@
+{
+  "id": "383",
+  "name": "Groudon",
+  "number": 383,
+  "forms": [
+    {
+      "name": "Normal",
+      "code": "normal"
+    }
+  ],
+  "types": [
+    "Ground"
+  ]
+}

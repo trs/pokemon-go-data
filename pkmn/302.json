@@ -1,0 +1,15 @@
+{
+  "id": "302",
+  "name": "Sableye",
+  "number": 302,
+  "forms": [
+    {
+      "name": "Normal",
+      "code": "normal"
+    }
+  ],
+  "types": [
+    "Dark",
+    "Ghost"
+  ]
+}

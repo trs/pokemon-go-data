@@ -1,0 +1,14 @@
+{
+  "id": "669",
+  "name": "Flabébé",
+  "number": 669,
+  "forms": [
+    {
+      "name": "Normal",
+      "code": "normal"
+    }
+  ],
+  "types": [
+    "Fairy"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": "205",
+  "name": "Forretress",
+  "number": 205,
+  "forms": [
+    {
+      "name": "Normal",
+      "code": "normal"
+    }
+  ],
+  "types": [
+    "Bug",
+    "Steel"
+  ]
+}

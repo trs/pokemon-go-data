@@ -1,0 +1,14 @@
+{
+  "id": "57",
+  "name": "Primeape",
+  "number": 57,
+  "forms": [
+    {
+      "name": "Normal",
+      "code": "normal"
+    }
+  ],
+  "types": [
+    "Fighting"
+  ]
+}

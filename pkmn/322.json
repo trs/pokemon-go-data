@@ -1,0 +1,15 @@
+{
+  "id": "322",
+  "name": "Numel",
+  "number": 322,
+  "forms": [
+    {
+      "name": "Normal",
+      "code": "normal"
+    }
+  ],
+  "types": [
+    "Fire",
+    "Ground"
+  ]
+}

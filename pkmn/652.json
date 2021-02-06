@@ -1,0 +1,15 @@
+{
+  "id": "652",
+  "name": "Chesnaught",
+  "number": 652,
+  "forms": [
+    {
+      "name": "Normal",
+      "code": "normal"
+    }
+  ],
+  "types": [
+    "Grass",
+    "Fighting"
+  ]
+}

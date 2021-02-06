@@ -1,0 +1,15 @@
+{
+  "id": "168",
+  "name": "Ariados",
+  "number": 168,
+  "forms": [
+    {
+      "name": "Normal",
+      "code": "normal"
+    }
+  ],
+  "types": [
+    "Bug",
+    "Poison"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "id": "351-snowy",
+  "name": "Castform",
+  "number": 351,
+  "forms": [
+    {
+      "name": "Snowy",
+      "code": "snowy"
+    }
+  ],
+  "types": [
+    "Ice"
+  ]
+}

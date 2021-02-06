@@ -1,0 +1,15 @@
+{
+  "id": "536",
+  "name": "Palpitoad",
+  "number": 536,
+  "forms": [
+    {
+      "name": "Normal",
+      "code": "normal"
+    }
+  ],
+  "types": [
+    "Water",
+    "Ground"
+  ]
+}

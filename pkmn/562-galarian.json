@@ -1,0 +1,15 @@
+{
+  "id": "562-galarian",
+  "name": "Yamask",
+  "number": 562,
+  "forms": [
+    {
+      "name": "Galarian",
+      "code": "galarian"
+    }
+  ],
+  "types": [
+    "Ground",
+    "Ghost"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": "43",
+  "name": "Oddish",
+  "number": 43,
+  "forms": [
+    {
+      "name": "Normal",
+      "code": "normal"
+    }
+  ],
+  "types": [
+    "Grass",
+    "Poison"
+  ]
+}

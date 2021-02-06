@@ -1,0 +1,14 @@
+{
+  "id": "107",
+  "name": "Hitmonchan",
+  "number": 107,
+  "forms": [
+    {
+      "name": "Normal",
+      "code": "normal"
+    }
+  ],
+  "types": [
+    "Fighting"
+  ]
+}

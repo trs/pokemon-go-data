@@ -1,0 +1,15 @@
+{
+  "id": "319",
+  "name": "Sharpedo",
+  "number": 319,
+  "forms": [
+    {
+      "name": "Normal",
+      "code": "normal"
+    }
+  ],
+  "types": [
+    "Water",
+    "Dark"
+  ]
+}

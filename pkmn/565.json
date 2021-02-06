@@ -1,0 +1,15 @@
+{
+  "id": "565",
+  "name": "Carracosta",
+  "number": 565,
+  "forms": [
+    {
+      "name": "Normal",
+      "code": "normal"
+    }
+  ],
+  "types": [
+    "Water",
+    "Rock"
+  ]
+}

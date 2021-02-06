@@ -1,0 +1,15 @@
+{
+  "id": "423-east-sea",
+  "name": "Gastrodon",
+  "number": 423,
+  "forms": [
+    {
+      "name": "East Sea",
+      "code": "east-sea"
+    }
+  ],
+  "types": [
+    "Water",
+    "Ground"
+  ]
+}

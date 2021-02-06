@@ -1,0 +1,14 @@
+{
+  "id": "525",
+  "name": "Boldore",
+  "number": 525,
+  "forms": [
+    {
+      "name": "Normal",
+      "code": "normal"
+    }
+  ],
+  "types": [
+    "Rock"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": "646",
+  "name": "Kyurem",
+  "number": 646,
+  "forms": [
+    {
+      "name": "Normal",
+      "code": "normal"
+    }
+  ],
+  "types": [
+    "Dragon",
+    "Ice"
+  ]
+}

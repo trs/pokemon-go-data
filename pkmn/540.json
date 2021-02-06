@@ -1,0 +1,15 @@
+{
+  "id": "540",
+  "name": "Sewaddle",
+  "number": 540,
+  "forms": [
+    {
+      "name": "Normal",
+      "code": "normal"
+    }
+  ],
+  "types": [
+    "Bug",
+    "Grass"
+  ]
+}

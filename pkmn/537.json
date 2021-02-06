@@ -1,0 +1,15 @@
+{
+  "id": "537",
+  "name": "Seismitoad",
+  "number": 537,
+  "forms": [
+    {
+      "name": "Normal",
+      "code": "normal"
+    }
+  ],
+  "types": [
+    "Water",
+    "Ground"
+  ]
+}

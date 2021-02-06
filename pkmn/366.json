@@ -1,0 +1,14 @@
+{
+  "id": "366",
+  "name": "Clamperl",
+  "number": 366,
+  "forms": [
+    {
+      "name": "Normal",
+      "code": "normal"
+    }
+  ],
+  "types": [
+    "Water"
+  ]
+}

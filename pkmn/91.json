@@ -1,0 +1,15 @@
+{
+  "id": "91",
+  "name": "Cloyster",
+  "number": 91,
+  "forms": [
+    {
+      "name": "Normal",
+      "code": "normal"
+    }
+  ],
+  "types": [
+    "Water",
+    "Ice"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": "73",
+  "name": "Tentacruel",
+  "number": 73,
+  "forms": [
+    {
+      "name": "Normal",
+      "code": "normal"
+    }
+  ],
+  "types": [
+    "Water",
+    "Poison"
+  ]
+}

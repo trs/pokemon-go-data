@@ -1,0 +1,15 @@
+{
+  "id": "494",
+  "name": "Victini",
+  "number": 494,
+  "forms": [
+    {
+      "name": "Normal",
+      "code": "normal"
+    }
+  ],
+  "types": [
+    "Psychic",
+    "Fire"
+  ]
+}

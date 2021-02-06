@@ -1,0 +1,14 @@
+{
+  "id": "97",
+  "name": "Hypno",
+  "number": 97,
+  "forms": [
+    {
+      "name": "Normal",
+      "code": "normal"
+    }
+  ],
+  "types": [
+    "Psychic"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "id": "310",
+  "name": "Manectric",
+  "number": 310,
+  "forms": [
+    {
+      "name": "Normal",
+      "code": "normal"
+    }
+  ],
+  "types": [
+    "Electric"
+  ]
+}

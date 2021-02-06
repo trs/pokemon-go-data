@@ -1,0 +1,15 @@
+{
+  "id": "339",
+  "name": "Barboach",
+  "number": 339,
+  "forms": [
+    {
+      "name": "Normal",
+      "code": "normal"
+    }
+  ],
+  "types": [
+    "Water",
+    "Ground"
+  ]
+}

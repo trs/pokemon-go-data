@@ -1,0 +1,14 @@
+{
+  "id": "555-standard",
+  "name": "Darmanitan",
+  "number": 555,
+  "forms": [
+    {
+      "name": "Standard",
+      "code": "standard"
+    }
+  ],
+  "types": [
+    "Fire"
+  ]
+}

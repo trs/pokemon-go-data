@@ -1,0 +1,14 @@
+{
+  "id": "254",
+  "name": "Sceptile",
+  "number": 254,
+  "forms": [
+    {
+      "name": "Normal",
+      "code": "normal"
+    }
+  ],
+  "types": [
+    "Grass"
+  ]
+}

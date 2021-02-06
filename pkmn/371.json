@@ -1,0 +1,14 @@
+{
+  "id": "371",
+  "name": "Bagon",
+  "number": 371,
+  "forms": [
+    {
+      "name": "Normal",
+      "code": "normal"
+    }
+  ],
+  "types": [
+    "Dragon"
+  ]
+}

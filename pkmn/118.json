@@ -1,0 +1,14 @@
+{
+  "id": "118",
+  "name": "Goldeen",
+  "number": 118,
+  "forms": [
+    {
+      "name": "Normal",
+      "code": "normal"
+    }
+  ],
+  "types": [
+    "Water"
+  ]
+}

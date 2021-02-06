@@ -1,0 +1,14 @@
+{
+  "id": "538",
+  "name": "Throh",
+  "number": 538,
+  "forms": [
+    {
+      "name": "Normal",
+      "code": "normal"
+    }
+  ],
+  "types": [
+    "Fighting"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": "500",
+  "name": "Emboar",
+  "number": 500,
+  "forms": [
+    {
+      "name": "Normal",
+      "code": "normal"
+    }
+  ],
+  "types": [
+    "Fire",
+    "Fighting"
+  ]
+}

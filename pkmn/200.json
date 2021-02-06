@@ -1,0 +1,14 @@
+{
+  "id": "200",
+  "name": "Misdreavus",
+  "number": 200,
+  "forms": [
+    {
+      "name": "Normal",
+      "code": "normal"
+    }
+  ],
+  "types": [
+    "Ghost"
+  ]
+}

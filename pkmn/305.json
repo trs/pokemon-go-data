@@ -1,0 +1,15 @@
+{
+  "id": "305",
+  "name": "Lairon",
+  "number": 305,
+  "forms": [
+    {
+      "name": "Normal",
+      "code": "normal"
+    }
+  ],
+  "types": [
+    "Steel",
+    "Rock"
+  ]
+}

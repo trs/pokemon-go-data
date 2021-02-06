@@ -1,0 +1,15 @@
+{
+  "id": "448",
+  "name": "Lucario",
+  "number": 448,
+  "forms": [
+    {
+      "name": "Normal",
+      "code": "normal"
+    }
+  ],
+  "types": [
+    "Fighting",
+    "Steel"
+  ]
+}

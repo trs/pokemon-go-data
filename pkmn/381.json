@@ -1,0 +1,15 @@
+{
+  "id": "381",
+  "name": "Latios",
+  "number": 381,
+  "forms": [
+    {
+      "name": "Normal",
+      "code": "normal"
+    }
+  ],
+  "types": [
+    "Dragon",
+    "Psychic"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "id": "301",
+  "name": "Delcatty",
+  "number": 301,
+  "forms": [
+    {
+      "name": "Normal",
+      "code": "normal"
+    }
+  ],
+  "types": [
+    "Normal"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": "479-wash",
+  "name": "Rotom",
+  "number": 479,
+  "forms": [
+    {
+      "name": "Wash",
+      "code": "wash"
+    }
+  ],
+  "types": [
+    "Electric",
+    "Water"
+  ]
+}

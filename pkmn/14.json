@@ -1,0 +1,15 @@
+{
+  "id": "14",
+  "name": "Kakuna",
+  "number": 14,
+  "forms": [
+    {
+      "name": "Normal",
+      "code": "normal"
+    }
+  ],
+  "types": [
+    "Bug",
+    "Poison"
+  ]
+}

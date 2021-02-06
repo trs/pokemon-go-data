@@ -1,0 +1,14 @@
+{
+  "id": "493-fairy",
+  "name": "Arceus",
+  "number": 493,
+  "forms": [
+    {
+      "name": "Fairy",
+      "code": "fairy"
+    }
+  ],
+  "types": [
+    "Fairy"
+  ]
+}

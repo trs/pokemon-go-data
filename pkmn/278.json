@@ -1,0 +1,15 @@
+{
+  "id": "278",
+  "name": "Wingull",
+  "number": 278,
+  "forms": [
+    {
+      "name": "Normal",
+      "code": "normal"
+    }
+  ],
+  "types": [
+    "Water",
+    "Flying"
+  ]
+}

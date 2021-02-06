@@ -1,0 +1,14 @@
+{
+  "id": "674",
+  "name": "Pancham",
+  "number": 674,
+  "forms": [
+    {
+      "name": "Normal",
+      "code": "normal"
+    }
+  ],
+  "types": [
+    "Fighting"
+  ]
+}

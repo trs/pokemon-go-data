@@ -1,0 +1,15 @@
+{
+  "id": "87",
+  "name": "Dewgong",
+  "number": 87,
+  "forms": [
+    {
+      "name": "Normal",
+      "code": "normal"
+    }
+  ],
+  "types": [
+    "Water",
+    "Ice"
+  ]
+}

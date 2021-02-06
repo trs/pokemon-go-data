@@ -1,0 +1,14 @@
+{
+  "id": "241",
+  "name": "Miltank",
+  "number": 241,
+  "forms": [
+    {
+      "name": "Normal",
+      "code": "normal"
+    }
+  ],
+  "types": [
+    "Normal"
+  ]
+}

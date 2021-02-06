@@ -1,0 +1,15 @@
+{
+  "id": "663",
+  "name": "Talonflame",
+  "number": 663,
+  "forms": [
+    {
+      "name": "Normal",
+      "code": "normal"
+    }
+  ],
+  "types": [
+    "Fire",
+    "Flying"
+  ]
+}

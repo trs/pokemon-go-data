@@ -1,0 +1,15 @@
+{
+  "id": "642-incarnate",
+  "name": "Thundurus",
+  "number": 642,
+  "forms": [
+    {
+      "name": "Incarnate",
+      "code": "incarnate"
+    }
+  ],
+  "types": [
+    "Electric",
+    "Flying"
+  ]
+}

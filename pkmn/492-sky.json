@@ -1,0 +1,15 @@
+{
+  "id": "492-sky",
+  "name": "Shaymin",
+  "number": 492,
+  "forms": [
+    {
+      "name": "Sky",
+      "code": "sky"
+    }
+  ],
+  "types": [
+    "Grass",
+    "Flying"
+  ]
+}

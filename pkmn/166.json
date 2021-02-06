@@ -1,0 +1,15 @@
+{
+  "id": "166",
+  "name": "Ledian",
+  "number": 166,
+  "forms": [
+    {
+      "name": "Normal",
+      "code": "normal"
+    }
+  ],
+  "types": [
+    "Bug",
+    "Flying"
+  ]
+}

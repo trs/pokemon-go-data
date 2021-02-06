@@ -1,0 +1,15 @@
+{
+  "id": "228",
+  "name": "Houndour",
+  "number": 228,
+  "forms": [
+    {
+      "name": "Normal",
+      "code": "normal"
+    }
+  ],
+  "types": [
+    "Dark",
+    "Fire"
+  ]
+}

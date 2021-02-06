@@ -1,0 +1,15 @@
+{
+  "id": "640",
+  "name": "Virizion",
+  "number": 640,
+  "forms": [
+    {
+      "name": "Normal",
+      "code": "normal"
+    }
+  ],
+  "types": [
+    "Grass",
+    "Fighting"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": "315",
+  "name": "Roselia",
+  "number": 315,
+  "forms": [
+    {
+      "name": "Normal",
+      "code": "normal"
+    }
+  ],
+  "types": [
+    "Grass",
+    "Poison"
+  ]
+}

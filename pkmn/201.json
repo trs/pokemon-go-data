@@ -1,0 +1,14 @@
+{
+  "id": "201",
+  "name": "Unown",
+  "number": 201,
+  "forms": [
+    {
+      "name": "Normal",
+      "code": "normal"
+    }
+  ],
+  "types": [
+    "Psychic"
+  ]
+}

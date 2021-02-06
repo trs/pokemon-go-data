@@ -1,0 +1,15 @@
+{
+  "id": "131",
+  "name": "Lapras",
+  "number": 131,
+  "forms": [
+    {
+      "name": "Normal",
+      "code": "normal"
+    }
+  ],
+  "types": [
+    "Water",
+    "Ice"
+  ]
+}

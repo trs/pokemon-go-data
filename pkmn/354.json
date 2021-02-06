@@ -1,0 +1,14 @@
+{
+  "id": "354",
+  "name": "Banette",
+  "number": 354,
+  "forms": [
+    {
+      "name": "Normal",
+      "code": "normal"
+    }
+  ],
+  "types": [
+    "Ghost"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": "642-therian",
+  "name": "Thundurus",
+  "number": 642,
+  "forms": [
+    {
+      "name": "Therian",
+      "code": "therian"
+    }
+  ],
+  "types": [
+    "Electric",
+    "Flying"
+  ]
+}

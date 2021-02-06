@@ -1,0 +1,19 @@
+{
+  "id": "229-mega",
+  "name": "Houndoom",
+  "number": 229,
+  "forms": [
+    {
+      "name": "Normal",
+      "code": "normal"
+    },
+    {
+      "name": "Mega",
+      "code": "mega"
+    }
+  ],
+  "types": [
+    "Dark",
+    "Fire"
+  ]
+}

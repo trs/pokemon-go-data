@@ -1,0 +1,14 @@
+{
+  "id": "412-plant",
+  "name": "Burmy",
+  "number": 412,
+  "forms": [
+    {
+      "name": "Plant",
+      "code": "plant"
+    }
+  ],
+  "types": [
+    "Bug"
+  ]
+}

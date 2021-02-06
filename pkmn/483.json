@@ -1,0 +1,15 @@
+{
+  "id": "483",
+  "name": "Dialga",
+  "number": 483,
+  "forms": [
+    {
+      "name": "Normal",
+      "code": "normal"
+    }
+  ],
+  "types": [
+    "Steel",
+    "Dragon"
+  ]
+}

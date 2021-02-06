@@ -1,0 +1,14 @@
+{
+  "id": "588",
+  "name": "Karrablast",
+  "number": 588,
+  "forms": [
+    {
+      "name": "Normal",
+      "code": "normal"
+    }
+  ],
+  "types": [
+    "Bug"
+  ]
+}

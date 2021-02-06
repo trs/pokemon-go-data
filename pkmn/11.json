@@ -1,0 +1,14 @@
+{
+  "id": "11",
+  "name": "Metapod",
+  "number": 11,
+  "forms": [
+    {
+      "name": "Normal",
+      "code": "normal"
+    }
+  ],
+  "types": [
+    "Bug"
+  ]
+}

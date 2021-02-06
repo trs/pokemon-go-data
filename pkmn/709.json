@@ -1,0 +1,15 @@
+{
+  "id": "709",
+  "name": "Trevenant",
+  "number": 709,
+  "forms": [
+    {
+      "name": "Normal",
+      "code": "normal"
+    }
+  ],
+  "types": [
+    "Ghost",
+    "Grass"
+  ]
+}

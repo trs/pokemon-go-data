@@ -1,0 +1,14 @@
+{
+  "id": "351",
+  "name": "Castform",
+  "number": 351,
+  "forms": [
+    {
+      "name": "Normal",
+      "code": "normal"
+    }
+  ],
+  "types": [
+    "Normal"
+  ]
+}

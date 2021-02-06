@@ -1,0 +1,14 @@
+{
+  "id": "512",
+  "name": "Simisage",
+  "number": 512,
+  "forms": [
+    {
+      "name": "Normal",
+      "code": "normal"
+    }
+  ],
+  "types": [
+    "Grass"
+  ]
+}

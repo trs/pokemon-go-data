@@ -1,0 +1,14 @@
+{
+  "id": "466",
+  "name": "Electivire",
+  "number": 466,
+  "forms": [
+    {
+      "name": "Normal",
+      "code": "normal"
+    }
+  ],
+  "types": [
+    "Electric"
+  ]
+}

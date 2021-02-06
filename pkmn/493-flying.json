@@ -1,0 +1,14 @@
+{
+  "id": "493-flying",
+  "name": "Arceus",
+  "number": 493,
+  "forms": [
+    {
+      "name": "Flying",
+      "code": "flying"
+    }
+  ],
+  "types": [
+    "Flying"
+  ]
+}

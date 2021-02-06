@@ -1,0 +1,14 @@
+{
+  "id": "341",
+  "name": "Corphish",
+  "number": 341,
+  "forms": [
+    {
+      "name": "Normal",
+      "code": "normal"
+    }
+  ],
+  "types": [
+    "Water"
+  ]
+}

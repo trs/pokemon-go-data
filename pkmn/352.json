@@ -1,0 +1,14 @@
+{
+  "id": "352",
+  "name": "Kecleon",
+  "number": 352,
+  "forms": [
+    {
+      "name": "Normal",
+      "code": "normal"
+    }
+  ],
+  "types": [
+    "Normal"
+  ]
+}

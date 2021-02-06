@@ -1,0 +1,14 @@
+{
+  "id": "101",
+  "name": "Electrode",
+  "number": 101,
+  "forms": [
+    {
+      "name": "Normal",
+      "code": "normal"
+    }
+  ],
+  "types": [
+    "Electric"
+  ]
+}

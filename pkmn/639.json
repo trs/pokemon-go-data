@@ -1,0 +1,15 @@
+{
+  "id": "639",
+  "name": "Terrakion",
+  "number": 639,
+  "forms": [
+    {
+      "name": "Normal",
+      "code": "normal"
+    }
+  ],
+  "types": [
+    "Rock",
+    "Fighting"
+  ]
+}

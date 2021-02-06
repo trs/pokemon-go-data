@@ -1,0 +1,15 @@
+{
+  "id": "49",
+  "name": "Venomoth",
+  "number": 49,
+  "forms": [
+    {
+      "name": "Normal",
+      "code": "normal"
+    }
+  ],
+  "types": [
+    "Bug",
+    "Poison"
+  ]
+}

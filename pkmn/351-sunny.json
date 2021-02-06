@@ -1,0 +1,14 @@
+{
+  "id": "351-sunny",
+  "name": "Castform",
+  "number": 351,
+  "forms": [
+    {
+      "name": "Sunny",
+      "code": "sunny"
+    }
+  ],
+  "types": [
+    "Fire"
+  ]
+}

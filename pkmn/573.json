@@ -1,0 +1,14 @@
+{
+  "id": "573",
+  "name": "Cinccino",
+  "number": 573,
+  "forms": [
+    {
+      "name": "Normal",
+      "code": "normal"
+    }
+  ],
+  "types": [
+    "Normal"
+  ]
+}

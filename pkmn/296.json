@@ -1,0 +1,14 @@
+{
+  "id": "296",
+  "name": "Makuhita",
+  "number": 296,
+  "forms": [
+    {
+      "name": "Normal",
+      "code": "normal"
+    }
+  ],
+  "types": [
+    "Fighting"
+  ]
+}

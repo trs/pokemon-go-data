@@ -1,0 +1,15 @@
+{
+  "id": "461",
+  "name": "Weavile",
+  "number": 461,
+  "forms": [
+    {
+      "name": "Normal",
+      "code": "normal"
+    }
+  ],
+  "types": [
+    "Dark",
+    "Ice"
+  ]
+}

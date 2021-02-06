@@ -1,0 +1,14 @@
+{
+  "id": "659",
+  "name": "Bunnelby",
+  "number": 659,
+  "forms": [
+    {
+      "name": "Normal",
+      "code": "normal"
+    }
+  ],
+  "types": [
+    "Normal"
+  ]
+}

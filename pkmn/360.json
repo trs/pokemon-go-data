@@ -1,0 +1,14 @@
+{
+  "id": "360",
+  "name": "Wynaut",
+  "number": 360,
+  "forms": [
+    {
+      "name": "Normal",
+      "code": "normal"
+    }
+  ],
+  "types": [
+    "Psychic"
+  ]
+}

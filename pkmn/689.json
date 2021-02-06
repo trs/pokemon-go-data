@@ -1,0 +1,15 @@
+{
+  "id": "689",
+  "name": "Barbaracle",
+  "number": 689,
+  "forms": [
+    {
+      "name": "Normal",
+      "code": "normal"
+    }
+  ],
+  "types": [
+    "Rock",
+    "Water"
+  ]
+}

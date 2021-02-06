@@ -1,0 +1,19 @@
+{
+  "id": "94-mega",
+  "name": "Gengar",
+  "number": 94,
+  "forms": [
+    {
+      "name": "Normal",
+      "code": "normal"
+    },
+    {
+      "name": "Mega",
+      "code": "mega"
+    }
+  ],
+  "types": [
+    "Ghost",
+    "Poison"
+  ]
+}

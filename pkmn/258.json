@@ -1,0 +1,14 @@
+{
+  "id": "258",
+  "name": "Mudkip",
+  "number": 258,
+  "forms": [
+    {
+      "name": "Normal",
+      "code": "normal"
+    }
+  ],
+  "types": [
+    "Water"
+  ]
+}

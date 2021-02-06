@@ -1,0 +1,14 @@
+{
+  "id": "602",
+  "name": "Tynamo",
+  "number": 602,
+  "forms": [
+    {
+      "name": "Normal",
+      "code": "normal"
+    }
+  ],
+  "types": [
+    "Electric"
+  ]
+}

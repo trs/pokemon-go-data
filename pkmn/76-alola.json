@@ -1,0 +1,15 @@
+{
+  "id": "76-alola",
+  "name": "Golem",
+  "number": 76,
+  "forms": [
+    {
+      "name": "Alola",
+      "code": "alola"
+    }
+  ],
+  "types": [
+    "Rock",
+    "Electric"
+  ]
+}

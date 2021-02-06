@@ -1,0 +1,14 @@
+{
+  "id": "412-sandy",
+  "name": "Burmy",
+  "number": 412,
+  "forms": [
+    {
+      "name": "Sandy",
+      "code": "sandy"
+    }
+  ],
+  "types": [
+    "Bug"
+  ]
+}

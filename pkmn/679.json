@@ -1,0 +1,15 @@
+{
+  "id": "679",
+  "name": "Honedge",
+  "number": 679,
+  "forms": [
+    {
+      "name": "Normal",
+      "code": "normal"
+    }
+  ],
+  "types": [
+    "Steel",
+    "Ghost"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "id": "106",
+  "name": "Hitmonlee",
+  "number": 106,
+  "forms": [
+    {
+      "name": "Normal",
+      "code": "normal"
+    }
+  ],
+  "types": [
+    "Fighting"
+  ]
+}

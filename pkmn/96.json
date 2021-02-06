@@ -1,0 +1,14 @@
+{
+  "id": "96",
+  "name": "Drowzee",
+  "number": 96,
+  "forms": [
+    {
+      "name": "Normal",
+      "code": "normal"
+    }
+  ],
+  "types": [
+    "Psychic"
+  ]
+}

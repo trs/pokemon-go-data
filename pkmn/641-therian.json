@@ -1,0 +1,14 @@
+{
+  "id": "641-therian",
+  "name": "Tornadus",
+  "number": 641,
+  "forms": [
+    {
+      "name": "Therian",
+      "code": "therian"
+    }
+  ],
+  "types": [
+    "Flying"
+  ]
+}

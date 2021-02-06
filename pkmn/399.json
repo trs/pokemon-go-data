@@ -1,0 +1,14 @@
+{
+  "id": "399",
+  "name": "Bidoof",
+  "number": 399,
+  "forms": [
+    {
+      "name": "Normal",
+      "code": "normal"
+    }
+  ],
+  "types": [
+    "Normal"
+  ]
+}

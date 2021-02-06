@@ -1,0 +1,15 @@
+{
+  "id": "586-spring",
+  "name": "Sawsbuck",
+  "number": 586,
+  "forms": [
+    {
+      "name": "Spring",
+      "code": "spring"
+    }
+  ],
+  "types": [
+    "Normal",
+    "Grass"
+  ]
+}

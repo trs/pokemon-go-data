@@ -1,0 +1,15 @@
+{
+  "id": "593-female",
+  "name": "Jellicent",
+  "number": 593,
+  "forms": [
+    {
+      "name": "Female",
+      "code": "female"
+    }
+  ],
+  "types": [
+    "Water",
+    "Ghost"
+  ]
+}

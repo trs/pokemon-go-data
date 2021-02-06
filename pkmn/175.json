@@ -1,0 +1,14 @@
+{
+  "id": "175",
+  "name": "Togepi",
+  "number": 175,
+  "forms": [
+    {
+      "name": "Normal",
+      "code": "normal"
+    }
+  ],
+  "types": [
+    "Fairy"
+  ]
+}

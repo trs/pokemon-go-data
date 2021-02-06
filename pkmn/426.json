@@ -1,0 +1,15 @@
+{
+  "id": "426",
+  "name": "Drifblim",
+  "number": 426,
+  "forms": [
+    {
+      "name": "Normal",
+      "code": "normal"
+    }
+  ],
+  "types": [
+    "Ghost",
+    "Flying"
+  ]
+}

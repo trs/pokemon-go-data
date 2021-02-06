@@ -1,0 +1,15 @@
+{
+  "id": "306",
+  "name": "Aggron",
+  "number": 306,
+  "forms": [
+    {
+      "name": "Normal",
+      "code": "normal"
+    }
+  ],
+  "types": [
+    "Steel",
+    "Rock"
+  ]
+}

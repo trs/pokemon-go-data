@@ -1,0 +1,14 @@
+{
+  "id": "514",
+  "name": "Simisear",
+  "number": 514,
+  "forms": [
+    {
+      "name": "Normal",
+      "code": "normal"
+    }
+  ],
+  "types": [
+    "Fire"
+  ]
+}

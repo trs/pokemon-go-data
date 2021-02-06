@@ -1,0 +1,14 @@
+{
+  "id": "808",
+  "name": "Meltan",
+  "number": 808,
+  "forms": [
+    {
+      "name": "Normal",
+      "code": "normal"
+    }
+  ],
+  "types": [
+    "Steel"
+  ]
+}

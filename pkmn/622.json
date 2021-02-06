@@ -1,0 +1,15 @@
+{
+  "id": "622",
+  "name": "Golett",
+  "number": 622,
+  "forms": [
+    {
+      "name": "Normal",
+      "code": "normal"
+    }
+  ],
+  "types": [
+    "Ground",
+    "Ghost"
+  ]
+}

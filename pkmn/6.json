@@ -1,0 +1,15 @@
+{
+  "id": "6",
+  "name": "Charizard",
+  "number": 6,
+  "forms": [
+    {
+      "name": "Normal",
+      "code": "normal"
+    }
+  ],
+  "types": [
+    "Fire",
+    "Flying"
+  ]
+}

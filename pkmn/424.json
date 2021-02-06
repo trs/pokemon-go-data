@@ -1,0 +1,14 @@
+{
+  "id": "424",
+  "name": "Ambipom",
+  "number": 424,
+  "forms": [
+    {
+      "name": "Normal",
+      "code": "normal"
+    }
+  ],
+  "types": [
+    "Normal"
+  ]
+}

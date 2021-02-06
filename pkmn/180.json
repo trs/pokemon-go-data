@@ -1,0 +1,14 @@
+{
+  "id": "180",
+  "name": "Flaaffy",
+  "number": 180,
+  "forms": [
+    {
+      "name": "Normal",
+      "code": "normal"
+    }
+  ],
+  "types": [
+    "Electric"
+  ]
+}

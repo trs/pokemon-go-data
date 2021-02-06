@@ -1,0 +1,19 @@
+{
+  "id": "460-mega",
+  "name": "Abomasnow",
+  "number": 460,
+  "forms": [
+    {
+      "name": "Normal",
+      "code": "normal"
+    },
+    {
+      "name": "Mega",
+      "code": "mega"
+    }
+  ],
+  "types": [
+    "Grass",
+    "Ice"
+  ]
+}

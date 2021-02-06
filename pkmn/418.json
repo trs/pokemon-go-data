@@ -1,0 +1,14 @@
+{
+  "id": "418",
+  "name": "Buizel",
+  "number": 418,
+  "forms": [
+    {
+      "name": "Normal",
+      "code": "normal"
+    }
+  ],
+  "types": [
+    "Water"
+  ]
+}

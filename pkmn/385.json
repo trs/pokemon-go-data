@@ -1,0 +1,15 @@
+{
+  "id": "385",
+  "name": "Jirachi",
+  "number": 385,
+  "forms": [
+    {
+      "name": "Normal",
+      "code": "normal"
+    }
+  ],
+  "types": [
+    "Steel",
+    "Psychic"
+  ]
+}

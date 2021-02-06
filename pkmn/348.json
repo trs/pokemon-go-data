@@ -1,0 +1,15 @@
+{
+  "id": "348",
+  "name": "Armaldo",
+  "number": 348,
+  "forms": [
+    {
+      "name": "Normal",
+      "code": "normal"
+    }
+  ],
+  "types": [
+    "Rock",
+    "Bug"
+  ]
+}

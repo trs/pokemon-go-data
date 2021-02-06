@@ -1,0 +1,15 @@
+{
+  "id": "41",
+  "name": "Zubat",
+  "number": 41,
+  "forms": [
+    {
+      "name": "Normal",
+      "code": "normal"
+    }
+  ],
+  "types": [
+    "Poison",
+    "Flying"
+  ]
+}

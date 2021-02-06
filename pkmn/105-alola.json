@@ -1,0 +1,15 @@
+{
+  "id": "105-alola",
+  "name": "Marowak",
+  "number": 105,
+  "forms": [
+    {
+      "name": "Alola",
+      "code": "alola"
+    }
+  ],
+  "types": [
+    "Fire",
+    "Ghost"
+  ]
+}

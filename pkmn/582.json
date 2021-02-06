@@ -1,0 +1,14 @@
+{
+  "id": "582",
+  "name": "Vanillite",
+  "number": 582,
+  "forms": [
+    {
+      "name": "Normal",
+      "code": "normal"
+    }
+  ],
+  "types": [
+    "Ice"
+  ]
+}

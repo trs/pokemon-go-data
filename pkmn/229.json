@@ -1,0 +1,15 @@
+{
+  "id": "229",
+  "name": "Houndoom",
+  "number": 229,
+  "forms": [
+    {
+      "name": "Normal",
+      "code": "normal"
+    }
+  ],
+  "types": [
+    "Dark",
+    "Fire"
+  ]
+}

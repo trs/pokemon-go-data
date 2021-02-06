@@ -1,0 +1,15 @@
+{
+  "id": "618-galarian",
+  "name": "Stunfisk",
+  "number": 618,
+  "forms": [
+    {
+      "name": "Galarian",
+      "code": "galarian"
+    }
+  ],
+  "types": [
+    "Ground",
+    "Steel"
+  ]
+}

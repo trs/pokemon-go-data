@@ -1,0 +1,15 @@
+{
+  "id": "660",
+  "name": "Diggersby",
+  "number": 660,
+  "forms": [
+    {
+      "name": "Normal",
+      "code": "normal"
+    }
+  ],
+  "types": [
+    "Normal",
+    "Ground"
+  ]
+}

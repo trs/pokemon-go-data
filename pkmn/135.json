@@ -1,0 +1,14 @@
+{
+  "id": "135",
+  "name": "Jolteon",
+  "number": 135,
+  "forms": [
+    {
+      "name": "Normal",
+      "code": "normal"
+    }
+  ],
+  "types": [
+    "Electric"
+  ]
+}

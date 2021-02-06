@@ -1,0 +1,15 @@
+{
+  "id": "74",
+  "name": "Geodude",
+  "number": 74,
+  "forms": [
+    {
+      "name": "Normal",
+      "code": "normal"
+    }
+  ],
+  "types": [
+    "Rock",
+    "Ground"
+  ]
+}

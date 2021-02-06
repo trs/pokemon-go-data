@@ -1,0 +1,15 @@
+{
+  "id": "391",
+  "name": "Monferno",
+  "number": 391,
+  "forms": [
+    {
+      "name": "Normal",
+      "code": "normal"
+    }
+  ],
+  "types": [
+    "Fire",
+    "Fighting"
+  ]
+}

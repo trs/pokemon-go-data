@@ -1,0 +1,14 @@
+{
+  "id": "569",
+  "name": "Garbodor",
+  "number": 569,
+  "forms": [
+    {
+      "name": "Normal",
+      "code": "normal"
+    }
+  ],
+  "types": [
+    "Poison"
+  ]
+}

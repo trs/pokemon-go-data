@@ -1,0 +1,14 @@
+{
+  "id": "237",
+  "name": "Hitmontop",
+  "number": 237,
+  "forms": [
+    {
+      "name": "Normal",
+      "code": "normal"
+    }
+  ],
+  "types": [
+    "Fighting"
+  ]
+}

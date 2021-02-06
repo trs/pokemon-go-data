@@ -1,0 +1,15 @@
+{
+  "id": "374",
+  "name": "Beldum",
+  "number": 374,
+  "forms": [
+    {
+      "name": "Normal",
+      "code": "normal"
+    }
+  ],
+  "types": [
+    "Steel",
+    "Psychic"
+  ]
+}

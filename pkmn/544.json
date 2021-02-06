@@ -1,0 +1,15 @@
+{
+  "id": "544",
+  "name": "Whirlipede",
+  "number": 544,
+  "forms": [
+    {
+      "name": "Normal",
+      "code": "normal"
+    }
+  ],
+  "types": [
+    "Bug",
+    "Poison"
+  ]
+}

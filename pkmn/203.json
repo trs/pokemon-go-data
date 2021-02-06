@@ -1,0 +1,15 @@
+{
+  "id": "203",
+  "name": "Girafarig",
+  "number": 203,
+  "forms": [
+    {
+      "name": "Normal",
+      "code": "normal"
+    }
+  ],
+  "types": [
+    "Normal",
+    "Psychic"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "id": "386-attack",
+  "name": "Deoxys",
+  "number": 386,
+  "forms": [
+    {
+      "name": "Attack",
+      "code": "attack"
+    }
+  ],
+  "types": [
+    "Psychic"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "id": "422-east-sea",
+  "name": "Shellos",
+  "number": 422,
+  "forms": [
+    {
+      "name": "East Sea",
+      "code": "east-sea"
+    }
+  ],
+  "types": [
+    "Water"
+  ]
+}

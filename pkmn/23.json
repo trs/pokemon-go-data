@@ -1,0 +1,14 @@
+{
+  "id": "23",
+  "name": "Ekans",
+  "number": 23,
+  "forms": [
+    {
+      "name": "Normal",
+      "code": "normal"
+    }
+  ],
+  "types": [
+    "Poison"
+  ]
+}

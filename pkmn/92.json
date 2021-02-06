@@ -1,0 +1,15 @@
+{
+  "id": "92",
+  "name": "Gastly",
+  "number": 92,
+  "forms": [
+    {
+      "name": "Normal",
+      "code": "normal"
+    }
+  ],
+  "types": [
+    "Ghost",
+    "Poison"
+  ]
+}

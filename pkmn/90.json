@@ -1,0 +1,14 @@
+{
+  "id": "90",
+  "name": "Shellder",
+  "number": 90,
+  "forms": [
+    {
+      "name": "Normal",
+      "code": "normal"
+    }
+  ],
+  "types": [
+    "Water"
+  ]
+}

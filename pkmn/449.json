@@ -1,0 +1,14 @@
+{
+  "id": "449",
+  "name": "Hippopotas",
+  "number": 449,
+  "forms": [
+    {
+      "name": "Normal",
+      "code": "normal"
+    }
+  ],
+  "types": [
+    "Ground"
+  ]
+}

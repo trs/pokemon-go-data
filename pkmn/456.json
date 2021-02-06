@@ -1,0 +1,14 @@
+{
+  "id": "456",
+  "name": "Finneon",
+  "number": 456,
+  "forms": [
+    {
+      "name": "Normal",
+      "code": "normal"
+    }
+  ],
+  "types": [
+    "Water"
+  ]
+}

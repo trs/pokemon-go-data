@@ -1,0 +1,15 @@
+{
+  "id": "246",
+  "name": "Larvitar",
+  "number": 246,
+  "forms": [
+    {
+      "name": "Normal",
+      "code": "normal"
+    }
+  ],
+  "types": [
+    "Rock",
+    "Ground"
+  ]
+}

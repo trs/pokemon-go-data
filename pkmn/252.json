@@ -1,0 +1,14 @@
+{
+  "id": "252",
+  "name": "Treecko",
+  "number": 252,
+  "forms": [
+    {
+      "name": "Normal",
+      "code": "normal"
+    }
+  ],
+  "types": [
+    "Grass"
+  ]
+}

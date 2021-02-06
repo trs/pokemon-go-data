@@ -1,0 +1,14 @@
+{
+  "id": "507",
+  "name": "Herdier",
+  "number": 507,
+  "forms": [
+    {
+      "name": "Normal",
+      "code": "normal"
+    }
+  ],
+  "types": [
+    "Normal"
+  ]
+}

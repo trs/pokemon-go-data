@@ -1,0 +1,14 @@
+{
+  "id": "53",
+  "name": "Persian",
+  "number": 53,
+  "forms": [
+    {
+      "name": "Normal",
+      "code": "normal"
+    }
+  ],
+  "types": [
+    "Normal"
+  ]
+}

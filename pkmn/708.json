@@ -1,0 +1,15 @@
+{
+  "id": "708",
+  "name": "Phantump",
+  "number": 708,
+  "forms": [
+    {
+      "name": "Normal",
+      "code": "normal"
+    }
+  ],
+  "types": [
+    "Ghost",
+    "Grass"
+  ]
+}

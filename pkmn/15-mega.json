@@ -1,0 +1,19 @@
+{
+  "id": "15-mega",
+  "name": "Beedrill",
+  "number": 15,
+  "forms": [
+    {
+      "name": "Normal",
+      "code": "normal"
+    },
+    {
+      "name": "Mega",
+      "code": "mega"
+    }
+  ],
+  "types": [
+    "Bug",
+    "Poison"
+  ]
+}

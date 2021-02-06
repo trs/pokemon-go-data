@@ -1,0 +1,14 @@
+{
+  "id": "457",
+  "name": "Lumineon",
+  "number": 457,
+  "forms": [
+    {
+      "name": "Normal",
+      "code": "normal"
+    }
+  ],
+  "types": [
+    "Water"
+  ]
+}

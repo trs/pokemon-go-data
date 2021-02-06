@@ -1,0 +1,15 @@
+{
+  "id": "365",
+  "name": "Walrein",
+  "number": 365,
+  "forms": [
+    {
+      "name": "Normal",
+      "code": "normal"
+    }
+  ],
+  "types": [
+    "Ice",
+    "Water"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": "557",
+  "name": "Dwebble",
+  "number": 557,
+  "forms": [
+    {
+      "name": "Normal",
+      "code": "normal"
+    }
+  ],
+  "types": [
+    "Bug",
+    "Rock"
+  ]
+}

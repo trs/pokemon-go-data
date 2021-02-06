@@ -1,0 +1,14 @@
+{
+  "id": "65",
+  "name": "Alakazam",
+  "number": 65,
+  "forms": [
+    {
+      "name": "Normal",
+      "code": "normal"
+    }
+  ],
+  "types": [
+    "Psychic"
+  ]
+}

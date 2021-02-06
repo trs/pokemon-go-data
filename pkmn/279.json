@@ -1,0 +1,15 @@
+{
+  "id": "279",
+  "name": "Pelipper",
+  "number": 279,
+  "forms": [
+    {
+      "name": "Normal",
+      "code": "normal"
+    }
+  ],
+  "types": [
+    "Water",
+    "Flying"
+  ]
+}

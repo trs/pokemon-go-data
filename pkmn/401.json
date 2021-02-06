@@ -1,0 +1,14 @@
+{
+  "id": "401",
+  "name": "Kricketot",
+  "number": 401,
+  "forms": [
+    {
+      "name": "Normal",
+      "code": "normal"
+    }
+  ],
+  "types": [
+    "Bug"
+  ]
+}

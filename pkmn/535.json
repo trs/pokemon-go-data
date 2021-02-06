@@ -1,0 +1,14 @@
+{
+  "id": "535",
+  "name": "Tympole",
+  "number": 535,
+  "forms": [
+    {
+      "name": "Normal",
+      "code": "normal"
+    }
+  ],
+  "types": [
+    "Water"
+  ]
+}

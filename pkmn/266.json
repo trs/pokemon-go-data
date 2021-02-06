@@ -1,0 +1,14 @@
+{
+  "id": "266",
+  "name": "Silcoon",
+  "number": 266,
+  "forms": [
+    {
+      "name": "Normal",
+      "code": "normal"
+    }
+  ],
+  "types": [
+    "Bug"
+  ]
+}

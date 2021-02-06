@@ -1,0 +1,15 @@
+{
+  "id": "72",
+  "name": "Tentacool",
+  "number": 72,
+  "forms": [
+    {
+      "name": "Normal",
+      "code": "normal"
+    }
+  ],
+  "types": [
+    "Water",
+    "Poison"
+  ]
+}

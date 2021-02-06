@@ -1,0 +1,14 @@
+{
+  "id": "148",
+  "name": "Dragonair",
+  "number": 148,
+  "forms": [
+    {
+      "name": "Normal",
+      "code": "normal"
+    }
+  ],
+  "types": [
+    "Dragon"
+  ]
+}

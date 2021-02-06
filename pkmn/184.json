@@ -1,0 +1,15 @@
+{
+  "id": "184",
+  "name": "Azumarill",
+  "number": 184,
+  "forms": [
+    {
+      "name": "Normal",
+      "code": "normal"
+    }
+  ],
+  "types": [
+    "Water",
+    "Fairy"
+  ]
+}

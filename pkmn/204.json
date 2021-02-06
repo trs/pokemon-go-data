@@ -1,0 +1,14 @@
+{
+  "id": "204",
+  "name": "Pineco",
+  "number": 204,
+  "forms": [
+    {
+      "name": "Normal",
+      "code": "normal"
+    }
+  ],
+  "types": [
+    "Bug"
+  ]
+}

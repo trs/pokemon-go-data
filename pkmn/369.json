@@ -1,0 +1,15 @@
+{
+  "id": "369",
+  "name": "Relicanth",
+  "number": 369,
+  "forms": [
+    {
+      "name": "Normal",
+      "code": "normal"
+    }
+  ],
+  "types": [
+    "Water",
+    "Rock"
+  ]
+}

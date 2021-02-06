@@ -1,0 +1,14 @@
+{
+  "id": "147",
+  "name": "Dratini",
+  "number": 147,
+  "forms": [
+    {
+      "name": "Normal",
+      "code": "normal"
+    }
+  ],
+  "types": [
+    "Dragon"
+  ]
+}

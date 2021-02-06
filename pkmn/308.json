@@ -1,0 +1,15 @@
+{
+  "id": "308",
+  "name": "Medicham",
+  "number": 308,
+  "forms": [
+    {
+      "name": "Normal",
+      "code": "normal"
+    }
+  ],
+  "types": [
+    "Fighting",
+    "Psychic"
+  ]
+}

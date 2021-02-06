@@ -1,0 +1,15 @@
+{
+  "id": "71",
+  "name": "Victreebel",
+  "number": 71,
+  "forms": [
+    {
+      "name": "Normal",
+      "code": "normal"
+    }
+  ],
+  "types": [
+    "Grass",
+    "Poison"
+  ]
+}

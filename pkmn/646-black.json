@@ -1,0 +1,15 @@
+{
+  "id": "646-black",
+  "name": "Kyurem",
+  "number": 646,
+  "forms": [
+    {
+      "name": "Black",
+      "code": "black"
+    }
+  ],
+  "types": [
+    "Dragon",
+    "Ice"
+  ]
+}

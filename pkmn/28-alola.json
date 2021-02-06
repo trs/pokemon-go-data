@@ -1,0 +1,15 @@
+{
+  "id": "28-alola",
+  "name": "Sandslash",
+  "number": 28,
+  "forms": [
+    {
+      "name": "Alola",
+      "code": "alola"
+    }
+  ],
+  "types": [
+    "Ice",
+    "Steel"
+  ]
+}

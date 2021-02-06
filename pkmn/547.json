@@ -1,0 +1,15 @@
+{
+  "id": "547",
+  "name": "Whimsicott",
+  "number": 547,
+  "forms": [
+    {
+      "name": "Normal",
+      "code": "normal"
+    }
+  ],
+  "types": [
+    "Grass",
+    "Fairy"
+  ]
+}

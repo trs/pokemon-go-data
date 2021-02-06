@@ -1,0 +1,15 @@
+{
+  "id": "649-chill",
+  "name": "Genesect",
+  "number": 649,
+  "forms": [
+    {
+      "name": "Chill",
+      "code": "chill"
+    }
+  ],
+  "types": [
+    "Bug",
+    "Steel"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "id": "405",
+  "name": "Luxray",
+  "number": 405,
+  "forms": [
+    {
+      "name": "Normal",
+      "code": "normal"
+    }
+  ],
+  "types": [
+    "Electric"
+  ]
+}

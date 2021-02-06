@@ -1,0 +1,15 @@
+{
+  "id": "26-alola",
+  "name": "Raichu",
+  "number": 26,
+  "forms": [
+    {
+      "name": "Alola",
+      "code": "alola"
+    }
+  ],
+  "types": [
+    "Electric",
+    "Psychic"
+  ]
+}

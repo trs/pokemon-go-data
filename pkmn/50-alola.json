@@ -1,0 +1,15 @@
+{
+  "id": "50-alola",
+  "name": "Diglett",
+  "number": 50,
+  "forms": [
+    {
+      "name": "Alola",
+      "code": "alola"
+    }
+  ],
+  "types": [
+    "Ground",
+    "Steel"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": "363",
+  "name": "Spheal",
+  "number": 363,
+  "forms": [
+    {
+      "name": "Normal",
+      "code": "normal"
+    }
+  ],
+  "types": [
+    "Ice",
+    "Water"
+  ]
+}

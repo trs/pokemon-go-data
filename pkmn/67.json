@@ -1,0 +1,14 @@
+{
+  "id": "67",
+  "name": "Machoke",
+  "number": 67,
+  "forms": [
+    {
+      "name": "Normal",
+      "code": "normal"
+    }
+  ],
+  "types": [
+    "Fighting"
+  ]
+}

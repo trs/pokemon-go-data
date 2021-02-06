@@ -1,0 +1,15 @@
+{
+  "id": "591",
+  "name": "Amoonguss",
+  "number": 591,
+  "forms": [
+    {
+      "name": "Normal",
+      "code": "normal"
+    }
+  ],
+  "types": [
+    "Grass",
+    "Poison"
+  ]
+}

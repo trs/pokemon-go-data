@@ -1,0 +1,15 @@
+{
+  "id": "609",
+  "name": "Chandelure",
+  "number": 609,
+  "forms": [
+    {
+      "name": "Normal",
+      "code": "normal"
+    }
+  ],
+  "types": [
+    "Ghost",
+    "Fire"
+  ]
+}

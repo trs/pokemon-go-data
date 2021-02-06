@@ -1,0 +1,14 @@
+{
+  "id": "493-steel",
+  "name": "Arceus",
+  "number": 493,
+  "forms": [
+    {
+      "name": "Steel",
+      "code": "steel"
+    }
+  ],
+  "types": [
+    "Steel"
+  ]
+}

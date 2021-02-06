@@ -1,0 +1,15 @@
+{
+  "id": "249",
+  "name": "Lugia",
+  "number": 249,
+  "forms": [
+    {
+      "name": "Normal",
+      "code": "normal"
+    }
+  ],
+  "types": [
+    "Psychic",
+    "Flying"
+  ]
+}

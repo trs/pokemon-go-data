@@ -1,0 +1,15 @@
+{
+  "id": "323",
+  "name": "Camerupt",
+  "number": 323,
+  "forms": [
+    {
+      "name": "Normal",
+      "code": "normal"
+    }
+  ],
+  "types": [
+    "Fire",
+    "Ground"
+  ]
+}

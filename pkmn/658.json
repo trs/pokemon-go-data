@@ -1,0 +1,15 @@
+{
+  "id": "658",
+  "name": "Greninja",
+  "number": 658,
+  "forms": [
+    {
+      "name": "Normal",
+      "code": "normal"
+    }
+  ],
+  "types": [
+    "Water",
+    "Dark"
+  ]
+}

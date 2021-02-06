@@ -1,0 +1,14 @@
+{
+  "id": "446",
+  "name": "Munchlax",
+  "number": 446,
+  "forms": [
+    {
+      "name": "Normal",
+      "code": "normal"
+    }
+  ],
+  "types": [
+    "Normal"
+  ]
+}

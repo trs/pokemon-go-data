@@ -1,0 +1,15 @@
+{
+  "id": "199",
+  "name": "Slowking",
+  "number": 199,
+  "forms": [
+    {
+      "name": "Normal",
+      "code": "normal"
+    }
+  ],
+  "types": [
+    "Water",
+    "Psychic"
+  ]
+}

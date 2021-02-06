@@ -1,0 +1,15 @@
+{
+  "id": "702",
+  "name": "Dedenne",
+  "number": 702,
+  "forms": [
+    {
+      "name": "Normal",
+      "code": "normal"
+    }
+  ],
+  "types": [
+    "Electric",
+    "Fairy"
+  ]
+}

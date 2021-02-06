@@ -1,0 +1,15 @@
+{
+  "id": "648-pirouette",
+  "name": "Meloetta",
+  "number": 648,
+  "forms": [
+    {
+      "name": "Pirouette",
+      "code": "pirouette"
+    }
+  ],
+  "types": [
+    "Normal",
+    "Fighting"
+  ]
+}

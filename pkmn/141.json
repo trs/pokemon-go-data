@@ -1,0 +1,15 @@
+{
+  "id": "141",
+  "name": "Kabutops",
+  "number": 141,
+  "forms": [
+    {
+      "name": "Normal",
+      "code": "normal"
+    }
+  ],
+  "types": [
+    "Rock",
+    "Water"
+  ]
+}

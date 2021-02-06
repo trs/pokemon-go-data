@@ -1,0 +1,14 @@
+{
+  "id": "77",
+  "name": "Ponyta",
+  "number": 77,
+  "forms": [
+    {
+      "name": "Normal",
+      "code": "normal"
+    }
+  ],
+  "types": [
+    "Fire"
+  ]
+}

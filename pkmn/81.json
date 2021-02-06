@@ -1,0 +1,15 @@
+{
+  "id": "81",
+  "name": "Magnemite",
+  "number": 81,
+  "forms": [
+    {
+      "name": "Normal",
+      "code": "normal"
+    }
+  ],
+  "types": [
+    "Electric",
+    "Steel"
+  ]
+}

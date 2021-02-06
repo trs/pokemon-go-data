@@ -1,0 +1,15 @@
+{
+  "id": "282",
+  "name": "Gardevoir",
+  "number": 282,
+  "forms": [
+    {
+      "name": "Normal",
+      "code": "normal"
+    }
+  ],
+  "types": [
+    "Psychic",
+    "Fairy"
+  ]
+}

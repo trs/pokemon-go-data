@@ -1,0 +1,14 @@
+{
+  "id": "105",
+  "name": "Marowak",
+  "number": 105,
+  "forms": [
+    {
+      "name": "Normal",
+      "code": "normal"
+    }
+  ],
+  "types": [
+    "Ground"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "id": "534",
+  "name": "Conkeldurr",
+  "number": 534,
+  "forms": [
+    {
+      "name": "Normal",
+      "code": "normal"
+    }
+  ],
+  "types": [
+    "Fighting"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": "130",
+  "name": "Gyarados",
+  "number": 130,
+  "forms": [
+    {
+      "name": "Normal",
+      "code": "normal"
+    }
+  ],
+  "types": [
+    "Water",
+    "Flying"
+  ]
+}

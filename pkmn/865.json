@@ -1,0 +1,14 @@
+{
+  "id": "865",
+  "name": "Sirfetch’d",
+  "number": 865,
+  "forms": [
+    {
+      "name": "Normal",
+      "code": "normal"
+    }
+  ],
+  "types": [
+    "Fighting"
+  ]
+}

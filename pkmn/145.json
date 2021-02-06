@@ -1,0 +1,15 @@
+{
+  "id": "145",
+  "name": "Zapdos",
+  "number": 145,
+  "forms": [
+    {
+      "name": "Normal",
+      "code": "normal"
+    }
+  ],
+  "types": [
+    "Electric",
+    "Flying"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": "435",
+  "name": "Skuntank",
+  "number": 435,
+  "forms": [
+    {
+      "name": "Normal",
+      "code": "normal"
+    }
+  ],
+  "types": [
+    "Poison",
+    "Dark"
+  ]
+}

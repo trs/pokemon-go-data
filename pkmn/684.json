@@ -1,0 +1,14 @@
+{
+  "id": "684",
+  "name": "Swirlix",
+  "number": 684,
+  "forms": [
+    {
+      "name": "Normal",
+      "code": "normal"
+    }
+  ],
+  "types": [
+    "Fairy"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": "442",
+  "name": "Spiritomb",
+  "number": 442,
+  "forms": [
+    {
+      "name": "Normal",
+      "code": "normal"
+    }
+  ],
+  "types": [
+    "Ghost",
+    "Dark"
+  ]
+}

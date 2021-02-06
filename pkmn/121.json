@@ -1,0 +1,15 @@
+{
+  "id": "121",
+  "name": "Starmie",
+  "number": 121,
+  "forms": [
+    {
+      "name": "Normal",
+      "code": "normal"
+    }
+  ],
+  "types": [
+    "Water",
+    "Psychic"
+  ]
+}

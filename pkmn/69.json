@@ -1,0 +1,15 @@
+{
+  "id": "69",
+  "name": "Bellsprout",
+  "number": 69,
+  "forms": [
+    {
+      "name": "Normal",
+      "code": "normal"
+    }
+  ],
+  "types": [
+    "Grass",
+    "Poison"
+  ]
+}

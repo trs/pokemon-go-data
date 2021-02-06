@@ -1,0 +1,15 @@
+{
+  "id": "167",
+  "name": "Spinarak",
+  "number": 167,
+  "forms": [
+    {
+      "name": "Normal",
+      "code": "normal"
+    }
+  ],
+  "types": [
+    "Bug",
+    "Poison"
+  ]
+}

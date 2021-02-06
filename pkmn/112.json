@@ -1,0 +1,15 @@
+{
+  "id": "112",
+  "name": "Rhydon",
+  "number": 112,
+  "forms": [
+    {
+      "name": "Normal",
+      "code": "normal"
+    }
+  ],
+  "types": [
+    "Ground",
+    "Rock"
+  ]
+}

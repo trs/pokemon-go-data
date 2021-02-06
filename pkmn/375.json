@@ -1,0 +1,15 @@
+{
+  "id": "375",
+  "name": "Metang",
+  "number": 375,
+  "forms": [
+    {
+      "name": "Normal",
+      "code": "normal"
+    }
+  ],
+  "types": [
+    "Steel",
+    "Psychic"
+  ]
+}

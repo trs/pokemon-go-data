@@ -1,0 +1,14 @@
+{
+  "id": "245",
+  "name": "Suicune",
+  "number": 245,
+  "forms": [
+    {
+      "name": "Normal",
+      "code": "normal"
+    }
+  ],
+  "types": [
+    "Water"
+  ]
+}

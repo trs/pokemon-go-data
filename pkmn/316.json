@@ -1,0 +1,14 @@
+{
+  "id": "316",
+  "name": "Gulpin",
+  "number": 316,
+  "forms": [
+    {
+      "name": "Normal",
+      "code": "normal"
+    }
+  ],
+  "types": [
+    "Poison"
+  ]
+}

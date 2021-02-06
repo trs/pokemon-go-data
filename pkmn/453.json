@@ -1,0 +1,15 @@
+{
+  "id": "453",
+  "name": "Croagunk",
+  "number": 453,
+  "forms": [
+    {
+      "name": "Normal",
+      "code": "normal"
+    }
+  ],
+  "types": [
+    "Poison",
+    "Fighting"
+  ]
+}

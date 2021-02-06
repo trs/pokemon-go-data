@@ -1,0 +1,15 @@
+{
+  "id": "867",
+  "name": "Runerigus",
+  "number": 867,
+  "forms": [
+    {
+      "name": "Normal",
+      "code": "normal"
+    }
+  ],
+  "types": [
+    "Ground",
+    "Ghost"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "id": "159",
+  "name": "Croconaw",
+  "number": 159,
+  "forms": [
+    {
+      "name": "Normal",
+      "code": "normal"
+    }
+  ],
+  "types": [
+    "Water"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": "629",
+  "name": "Vullaby",
+  "number": 629,
+  "forms": [
+    {
+      "name": "Normal",
+      "code": "normal"
+    }
+  ],
+  "types": [
+    "Dark",
+    "Flying"
+  ]
+}

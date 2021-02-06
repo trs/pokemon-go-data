@@ -1,0 +1,14 @@
+{
+  "id": "601",
+  "name": "Klinklang",
+  "number": 601,
+  "forms": [
+    {
+      "name": "Normal",
+      "code": "normal"
+    }
+  ],
+  "types": [
+    "Steel"
+  ]
+}

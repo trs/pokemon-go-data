@@ -1,0 +1,15 @@
+{
+  "id": "472",
+  "name": "Gliscor",
+  "number": 472,
+  "forms": [
+    {
+      "name": "Normal",
+      "code": "normal"
+    }
+  ],
+  "types": [
+    "Ground",
+    "Flying"
+  ]
+}

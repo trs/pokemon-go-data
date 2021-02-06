@@ -1,0 +1,14 @@
+{
+  "id": "109",
+  "name": "Koffing",
+  "number": 109,
+  "forms": [
+    {
+      "name": "Normal",
+      "code": "normal"
+    }
+  ],
+  "types": [
+    "Poison"
+  ]
+}

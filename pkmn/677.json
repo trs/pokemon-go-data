@@ -1,0 +1,14 @@
+{
+  "id": "677",
+  "name": "Espurr",
+  "number": 677,
+  "forms": [
+    {
+      "name": "Normal",
+      "code": "normal"
+    }
+  ],
+  "types": [
+    "Psychic"
+  ]
+}

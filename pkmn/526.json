@@ -1,0 +1,14 @@
+{
+  "id": "526",
+  "name": "Gigalith",
+  "number": 526,
+  "forms": [
+    {
+      "name": "Normal",
+      "code": "normal"
+    }
+  ],
+  "types": [
+    "Rock"
+  ]
+}

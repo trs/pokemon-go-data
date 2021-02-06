@@ -1,0 +1,19 @@
+{
+  "id": "555-galarian-zen",
+  "name": "Darmanitan",
+  "number": 555,
+  "forms": [
+    {
+      "name": "Galarian",
+      "code": "galarian"
+    },
+    {
+      "name": "Zen",
+      "code": "zen"
+    }
+  ],
+  "types": [
+    "Ice",
+    "Fire"
+  ]
+}

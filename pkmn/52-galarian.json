@@ -1,0 +1,14 @@
+{
+  "id": "52-galarian",
+  "name": "Meowth",
+  "number": 52,
+  "forms": [
+    {
+      "name": "Galarian",
+      "code": "galarian"
+    }
+  ],
+  "types": [
+    "Steel"
+  ]
+}

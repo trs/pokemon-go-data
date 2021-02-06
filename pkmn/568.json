@@ -1,0 +1,14 @@
+{
+  "id": "568",
+  "name": "Trubbish",
+  "number": 568,
+  "forms": [
+    {
+      "name": "Normal",
+      "code": "normal"
+    }
+  ],
+  "types": [
+    "Poison"
+  ]
+}

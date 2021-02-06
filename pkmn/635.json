@@ -1,0 +1,15 @@
+{
+  "id": "635",
+  "name": "Hydreigon",
+  "number": 635,
+  "forms": [
+    {
+      "name": "Normal",
+      "code": "normal"
+    }
+  ],
+  "types": [
+    "Dark",
+    "Dragon"
+  ]
+}

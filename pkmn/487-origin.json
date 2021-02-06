@@ -1,0 +1,15 @@
+{
+  "id": "487-origin",
+  "name": "Giratina",
+  "number": 487,
+  "forms": [
+    {
+      "name": "Origin",
+      "code": "origin"
+    }
+  ],
+  "types": [
+    "Ghost",
+    "Dragon"
+  ]
+}

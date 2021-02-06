@@ -1,0 +1,15 @@
+{
+  "id": "21",
+  "name": "Spearow",
+  "number": 21,
+  "forms": [
+    {
+      "name": "Normal",
+      "code": "normal"
+    }
+  ],
+  "types": [
+    "Normal",
+    "Flying"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": "342",
+  "name": "Crawdaunt",
+  "number": 342,
+  "forms": [
+    {
+      "name": "Normal",
+      "code": "normal"
+    }
+  ],
+  "types": [
+    "Water",
+    "Dark"
+  ]
+}

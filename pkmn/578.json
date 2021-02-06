@@ -1,0 +1,14 @@
+{
+  "id": "578",
+  "name": "Duosion",
+  "number": 578,
+  "forms": [
+    {
+      "name": "Normal",
+      "code": "normal"
+    }
+  ],
+  "types": [
+    "Psychic"
+  ]
+}

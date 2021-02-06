@@ -1,0 +1,14 @@
+{
+  "id": "224",
+  "name": "Octillery",
+  "number": 224,
+  "forms": [
+    {
+      "name": "Normal",
+      "code": "normal"
+    }
+  ],
+  "types": [
+    "Water"
+  ]
+}

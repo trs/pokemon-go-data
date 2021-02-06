@@ -1,0 +1,15 @@
+{
+  "id": "560",
+  "name": "Scrafty",
+  "number": 560,
+  "forms": [
+    {
+      "name": "Normal",
+      "code": "normal"
+    }
+  ],
+  "types": [
+    "Dark",
+    "Fighting"
+  ]
+}

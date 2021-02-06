@@ -1,0 +1,14 @@
+{
+  "id": "66",
+  "name": "Machop",
+  "number": 66,
+  "forms": [
+    {
+      "name": "Normal",
+      "code": "normal"
+    }
+  ],
+  "types": [
+    "Fighting"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "id": "550-blue-striped",
+  "name": "Basculin",
+  "number": 550,
+  "forms": [
+    {
+      "name": "Blue Striped",
+      "code": "blue-striped"
+    }
+  ],
+  "types": [
+    "Water"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": "34",
+  "name": "Nidoking",
+  "number": 34,
+  "forms": [
+    {
+      "name": "Normal",
+      "code": "normal"
+    }
+  ],
+  "types": [
+    "Poison",
+    "Ground"
+  ]
+}

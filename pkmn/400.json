@@ -1,0 +1,15 @@
+{
+  "id": "400",
+  "name": "Bibarel",
+  "number": 400,
+  "forms": [
+    {
+      "name": "Normal",
+      "code": "normal"
+    }
+  ],
+  "types": [
+    "Normal",
+    "Water"
+  ]
+}

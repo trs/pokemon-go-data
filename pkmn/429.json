@@ -1,0 +1,14 @@
+{
+  "id": "429",
+  "name": "Mismagius",
+  "number": 429,
+  "forms": [
+    {
+      "name": "Normal",
+      "code": "normal"
+    }
+  ],
+  "types": [
+    "Ghost"
+  ]
+}

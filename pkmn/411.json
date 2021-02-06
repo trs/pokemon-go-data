@@ -1,0 +1,15 @@
+{
+  "id": "411",
+  "name": "Bastiodon",
+  "number": 411,
+  "forms": [
+    {
+      "name": "Normal",
+      "code": "normal"
+    }
+  ],
+  "types": [
+    "Rock",
+    "Steel"
+  ]
+}

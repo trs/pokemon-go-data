@@ -1,0 +1,14 @@
+{
+  "id": "693",
+  "name": "Clawitzer",
+  "number": 693,
+  "forms": [
+    {
+      "name": "Normal",
+      "code": "normal"
+    }
+  ],
+  "types": [
+    "Water"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": "647-ordinary",
+  "name": "Keldeo",
+  "number": 647,
+  "forms": [
+    {
+      "name": "Ordinary",
+      "code": "ordinary"
+    }
+  ],
+  "types": [
+    "Water",
+    "Fighting"
+  ]
+}

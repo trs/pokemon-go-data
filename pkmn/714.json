@@ -1,0 +1,15 @@
+{
+  "id": "714",
+  "name": "Noibat",
+  "number": 714,
+  "forms": [
+    {
+      "name": "Normal",
+      "code": "normal"
+    }
+  ],
+  "types": [
+    "Flying",
+    "Dragon"
+  ]
+}

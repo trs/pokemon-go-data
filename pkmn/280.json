@@ -1,0 +1,15 @@
+{
+  "id": "280",
+  "name": "Ralts",
+  "number": 280,
+  "forms": [
+    {
+      "name": "Normal",
+      "code": "normal"
+    }
+  ],
+  "types": [
+    "Psychic",
+    "Fairy"
+  ]
+}

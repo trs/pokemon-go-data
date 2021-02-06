@@ -1,0 +1,15 @@
+{
+  "id": "213",
+  "name": "Shuckle",
+  "number": 213,
+  "forms": [
+    {
+      "name": "Normal",
+      "code": "normal"
+    }
+  ],
+  "types": [
+    "Bug",
+    "Rock"
+  ]
+}

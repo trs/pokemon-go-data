@@ -1,0 +1,14 @@
+{
+  "id": "104",
+  "name": "Cubone",
+  "number": 104,
+  "forms": [
+    {
+      "name": "Normal",
+      "code": "normal"
+    }
+  ],
+  "types": [
+    "Ground"
+  ]
+}

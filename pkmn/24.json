@@ -1,0 +1,14 @@
+{
+  "id": "24",
+  "name": "Arbok",
+  "number": 24,
+  "forms": [
+    {
+      "name": "Normal",
+      "code": "normal"
+    }
+  ],
+  "types": [
+    "Poison"
+  ]
+}

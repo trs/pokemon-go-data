@@ -1,0 +1,14 @@
+{
+  "id": "108",
+  "name": "Lickitung",
+  "number": 108,
+  "forms": [
+    {
+      "name": "Normal",
+      "code": "normal"
+    }
+  ],
+  "types": [
+    "Normal"
+  ]
+}

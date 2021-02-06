@@ -1,0 +1,14 @@
+{
+  "id": "556",
+  "name": "Maractus",
+  "number": 556,
+  "forms": [
+    {
+      "name": "Normal",
+      "code": "normal"
+    }
+  ],
+  "types": [
+    "Grass"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": "51-alola",
+  "name": "Dugtrio",
+  "number": 51,
+  "forms": [
+    {
+      "name": "Alola",
+      "code": "alola"
+    }
+  ],
+  "types": [
+    "Ground",
+    "Steel"
+  ]
+}

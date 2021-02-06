@@ -1,0 +1,14 @@
+{
+  "id": "620",
+  "name": "Mienshao",
+  "number": 620,
+  "forms": [
+    {
+      "name": "Normal",
+      "code": "normal"
+    }
+  ],
+  "types": [
+    "Fighting"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "id": "419",
+  "name": "Floatzel",
+  "number": 419,
+  "forms": [
+    {
+      "name": "Normal",
+      "code": "normal"
+    }
+  ],
+  "types": [
+    "Water"
+  ]
+}

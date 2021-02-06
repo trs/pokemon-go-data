@@ -1,0 +1,14 @@
+{
+  "id": "314",
+  "name": "Illumise",
+  "number": 314,
+  "forms": [
+    {
+      "name": "Normal",
+      "code": "normal"
+    }
+  ],
+  "types": [
+    "Bug"
+  ]
+}

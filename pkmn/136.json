@@ -1,0 +1,14 @@
+{
+  "id": "136",
+  "name": "Flareon",
+  "number": 136,
+  "forms": [
+    {
+      "name": "Normal",
+      "code": "normal"
+    }
+  ],
+  "types": [
+    "Fire"
+  ]
+}

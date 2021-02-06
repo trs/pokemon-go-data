@@ -1,0 +1,15 @@
+{
+  "id": "251",
+  "name": "Celebi",
+  "number": 251,
+  "forms": [
+    {
+      "name": "Normal",
+      "code": "normal"
+    }
+  ],
+  "types": [
+    "Psychic",
+    "Grass"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "id": "8",
+  "name": "Wartortle",
+  "number": 8,
+  "forms": [
+    {
+      "name": "Normal",
+      "code": "normal"
+    }
+  ],
+  "types": [
+    "Water"
+  ]
+}

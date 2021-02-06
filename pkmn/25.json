@@ -1,0 +1,14 @@
+{
+  "id": "25",
+  "name": "Pikachu",
+  "number": 25,
+  "forms": [
+    {
+      "name": "Normal",
+      "code": "normal"
+    }
+  ],
+  "types": [
+    "Electric"
+  ]
+}

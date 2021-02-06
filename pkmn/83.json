@@ -1,0 +1,15 @@
+{
+  "id": "83",
+  "name": "Farfetch'd",
+  "number": 83,
+  "forms": [
+    {
+      "name": "Normal",
+      "code": "normal"
+    }
+  ],
+  "types": [
+    "Normal",
+    "Flying"
+  ]
+}

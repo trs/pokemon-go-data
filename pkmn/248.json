@@ -1,0 +1,15 @@
+{
+  "id": "248",
+  "name": "Tyranitar",
+  "number": 248,
+  "forms": [
+    {
+      "name": "Normal",
+      "code": "normal"
+    }
+  ],
+  "types": [
+    "Rock",
+    "Dark"
+  ]
+}

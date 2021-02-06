@@ -1,0 +1,15 @@
+{
+  "id": "530",
+  "name": "Excadrill",
+  "number": 530,
+  "forms": [
+    {
+      "name": "Normal",
+      "code": "normal"
+    }
+  ],
+  "types": [
+    "Ground",
+    "Steel"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "id": "59",
+  "name": "Arcanine",
+  "number": 59,
+  "forms": [
+    {
+      "name": "Normal",
+      "code": "normal"
+    }
+  ],
+  "types": [
+    "Fire"
+  ]
+}

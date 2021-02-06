@@ -1,0 +1,15 @@
+{
+  "id": "13",
+  "name": "Weedle",
+  "number": 13,
+  "forms": [
+    {
+      "name": "Normal",
+      "code": "normal"
+    }
+  ],
+  "types": [
+    "Bug",
+    "Poison"
+  ]
+}

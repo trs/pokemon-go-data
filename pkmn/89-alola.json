@@ -1,0 +1,15 @@
+{
+  "id": "89-alola",
+  "name": "Muk",
+  "number": 89,
+  "forms": [
+    {
+      "name": "Alola",
+      "code": "alola"
+    }
+  ],
+  "types": [
+    "Poison",
+    "Dark"
+  ]
+}

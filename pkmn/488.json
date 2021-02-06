@@ -1,0 +1,14 @@
+{
+  "id": "488",
+  "name": "Cresselia",
+  "number": 488,
+  "forms": [
+    {
+      "name": "Normal",
+      "code": "normal"
+    }
+  ],
+  "types": [
+    "Psychic"
+  ]
+}

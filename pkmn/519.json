@@ -1,0 +1,15 @@
+{
+  "id": "519",
+  "name": "Pidove",
+  "number": 519,
+  "forms": [
+    {
+      "name": "Normal",
+      "code": "normal"
+    }
+  ],
+  "types": [
+    "Normal",
+    "Flying"
+  ]
+}

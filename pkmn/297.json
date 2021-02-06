@@ -1,0 +1,14 @@
+{
+  "id": "297",
+  "name": "Hariyama",
+  "number": 297,
+  "forms": [
+    {
+      "name": "Normal",
+      "code": "normal"
+    }
+  ],
+  "types": [
+    "Fighting"
+  ]
+}

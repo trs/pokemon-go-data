@@ -1,0 +1,15 @@
+{
+  "id": "329",
+  "name": "Vibrava",
+  "number": 329,
+  "forms": [
+    {
+      "name": "Normal",
+      "code": "normal"
+    }
+  ],
+  "types": [
+    "Ground",
+    "Dragon"
+  ]
+}

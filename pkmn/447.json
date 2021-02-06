@@ -1,0 +1,14 @@
+{
+  "id": "447",
+  "name": "Riolu",
+  "number": 447,
+  "forms": [
+    {
+      "name": "Normal",
+      "code": "normal"
+    }
+  ],
+  "types": [
+    "Fighting"
+  ]
+}

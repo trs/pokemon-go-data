@@ -1,0 +1,14 @@
+{
+  "id": "158",
+  "name": "Totodile",
+  "number": 158,
+  "forms": [
+    {
+      "name": "Normal",
+      "code": "normal"
+    }
+  ],
+  "types": [
+    "Water"
+  ]
+}

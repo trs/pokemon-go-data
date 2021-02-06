@@ -1,0 +1,14 @@
+{
+  "id": "9",
+  "name": "Blastoise",
+  "number": 9,
+  "forms": [
+    {
+      "name": "Normal",
+      "code": "normal"
+    }
+  ],
+  "types": [
+    "Water"
+  ]
+}

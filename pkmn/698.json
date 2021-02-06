@@ -1,0 +1,15 @@
+{
+  "id": "698",
+  "name": "Amaura",
+  "number": 698,
+  "forms": [
+    {
+      "name": "Normal",
+      "code": "normal"
+    }
+  ],
+  "types": [
+    "Rock",
+    "Ice"
+  ]
+}

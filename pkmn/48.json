@@ -1,0 +1,15 @@
+{
+  "id": "48",
+  "name": "Venonat",
+  "number": 48,
+  "forms": [
+    {
+      "name": "Normal",
+      "code": "normal"
+    }
+  ],
+  "types": [
+    "Bug",
+    "Poison"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": "281",
+  "name": "Kirlia",
+  "number": 281,
+  "forms": [
+    {
+      "name": "Normal",
+      "code": "normal"
+    }
+  ],
+  "types": [
+    "Psychic",
+    "Fairy"
+  ]
+}

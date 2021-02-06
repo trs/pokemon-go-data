@@ -1,0 +1,15 @@
+{
+  "id": "444",
+  "name": "Gabite",
+  "number": 444,
+  "forms": [
+    {
+      "name": "Normal",
+      "code": "normal"
+    }
+  ],
+  "types": [
+    "Dragon",
+    "Ground"
+  ]
+}

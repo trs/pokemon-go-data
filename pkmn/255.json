@@ -1,0 +1,14 @@
+{
+  "id": "255",
+  "name": "Torchic",
+  "number": 255,
+  "forms": [
+    {
+      "name": "Normal",
+      "code": "normal"
+    }
+  ],
+  "types": [
+    "Fire"
+  ]
+}

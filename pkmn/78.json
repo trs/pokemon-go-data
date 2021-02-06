@@ -1,0 +1,14 @@
+{
+  "id": "78",
+  "name": "Rapidash",
+  "number": 78,
+  "forms": [
+    {
+      "name": "Normal",
+      "code": "normal"
+    }
+  ],
+  "types": [
+    "Fire"
+  ]
+}

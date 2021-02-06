@@ -1,0 +1,14 @@
+{
+  "id": "50",
+  "name": "Diglett",
+  "number": 50,
+  "forms": [
+    {
+      "name": "Normal",
+      "code": "normal"
+    }
+  ],
+  "types": [
+    "Ground"
+  ]
+}

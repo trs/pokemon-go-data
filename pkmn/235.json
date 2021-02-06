@@ -1,0 +1,14 @@
+{
+  "id": "235",
+  "name": "Smeargle",
+  "number": 235,
+  "forms": [
+    {
+      "name": "Normal",
+      "code": "normal"
+    }
+  ],
+  "types": [
+    "Normal"
+  ]
+}

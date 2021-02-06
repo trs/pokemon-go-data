@@ -1,0 +1,14 @@
+{
+  "id": "328",
+  "name": "Trapinch",
+  "number": 328,
+  "forms": [
+    {
+      "name": "Normal",
+      "code": "normal"
+    }
+  ],
+  "types": [
+    "Ground"
+  ]
+}

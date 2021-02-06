@@ -1,0 +1,14 @@
+{
+  "id": "320",
+  "name": "Wailmer",
+  "number": 320,
+  "forms": [
+    {
+      "name": "Normal",
+      "code": "normal"
+    }
+  ],
+  "types": [
+    "Water"
+  ]
+}

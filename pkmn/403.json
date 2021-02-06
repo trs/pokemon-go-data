@@ -1,0 +1,14 @@
+{
+  "id": "403",
+  "name": "Shinx",
+  "number": 403,
+  "forms": [
+    {
+      "name": "Normal",
+      "code": "normal"
+    }
+  ],
+  "types": [
+    "Electric"
+  ]
+}

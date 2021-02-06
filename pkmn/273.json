@@ -1,0 +1,14 @@
+{
+  "id": "273",
+  "name": "Seedot",
+  "number": 273,
+  "forms": [
+    {
+      "name": "Normal",
+      "code": "normal"
+    }
+  ],
+  "types": [
+    "Grass"
+  ]
+}

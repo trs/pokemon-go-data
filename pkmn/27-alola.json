@@ -1,0 +1,15 @@
+{
+  "id": "27-alola",
+  "name": "Sandshrew",
+  "number": 27,
+  "forms": [
+    {
+      "name": "Alola",
+      "code": "alola"
+    }
+  ],
+  "types": [
+    "Ice",
+    "Steel"
+  ]
+}

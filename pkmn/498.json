@@ -1,0 +1,14 @@
+{
+  "id": "498",
+  "name": "Tepig",
+  "number": 498,
+  "forms": [
+    {
+      "name": "Normal",
+      "code": "normal"
+    }
+  ],
+  "types": [
+    "Fire"
+  ]
+}

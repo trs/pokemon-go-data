@@ -1,0 +1,14 @@
+{
+  "id": "64",
+  "name": "Kadabra",
+  "number": 64,
+  "forms": [
+    {
+      "name": "Normal",
+      "code": "normal"
+    }
+  ],
+  "types": [
+    "Psychic"
+  ]
+}

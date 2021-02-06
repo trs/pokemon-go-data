@@ -1,0 +1,14 @@
+{
+  "id": "331",
+  "name": "Cacnea",
+  "number": 331,
+  "forms": [
+    {
+      "name": "Normal",
+      "code": "normal"
+    }
+  ],
+  "types": [
+    "Grass"
+  ]
+}

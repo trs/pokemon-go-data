@@ -1,0 +1,14 @@
+{
+  "id": "153",
+  "name": "Bayleef",
+  "number": 153,
+  "forms": [
+    {
+      "name": "Normal",
+      "code": "normal"
+    }
+  ],
+  "types": [
+    "Grass"
+  ]
+}

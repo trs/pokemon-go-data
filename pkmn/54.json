@@ -1,0 +1,14 @@
+{
+  "id": "54",
+  "name": "Psyduck",
+  "number": 54,
+  "forms": [
+    {
+      "name": "Normal",
+      "code": "normal"
+    }
+  ],
+  "types": [
+    "Water"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "id": "673",
+  "name": "Gogoat",
+  "number": 673,
+  "forms": [
+    {
+      "name": "Normal",
+      "code": "normal"
+    }
+  ],
+  "types": [
+    "Grass"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "id": "600",
+  "name": "Klang",
+  "number": 600,
+  "forms": [
+    {
+      "name": "Normal",
+      "code": "normal"
+    }
+  ],
+  "types": [
+    "Steel"
+  ]
+}

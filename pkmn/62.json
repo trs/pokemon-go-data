@@ -1,0 +1,15 @@
+{
+  "id": "62",
+  "name": "Poliwrath",
+  "number": 62,
+  "forms": [
+    {
+      "name": "Normal",
+      "code": "normal"
+    }
+  ],
+  "types": [
+    "Water",
+    "Fighting"
+  ]
+}

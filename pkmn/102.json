@@ -1,0 +1,15 @@
+{
+  "id": "102",
+  "name": "Exeggcute",
+  "number": 102,
+  "forms": [
+    {
+      "name": "Normal",
+      "code": "normal"
+    }
+  ],
+  "types": [
+    "Grass",
+    "Psychic"
+  ]
+}

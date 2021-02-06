@@ -1,0 +1,14 @@
+{
+  "id": "631",
+  "name": "Heatmor",
+  "number": 631,
+  "forms": [
+    {
+      "name": "Normal",
+      "code": "normal"
+    }
+  ],
+  "types": [
+    "Fire"
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "id": "324",
+  "name": "Torkoal",
+  "number": 324,
+  "forms": [
+    {
+      "name": "Normal",
+      "code": "normal"
+    }
+  ],
+  "types": [
+    "Fire"
+  ]
+}

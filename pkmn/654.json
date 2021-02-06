@@ -1,0 +1,14 @@
+{
+  "id": "654",
+  "name": "Braixen",
+  "number": 654,
+  "forms": [
+    {
+      "name": "Normal",
+      "code": "normal"
+    }
+  ],
+  "types": [
+    "Fire"
+  ]
+}

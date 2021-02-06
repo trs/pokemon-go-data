@@ -1,0 +1,14 @@
+{
+  "id": "53-alola",
+  "name": "Persian",
+  "number": 53,
+  "forms": [
+    {
+      "name": "Alola",
+      "code": "alola"
+    }
+  ],
+  "types": [
+    "Dark"
+  ]
+}

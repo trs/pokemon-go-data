@@ -1,0 +1,15 @@
+{
+  "id": "649-douse",
+  "name": "Genesect",
+  "number": 649,
+  "forms": [
+    {
+      "name": "Douse",
+      "code": "douse"
+    }
+  ],
+  "types": [
+    "Bug",
+    "Steel"
+  ]
+}

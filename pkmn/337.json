@@ -1,0 +1,15 @@
+{
+  "id": "337",
+  "name": "Lunatone",
+  "number": 337,
+  "forms": [
+    {
+      "name": "Normal",
+      "code": "normal"
+    }
+  ],
+  "types": [
+    "Rock",
+    "Psychic"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": "586-winter",
+  "name": "Sawsbuck",
+  "number": 586,
+  "forms": [
+    {
+      "name": "Winter",
+      "code": "winter"
+    }
+  ],
+  "types": [
+    "Normal",
+    "Grass"
+  ]
+}

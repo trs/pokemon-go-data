@@ -1,0 +1,15 @@
+{
+  "id": "275",
+  "name": "Shiftry",
+  "number": 275,
+  "forms": [
+    {
+      "name": "Normal",
+      "code": "normal"
+    }
+  ],
+  "types": [
+    "Grass",
+    "Dark"
+  ]
+}

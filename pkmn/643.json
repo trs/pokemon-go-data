@@ -1,0 +1,15 @@
+{
+  "id": "643",
+  "name": "Reshiram",
+  "number": 643,
+  "forms": [
+    {
+      "name": "Normal",
+      "code": "normal"
+    }
+  ],
+  "types": [
+    "Dragon",
+    "Fire"
+  ]
+}

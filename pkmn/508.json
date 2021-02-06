@@ -1,0 +1,14 @@
+{
+  "id": "508",
+  "name": "Stoutland",
+  "number": 508,
+  "forms": [
+    {
+      "name": "Normal",
+      "code": "normal"
+    }
+  ],
+  "types": [
+    "Normal"
+  ]
+}

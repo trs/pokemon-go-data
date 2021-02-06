@@ -1,0 +1,15 @@
+{
+  "id": "687",
+  "name": "Malamar",
+  "number": 687,
+  "forms": [
+    {
+      "name": "Normal",
+      "code": "normal"
+    }
+  ],
+  "types": [
+    "Dark",
+    "Psychic"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": "441",
+  "name": "Chatot",
+  "number": 441,
+  "forms": [
+    {
+      "name": "Normal",
+      "code": "normal"
+    }
+  ],
+  "types": [
+    "Normal",
+    "Flying"
+  ]
+}

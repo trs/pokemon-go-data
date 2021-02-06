@@ -1,0 +1,15 @@
+{
+  "id": "559",
+  "name": "Scraggy",
+  "number": 559,
+  "forms": [
+    {
+      "name": "Normal",
+      "code": "normal"
+    }
+  ],
+  "types": [
+    "Dark",
+    "Fighting"
+  ]
+}

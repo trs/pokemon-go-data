@@ -1,0 +1,15 @@
+{
+  "id": "144",
+  "name": "Articuno",
+  "number": 144,
+  "forms": [
+    {
+      "name": "Normal",
+      "code": "normal"
+    }
+  ],
+  "types": [
+    "Ice",
+    "Flying"
+  ]
+}

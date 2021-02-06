@@ -1,0 +1,14 @@
+{
+  "id": "37",
+  "name": "Vulpix",
+  "number": 37,
+  "forms": [
+    {
+      "name": "Normal",
+      "code": "normal"
+    }
+  ],
+  "types": [
+    "Fire"
+  ]
+}

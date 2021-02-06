@@ -1,0 +1,14 @@
+{
+  "id": "186",
+  "name": "Politoed",
+  "number": 186,
+  "forms": [
+    {
+      "name": "Normal",
+      "code": "normal"
+    }
+  ],
+  "types": [
+    "Water"
+  ]
+}

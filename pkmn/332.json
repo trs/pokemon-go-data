@@ -1,0 +1,15 @@
+{
+  "id": "332",
+  "name": "Cacturne",
+  "number": 332,
+  "forms": [
+    {
+      "name": "Normal",
+      "code": "normal"
+    }
+  ],
+  "types": [
+    "Grass",
+    "Dark"
+  ]
+}

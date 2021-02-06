@@ -1,0 +1,14 @@
+{
+  "id": "285",
+  "name": "Shroomish",
+  "number": 285,
+  "forms": [
+    {
+      "name": "Normal",
+      "code": "normal"
+    }
+  ],
+  "types": [
+    "Grass"
+  ]
+}

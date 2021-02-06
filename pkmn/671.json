@@ -1,0 +1,14 @@
+{
+  "id": "671",
+  "name": "Florges",
+  "number": 671,
+  "forms": [
+    {
+      "name": "Normal",
+      "code": "normal"
+    }
+  ],
+  "types": [
+    "Fairy"
+  ]
+}

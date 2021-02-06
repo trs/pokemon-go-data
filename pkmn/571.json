@@ -1,0 +1,14 @@
+{
+  "id": "571",
+  "name": "Zoroark",
+  "number": 571,
+  "forms": [
+    {
+      "name": "Normal",
+      "code": "normal"
+    }
+  ],
+  "types": [
+    "Dark"
+  ]
+}
