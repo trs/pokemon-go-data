@@ -1,5 +1,5 @@
 {
-  "id": "258",
+  "uid": "258",
   "name": "Mudkip",
   "number": 258,
   "forms": [
@@ -9,6 +9,9 @@
     }
   ],
   "types": [
-    "Water"
+    {
+      "name": "Water",
+      "code": "water"
+    }
   ]
 }

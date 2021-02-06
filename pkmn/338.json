@@ -1,5 +1,5 @@
 {
-  "id": "338",
+  "uid": "338",
   "name": "Solrock",
   "number": 338,
   "forms": [
@@ -9,7 +9,13 @@
     }
   ],
   "types": [
-    "Rock",
-    "Psychic"
+    {
+      "name": "Rock",
+      "code": "rock"
+    },
+    {
+      "name": "Psychic",
+      "code": "psychic"
+    }
   ]
 }

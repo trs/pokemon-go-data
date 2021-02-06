@@ -1,5 +1,5 @@
 {
-  "id": "124",
+  "uid": "124",
   "name": "Jynx",
   "number": 124,
   "forms": [
@@ -9,7 +9,13 @@
     }
   ],
   "types": [
-    "Ice",
-    "Psychic"
+    {
+      "name": "Ice",
+      "code": "ice"
+    },
+    {
+      "name": "Psychic",
+      "code": "psychic"
+    }
   ]
 }

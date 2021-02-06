@@ -1,5 +1,5 @@
 {
-  "id": "27-alola",
+  "uid": "27-alola",
   "name": "Sandshrew",
   "number": 27,
   "forms": [
@@ -9,7 +9,13 @@
     }
   ],
   "types": [
-    "Ice",
-    "Steel"
+    {
+      "name": "Ice",
+      "code": "ice"
+    },
+    {
+      "name": "Steel",
+      "code": "steel"
+    }
   ]
 }

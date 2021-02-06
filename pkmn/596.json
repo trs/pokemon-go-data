@@ -1,5 +1,5 @@
 {
-  "id": "596",
+  "uid": "596",
   "name": "Galvantula",
   "number": 596,
   "forms": [
@@ -9,7 +9,13 @@
     }
   ],
   "types": [
-    "Bug",
-    "Electric"
+    {
+      "name": "Bug",
+      "code": "bug"
+    },
+    {
+      "name": "Electric",
+      "code": "electric"
+    }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "id": "238",
+  "uid": "238",
   "name": "Smoochum",
   "number": 238,
   "forms": [
@@ -9,7 +9,13 @@
     }
   ],
   "types": [
-    "Ice",
-    "Psychic"
+    {
+      "name": "Ice",
+      "code": "ice"
+    },
+    {
+      "name": "Psychic",
+      "code": "psychic"
+    }
   ]
 }

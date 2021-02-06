@@ -1,5 +1,5 @@
 {
-  "id": "555-galarian-zen",
+  "uid": "555-galarian-zen",
   "name": "Darmanitan",
   "number": 555,
   "forms": [
@@ -13,7 +13,13 @@
     }
   ],
   "types": [
-    "Ice",
-    "Fire"
+    {
+      "name": "Ice",
+      "code": "ice"
+    },
+    {
+      "name": "Fire",
+      "code": "fire"
+    }
   ]
 }

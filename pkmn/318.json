@@ -1,5 +1,5 @@
 {
-  "id": "318",
+  "uid": "318",
   "name": "Carvanha",
   "number": 318,
   "forms": [
@@ -9,7 +9,13 @@
     }
   ],
   "types": [
-    "Water",
-    "Dark"
+    {
+      "name": "Water",
+      "code": "water"
+    },
+    {
+      "name": "Dark",
+      "code": "dark"
+    }
   ]
 }

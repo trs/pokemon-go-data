@@ -1,5 +1,5 @@
 {
-  "id": "594",
+  "uid": "594",
   "name": "Alomomola",
   "number": 594,
   "forms": [
@@ -9,6 +9,9 @@
     }
   ],
   "types": [
-    "Water"
+    {
+      "name": "Water",
+      "code": "water"
+    }
   ]
 }

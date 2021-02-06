@@ -1,5 +1,5 @@
 {
-  "id": "628",
+  "uid": "628",
   "name": "Braviary",
   "number": 628,
   "forms": [
@@ -9,7 +9,13 @@
     }
   ],
   "types": [
-    "Normal",
-    "Flying"
+    {
+      "name": "Normal",
+      "code": "normal"
+    },
+    {
+      "name": "Flying",
+      "code": "flying"
+    }
   ]
 }

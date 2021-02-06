@@ -1,5 +1,5 @@
 {
-  "id": "526",
+  "uid": "526",
   "name": "Gigalith",
   "number": 526,
   "forms": [
@@ -9,6 +9,9 @@
     }
   ],
   "types": [
-    "Rock"
+    {
+      "name": "Rock",
+      "code": "rock"
+    }
   ]
 }

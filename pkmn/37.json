@@ -1,5 +1,5 @@
 {
-  "id": "37",
+  "uid": "37",
   "name": "Vulpix",
   "number": 37,
   "forms": [
@@ -9,6 +9,9 @@
     }
   ],
   "types": [
-    "Fire"
+    {
+      "name": "Fire",
+      "code": "fire"
+    }
   ]
 }

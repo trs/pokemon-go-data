@@ -1,5 +1,5 @@
 {
-  "id": "286",
+  "uid": "286",
   "name": "Breloom",
   "number": 286,
   "forms": [
@@ -9,7 +9,13 @@
     }
   ],
   "types": [
-    "Grass",
-    "Fighting"
+    {
+      "name": "Grass",
+      "code": "grass"
+    },
+    {
+      "name": "Fighting",
+      "code": "fighting"
+    }
   ]
 }

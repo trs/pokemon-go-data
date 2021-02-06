@@ -1,5 +1,5 @@
 {
-  "id": "865",
+  "uid": "865",
   "name": "Sirfetch’d",
   "number": 865,
   "forms": [
@@ -9,6 +9,9 @@
     }
   ],
   "types": [
-    "Fighting"
+    {
+      "name": "Fighting",
+      "code": "fighting"
+    }
   ]
 }

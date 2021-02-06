@@ -1,5 +1,5 @@
 {
-  "id": "343",
+  "uid": "343",
   "name": "Baltoy",
   "number": 343,
   "forms": [
@@ -9,7 +9,13 @@
     }
   ],
   "types": [
-    "Ground",
-    "Psychic"
+    {
+      "name": "Ground",
+      "code": "ground"
+    },
+    {
+      "name": "Psychic",
+      "code": "psychic"
+    }
   ]
 }

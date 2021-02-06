@@ -1,5 +1,5 @@
 {
-  "id": "288",
+  "uid": "288",
   "name": "Vigoroth",
   "number": 288,
   "forms": [
@@ -9,6 +9,9 @@
     }
   ],
   "types": [
-    "Normal"
+    {
+      "name": "Normal",
+      "code": "normal"
+    }
   ]
 }

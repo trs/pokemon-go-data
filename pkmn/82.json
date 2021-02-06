@@ -1,5 +1,5 @@
 {
-  "id": "82",
+  "uid": "82",
   "name": "Magneton",
   "number": 82,
   "forms": [
@@ -9,7 +9,13 @@
     }
   ],
   "types": [
-    "Electric",
-    "Steel"
+    {
+      "name": "Electric",
+      "code": "electric"
+    },
+    {
+      "name": "Steel",
+      "code": "steel"
+    }
   ]
 }

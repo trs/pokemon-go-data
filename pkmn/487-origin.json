@@ -1,5 +1,5 @@
 {
-  "id": "487-origin",
+  "uid": "487-origin",
   "name": "Giratina",
   "number": 487,
   "forms": [
@@ -9,7 +9,13 @@
     }
   ],
   "types": [
-    "Ghost",
-    "Dragon"
+    {
+      "name": "Ghost",
+      "code": "ghost"
+    },
+    {
+      "name": "Dragon",
+      "code": "dragon"
+    }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "id": "413-trash",
+  "uid": "413-trash",
   "name": "Wormadam",
   "number": 413,
   "forms": [
@@ -9,7 +9,13 @@
     }
   ],
   "types": [
-    "Bug",
-    "Steel"
+    {
+      "name": "Bug",
+      "code": "bug"
+    },
+    {
+      "name": "Steel",
+      "code": "steel"
+    }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "id": "655",
+  "uid": "655",
   "name": "Delphox",
   "number": 655,
   "forms": [
@@ -9,7 +9,13 @@
     }
   ],
   "types": [
-    "Fire",
-    "Psychic"
+    {
+      "name": "Fire",
+      "code": "fire"
+    },
+    {
+      "name": "Psychic",
+      "code": "psychic"
+    }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "id": "229-mega",
+  "uid": "229-mega",
   "name": "Houndoom",
   "number": 229,
   "forms": [
@@ -13,7 +13,13 @@
     }
   ],
   "types": [
-    "Dark",
-    "Fire"
+    {
+      "name": "Dark",
+      "code": "dark"
+    },
+    {
+      "name": "Fire",
+      "code": "fire"
+    }
   ]
 }

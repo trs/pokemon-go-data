@@ -1,5 +1,5 @@
 {
-  "id": "220",
+  "uid": "220",
   "name": "Swinub",
   "number": 220,
   "forms": [
@@ -9,7 +9,13 @@
     }
   ],
   "types": [
-    "Ice",
-    "Ground"
+    {
+      "name": "Ice",
+      "code": "ice"
+    },
+    {
+      "name": "Ground",
+      "code": "ground"
+    }
   ]
 }

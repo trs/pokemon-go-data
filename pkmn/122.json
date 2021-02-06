@@ -1,5 +1,5 @@
 {
-  "id": "122",
+  "uid": "122",
   "name": "Mr. Mime",
   "number": 122,
   "forms": [
@@ -9,7 +9,13 @@
     }
   ],
   "types": [
-    "Psychic",
-    "Fairy"
+    {
+      "name": "Psychic",
+      "code": "psychic"
+    },
+    {
+      "name": "Fairy",
+      "code": "fairy"
+    }
   ]
 }

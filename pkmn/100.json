@@ -1,5 +1,5 @@
 {
-  "id": "100",
+  "uid": "100",
   "name": "Voltorb",
   "number": 100,
   "forms": [
@@ -9,6 +9,9 @@
     }
   ],
   "types": [
-    "Electric"
+    {
+      "name": "Electric",
+      "code": "electric"
+    }
   ]
 }

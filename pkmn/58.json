@@ -1,5 +1,5 @@
 {
-  "id": "58",
+  "uid": "58",
   "name": "Growlithe",
   "number": 58,
   "forms": [
@@ -9,6 +9,9 @@
     }
   ],
   "types": [
-    "Fire"
+    {
+      "name": "Fire",
+      "code": "fire"
+    }
   ]
 }

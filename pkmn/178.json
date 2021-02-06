@@ -1,5 +1,5 @@
 {
-  "id": "178",
+  "uid": "178",
   "name": "Xatu",
   "number": 178,
   "forms": [
@@ -9,7 +9,13 @@
     }
   ],
   "types": [
-    "Psychic",
-    "Flying"
+    {
+      "name": "Psychic",
+      "code": "psychic"
+    },
+    {
+      "name": "Flying",
+      "code": "flying"
+    }
   ]
 }

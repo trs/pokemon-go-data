@@ -1,5 +1,5 @@
 {
-  "id": "41",
+  "uid": "41",
   "name": "Zubat",
   "number": 41,
   "forms": [
@@ -9,7 +9,13 @@
     }
   ],
   "types": [
-    "Poison",
-    "Flying"
+    {
+      "name": "Poison",
+      "code": "poison"
+    },
+    {
+      "name": "Flying",
+      "code": "flying"
+    }
   ]
 }

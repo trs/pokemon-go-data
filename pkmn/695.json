@@ -1,5 +1,5 @@
 {
-  "id": "695",
+  "uid": "695",
   "name": "Heliolisk",
   "number": 695,
   "forms": [
@@ -9,7 +9,13 @@
     }
   ],
   "types": [
-    "Electric",
-    "Normal"
+    {
+      "name": "Electric",
+      "code": "electric"
+    },
+    {
+      "name": "Normal",
+      "code": "normal"
+    }
   ]
 }

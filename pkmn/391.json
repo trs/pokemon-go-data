@@ -1,5 +1,5 @@
 {
-  "id": "391",
+  "uid": "391",
   "name": "Monferno",
   "number": 391,
   "forms": [
@@ -9,7 +9,13 @@
     }
   ],
   "types": [
-    "Fire",
-    "Fighting"
+    {
+      "name": "Fire",
+      "code": "fire"
+    },
+    {
+      "name": "Fighting",
+      "code": "fighting"
+    }
   ]
 }

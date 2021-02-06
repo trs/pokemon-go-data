@@ -1,5 +1,5 @@
 {
-  "id": "168",
+  "uid": "168",
   "name": "Ariados",
   "number": 168,
   "forms": [
@@ -9,7 +9,13 @@
     }
   ],
   "types": [
-    "Bug",
-    "Poison"
+    {
+      "name": "Bug",
+      "code": "bug"
+    },
+    {
+      "name": "Poison",
+      "code": "poison"
+    }
   ]
 }

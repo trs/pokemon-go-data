@@ -1,5 +1,5 @@
 {
-  "id": "272",
+  "uid": "272",
   "name": "Ludicolo",
   "number": 272,
   "forms": [
@@ -9,7 +9,13 @@
     }
   ],
   "types": [
-    "Water",
-    "Grass"
+    {
+      "name": "Water",
+      "code": "water"
+    },
+    {
+      "name": "Grass",
+      "code": "grass"
+    }
   ]
 }

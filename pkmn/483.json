@@ -1,5 +1,5 @@
 {
-  "id": "483",
+  "uid": "483",
   "name": "Dialga",
   "number": 483,
   "forms": [
@@ -9,7 +9,13 @@
     }
   ],
   "types": [
-    "Steel",
-    "Dragon"
+    {
+      "name": "Steel",
+      "code": "steel"
+    },
+    {
+      "name": "Dragon",
+      "code": "dragon"
+    }
   ]
 }

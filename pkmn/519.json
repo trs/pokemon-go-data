@@ -1,5 +1,5 @@
 {
-  "id": "519",
+  "uid": "519",
   "name": "Pidove",
   "number": 519,
   "forms": [
@@ -9,7 +9,13 @@
     }
   ],
   "types": [
-    "Normal",
-    "Flying"
+    {
+      "name": "Normal",
+      "code": "normal"
+    },
+    {
+      "name": "Flying",
+      "code": "flying"
+    }
   ]
 }

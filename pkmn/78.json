@@ -1,5 +1,5 @@
 {
-  "id": "78",
+  "uid": "78",
   "name": "Rapidash",
   "number": 78,
   "forms": [
@@ -9,6 +9,9 @@
     }
   ],
   "types": [
-    "Fire"
+    {
+      "name": "Fire",
+      "code": "fire"
+    }
   ]
 }

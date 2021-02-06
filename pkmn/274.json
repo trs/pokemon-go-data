@@ -1,5 +1,5 @@
 {
-  "id": "274",
+  "uid": "274",
   "name": "Nuzleaf",
   "number": 274,
   "forms": [
@@ -9,7 +9,13 @@
     }
   ],
   "types": [
-    "Grass",
-    "Dark"
+    {
+      "name": "Grass",
+      "code": "grass"
+    },
+    {
+      "name": "Dark",
+      "code": "dark"
+    }
   ]
 }

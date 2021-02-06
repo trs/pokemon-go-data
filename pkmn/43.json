@@ -1,5 +1,5 @@
 {
-  "id": "43",
+  "uid": "43",
   "name": "Oddish",
   "number": 43,
   "forms": [
@@ -9,7 +9,13 @@
     }
   ],
   "types": [
-    "Grass",
-    "Poison"
+    {
+      "name": "Grass",
+      "code": "grass"
+    },
+    {
+      "name": "Poison",
+      "code": "poison"
+    }
   ]
 }

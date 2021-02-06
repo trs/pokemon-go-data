@@ -1,5 +1,5 @@
 {
-  "id": "283",
+  "uid": "283",
   "name": "Surskit",
   "number": 283,
   "forms": [
@@ -9,7 +9,13 @@
     }
   ],
   "types": [
-    "Bug",
-    "Water"
+    {
+      "name": "Bug",
+      "code": "bug"
+    },
+    {
+      "name": "Water",
+      "code": "water"
+    }
   ]
 }

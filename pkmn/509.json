@@ -1,5 +1,5 @@
 {
-  "id": "509",
+  "uid": "509",
   "name": "Purrloin",
   "number": 509,
   "forms": [
@@ -9,6 +9,9 @@
     }
   ],
   "types": [
-    "Dark"
+    {
+      "name": "Dark",
+      "code": "dark"
+    }
   ]
 }

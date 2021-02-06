@@ -1,5 +1,5 @@
 {
-  "id": "686",
+  "uid": "686",
   "name": "Inkay",
   "number": 686,
   "forms": [
@@ -9,7 +9,13 @@
     }
   ],
   "types": [
-    "Dark",
-    "Psychic"
+    {
+      "name": "Dark",
+      "code": "dark"
+    },
+    {
+      "name": "Psychic",
+      "code": "psychic"
+    }
   ]
 }

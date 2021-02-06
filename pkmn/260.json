@@ -1,5 +1,5 @@
 {
-  "id": "260",
+  "uid": "260",
   "name": "Swampert",
   "number": 260,
   "forms": [
@@ -9,7 +9,13 @@
     }
   ],
   "types": [
-    "Water",
-    "Ground"
+    {
+      "name": "Water",
+      "code": "water"
+    },
+    {
+      "name": "Ground",
+      "code": "ground"
+    }
   ]
 }

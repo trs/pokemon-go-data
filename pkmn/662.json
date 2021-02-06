@@ -1,5 +1,5 @@
 {
-  "id": "662",
+  "uid": "662",
   "name": "Fletchinder",
   "number": 662,
   "forms": [
@@ -9,7 +9,13 @@
     }
   ],
   "types": [
-    "Fire",
-    "Flying"
+    {
+      "name": "Fire",
+      "code": "fire"
+    },
+    {
+      "name": "Flying",
+      "code": "flying"
+    }
   ]
 }

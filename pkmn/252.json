@@ -1,5 +1,5 @@
 {
-  "id": "252",
+  "uid": "252",
   "name": "Treecko",
   "number": 252,
   "forms": [
@@ -9,6 +9,9 @@
     }
   ],
   "types": [
-    "Grass"
+    {
+      "name": "Grass",
+      "code": "grass"
+    }
   ]
 }

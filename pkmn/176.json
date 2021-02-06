@@ -1,5 +1,5 @@
 {
-  "id": "176",
+  "uid": "176",
   "name": "Togetic",
   "number": 176,
   "forms": [
@@ -9,7 +9,13 @@
     }
   ],
   "types": [
-    "Fairy",
-    "Flying"
+    {
+      "name": "Fairy",
+      "code": "fairy"
+    },
+    {
+      "name": "Flying",
+      "code": "flying"
+    }
   ]
 }

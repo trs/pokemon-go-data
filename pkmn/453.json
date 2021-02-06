@@ -1,5 +1,5 @@
 {
-  "id": "453",
+  "uid": "453",
   "name": "Croagunk",
   "number": 453,
   "forms": [
@@ -9,7 +9,13 @@
     }
   ],
   "types": [
-    "Poison",
-    "Fighting"
+    {
+      "name": "Poison",
+      "code": "poison"
+    },
+    {
+      "name": "Fighting",
+      "code": "fighting"
+    }
   ]
 }

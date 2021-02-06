@@ -1,5 +1,5 @@
 {
-  "id": "250",
+  "uid": "250",
   "name": "Ho-Oh",
   "number": 250,
   "forms": [
@@ -9,7 +9,13 @@
     }
   ],
   "types": [
-    "Fire",
-    "Flying"
+    {
+      "name": "Fire",
+      "code": "fire"
+    },
+    {
+      "name": "Flying",
+      "code": "flying"
+    }
   ]
 }

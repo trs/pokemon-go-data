@@ -1,5 +1,5 @@
 {
-  "id": "184",
+  "uid": "184",
   "name": "Azumarill",
   "number": 184,
   "forms": [
@@ -9,7 +9,13 @@
     }
   ],
   "types": [
-    "Water",
-    "Fairy"
+    {
+      "name": "Water",
+      "code": "water"
+    },
+    {
+      "name": "Fairy",
+      "code": "fairy"
+    }
   ]
 }

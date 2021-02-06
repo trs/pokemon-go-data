@@ -1,5 +1,5 @@
 {
-  "id": "365",
+  "uid": "365",
   "name": "Walrein",
   "number": 365,
   "forms": [
@@ -9,7 +9,13 @@
     }
   ],
   "types": [
-    "Ice",
-    "Water"
+    {
+      "name": "Ice",
+      "code": "ice"
+    },
+    {
+      "name": "Water",
+      "code": "water"
+    }
   ]
 }

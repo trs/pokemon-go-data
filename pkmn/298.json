@@ -1,5 +1,5 @@
 {
-  "id": "298",
+  "uid": "298",
   "name": "Azurill",
   "number": 298,
   "forms": [
@@ -9,7 +9,13 @@
     }
   ],
   "types": [
-    "Normal",
-    "Fairy"
+    {
+      "name": "Normal",
+      "code": "normal"
+    },
+    {
+      "name": "Fairy",
+      "code": "fairy"
+    }
   ]
 }

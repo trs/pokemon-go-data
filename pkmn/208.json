@@ -1,5 +1,5 @@
 {
-  "id": "208",
+  "uid": "208",
   "name": "Steelix",
   "number": 208,
   "forms": [
@@ -9,7 +9,13 @@
     }
   ],
   "types": [
-    "Steel",
-    "Ground"
+    {
+      "name": "Steel",
+      "code": "steel"
+    },
+    {
+      "name": "Ground",
+      "code": "ground"
+    }
   ]
 }

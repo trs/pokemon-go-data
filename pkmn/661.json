@@ -1,5 +1,5 @@
 {
-  "id": "661",
+  "uid": "661",
   "name": "Fletchling",
   "number": 661,
   "forms": [
@@ -9,7 +9,13 @@
     }
   ],
   "types": [
-    "Normal",
-    "Flying"
+    {
+      "name": "Normal",
+      "code": "normal"
+    },
+    {
+      "name": "Flying",
+      "code": "flying"
+    }
   ]
 }

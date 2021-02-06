@@ -1,5 +1,5 @@
 {
-  "id": "493-fighting",
+  "uid": "493-fighting",
   "name": "Arceus",
   "number": 493,
   "forms": [
@@ -9,6 +9,9 @@
     }
   ],
   "types": [
-    "Fighting"
+    {
+      "name": "Fighting",
+      "code": "fighting"
+    }
   ]
 }

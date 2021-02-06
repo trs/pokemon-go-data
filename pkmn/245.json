@@ -1,5 +1,5 @@
 {
-  "id": "245",
+  "uid": "245",
   "name": "Suicune",
   "number": 245,
   "forms": [
@@ -9,6 +9,9 @@
     }
   ],
   "types": [
-    "Water"
+    {
+      "name": "Water",
+      "code": "water"
+    }
   ]
 }

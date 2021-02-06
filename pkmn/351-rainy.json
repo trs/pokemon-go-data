@@ -1,5 +1,5 @@
 {
-  "id": "351-rainy",
+  "uid": "351-rainy",
   "name": "Castform",
   "number": 351,
   "forms": [
@@ -9,6 +9,9 @@
     }
   ],
   "types": [
-    "Water"
+    {
+      "name": "Water",
+      "code": "water"
+    }
   ]
 }

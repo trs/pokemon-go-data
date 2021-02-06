@@ -1,5 +1,5 @@
 {
-  "id": "386",
+  "uid": "386",
   "name": "Deoxys",
   "number": 386,
   "forms": [
@@ -9,6 +9,9 @@
     }
   ],
   "types": [
-    "Psychic"
+    {
+      "name": "Psychic",
+      "code": "psychic"
+    }
   ]
 }

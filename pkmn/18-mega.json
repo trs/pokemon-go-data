@@ -1,5 +1,5 @@
 {
-  "id": "18-mega",
+  "uid": "18-mega",
   "name": "Pidgeot",
   "number": 18,
   "forms": [
@@ -13,7 +13,13 @@
     }
   ],
   "types": [
-    "Normal",
-    "Flying"
+    {
+      "name": "Normal",
+      "code": "normal"
+    },
+    {
+      "name": "Flying",
+      "code": "flying"
+    }
   ]
 }

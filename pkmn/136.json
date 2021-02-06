@@ -1,5 +1,5 @@
 {
-  "id": "136",
+  "uid": "136",
   "name": "Flareon",
   "number": 136,
   "forms": [
@@ -9,6 +9,9 @@
     }
   ],
   "types": [
-    "Fire"
+    {
+      "name": "Fire",
+      "code": "fire"
+    }
   ]
 }

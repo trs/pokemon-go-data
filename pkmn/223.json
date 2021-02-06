@@ -1,5 +1,5 @@
 {
-  "id": "223",
+  "uid": "223",
   "name": "Remoraid",
   "number": 223,
   "forms": [
@@ -9,6 +9,9 @@
     }
   ],
   "types": [
-    "Water"
+    {
+      "name": "Water",
+      "code": "water"
+    }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "id": "592-female",
+  "uid": "592-female",
   "name": "Frillish",
   "number": 592,
   "forms": [
@@ -9,7 +9,13 @@
     }
   ],
   "types": [
-    "Water",
-    "Ghost"
+    {
+      "name": "Water",
+      "code": "water"
+    },
+    {
+      "name": "Ghost",
+      "code": "ghost"
+    }
   ]
 }

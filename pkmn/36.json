@@ -1,5 +1,5 @@
 {
-  "id": "36",
+  "uid": "36",
   "name": "Clefable",
   "number": 36,
   "forms": [
@@ -9,6 +9,9 @@
     }
   ],
   "types": [
-    "Fairy"
+    {
+      "name": "Fairy",
+      "code": "fairy"
+    }
   ]
 }

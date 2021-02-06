@@ -1,5 +1,5 @@
 {
-  "id": "422-west-sea",
+  "uid": "422-west-sea",
   "name": "Shellos",
   "number": 422,
   "forms": [
@@ -9,6 +9,9 @@
     }
   ],
   "types": [
-    "Water"
+    {
+      "name": "Water",
+      "code": "water"
+    }
   ]
 }

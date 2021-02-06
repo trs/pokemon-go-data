@@ -1,5 +1,5 @@
 {
-  "id": "214",
+  "uid": "214",
   "name": "Heracross",
   "number": 214,
   "forms": [
@@ -9,7 +9,13 @@
     }
   ],
   "types": [
-    "Bug",
-    "Fighting"
+    {
+      "name": "Bug",
+      "code": "bug"
+    },
+    {
+      "name": "Fighting",
+      "code": "fighting"
+    }
   ]
 }

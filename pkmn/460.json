@@ -1,5 +1,5 @@
 {
-  "id": "460",
+  "uid": "460",
   "name": "Abomasnow",
   "number": 460,
   "forms": [
@@ -9,7 +9,13 @@
     }
   ],
   "types": [
-    "Grass",
-    "Ice"
+    {
+      "name": "Grass",
+      "code": "grass"
+    },
+    {
+      "name": "Ice",
+      "code": "ice"
+    }
   ]
 }

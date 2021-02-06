@@ -1,5 +1,5 @@
 {
-  "id": "649-shock",
+  "uid": "649-shock",
   "name": "Genesect",
   "number": 649,
   "forms": [
@@ -9,7 +9,13 @@
     }
   ],
   "types": [
-    "Bug",
-    "Steel"
+    {
+      "name": "Bug",
+      "code": "bug"
+    },
+    {
+      "name": "Steel",
+      "code": "steel"
+    }
   ]
 }

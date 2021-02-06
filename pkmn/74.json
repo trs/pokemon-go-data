@@ -1,5 +1,5 @@
 {
-  "id": "74",
+  "uid": "74",
   "name": "Geodude",
   "number": 74,
   "forms": [
@@ -9,7 +9,13 @@
     }
   ],
   "types": [
-    "Rock",
-    "Ground"
+    {
+      "name": "Rock",
+      "code": "rock"
+    },
+    {
+      "name": "Ground",
+      "code": "ground"
+    }
   ]
 }

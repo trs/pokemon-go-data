@@ -1,5 +1,5 @@
 {
-  "id": "412-trash",
+  "uid": "412-trash",
   "name": "Burmy",
   "number": 412,
   "forms": [
@@ -9,6 +9,9 @@
     }
   ],
   "types": [
-    "Bug"
+    {
+      "name": "Bug",
+      "code": "bug"
+    }
   ]
 }

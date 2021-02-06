@@ -1,5 +1,5 @@
 {
-  "id": "12",
+  "uid": "12",
   "name": "Butterfree",
   "number": 12,
   "forms": [
@@ -9,7 +9,13 @@
     }
   ],
   "types": [
-    "Bug",
-    "Flying"
+    {
+      "name": "Bug",
+      "code": "bug"
+    },
+    {
+      "name": "Flying",
+      "code": "flying"
+    }
   ]
 }

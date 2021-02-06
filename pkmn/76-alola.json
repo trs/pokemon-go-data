@@ -1,5 +1,5 @@
 {
-  "id": "76-alola",
+  "uid": "76-alola",
   "name": "Golem",
   "number": 76,
   "forms": [
@@ -9,7 +9,13 @@
     }
   ],
   "types": [
-    "Rock",
-    "Electric"
+    {
+      "name": "Rock",
+      "code": "rock"
+    },
+    {
+      "name": "Electric",
+      "code": "electric"
+    }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "id": "608",
+  "uid": "608",
   "name": "Lampent",
   "number": 608,
   "forms": [
@@ -9,7 +9,13 @@
     }
   ],
   "types": [
-    "Ghost",
-    "Fire"
+    {
+      "name": "Ghost",
+      "code": "ghost"
+    },
+    {
+      "name": "Fire",
+      "code": "fire"
+    }
   ]
 }

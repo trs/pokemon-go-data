@@ -1,5 +1,5 @@
 {
-  "id": "164",
+  "uid": "164",
   "name": "Noctowl",
   "number": 164,
   "forms": [
@@ -9,7 +9,13 @@
     }
   ],
   "types": [
-    "Normal",
-    "Flying"
+    {
+      "name": "Normal",
+      "code": "normal"
+    },
+    {
+      "name": "Flying",
+      "code": "flying"
+    }
   ]
 }

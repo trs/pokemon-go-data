@@ -1,5 +1,5 @@
 {
-  "id": "329",
+  "uid": "329",
   "name": "Vibrava",
   "number": 329,
   "forms": [
@@ -9,7 +9,13 @@
     }
   ],
   "types": [
-    "Ground",
-    "Dragon"
+    {
+      "name": "Ground",
+      "code": "ground"
+    },
+    {
+      "name": "Dragon",
+      "code": "dragon"
+    }
   ]
 }

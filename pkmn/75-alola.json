@@ -1,5 +1,5 @@
 {
-  "id": "75-alola",
+  "uid": "75-alola",
   "name": "Graveler",
   "number": 75,
   "forms": [
@@ -9,7 +9,13 @@
     }
   ],
   "types": [
-    "Rock",
-    "Electric"
+    {
+      "name": "Rock",
+      "code": "rock"
+    },
+    {
+      "name": "Electric",
+      "code": "electric"
+    }
   ]
 }

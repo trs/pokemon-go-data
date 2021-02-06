@@ -1,5 +1,5 @@
 {
-  "id": "609",
+  "uid": "609",
   "name": "Chandelure",
   "number": 609,
   "forms": [
@@ -9,7 +9,13 @@
     }
   ],
   "types": [
-    "Ghost",
-    "Fire"
+    {
+      "name": "Ghost",
+      "code": "ghost"
+    },
+    {
+      "name": "Fire",
+      "code": "fire"
+    }
   ]
 }

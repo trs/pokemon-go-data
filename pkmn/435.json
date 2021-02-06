@@ -1,5 +1,5 @@
 {
-  "id": "435",
+  "uid": "435",
   "name": "Skuntank",
   "number": 435,
   "forms": [
@@ -9,7 +9,13 @@
     }
   ],
   "types": [
-    "Poison",
-    "Dark"
+    {
+      "name": "Poison",
+      "code": "poison"
+    },
+    {
+      "name": "Dark",
+      "code": "dark"
+    }
   ]
 }

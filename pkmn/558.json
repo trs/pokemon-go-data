@@ -1,5 +1,5 @@
 {
-  "id": "558",
+  "uid": "558",
   "name": "Crustle",
   "number": 558,
   "forms": [
@@ -9,7 +9,13 @@
     }
   ],
   "types": [
-    "Bug",
-    "Rock"
+    {
+      "name": "Bug",
+      "code": "bug"
+    },
+    {
+      "name": "Rock",
+      "code": "rock"
+    }
   ]
 }

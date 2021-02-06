@@ -1,5 +1,5 @@
 {
-  "id": "332",
+  "uid": "332",
   "name": "Cacturne",
   "number": 332,
   "forms": [
@@ -9,7 +9,13 @@
     }
   ],
   "types": [
-    "Grass",
-    "Dark"
+    {
+      "name": "Grass",
+      "code": "grass"
+    },
+    {
+      "name": "Dark",
+      "code": "dark"
+    }
   ]
 }

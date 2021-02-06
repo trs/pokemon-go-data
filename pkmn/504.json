@@ -1,5 +1,5 @@
 {
-  "id": "504",
+  "uid": "504",
   "name": "Patrat",
   "number": 504,
   "forms": [
@@ -9,6 +9,9 @@
     }
   ],
   "types": [
-    "Normal"
+    {
+      "name": "Normal",
+      "code": "normal"
+    }
   ]
 }

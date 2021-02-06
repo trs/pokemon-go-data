@@ -1,5 +1,5 @@
 {
-  "id": "188",
+  "uid": "188",
   "name": "Skiploom",
   "number": 188,
   "forms": [
@@ -9,7 +9,13 @@
     }
   ],
   "types": [
-    "Grass",
-    "Flying"
+    {
+      "name": "Grass",
+      "code": "grass"
+    },
+    {
+      "name": "Flying",
+      "code": "flying"
+    }
   ]
 }

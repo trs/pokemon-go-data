@@ -1,5 +1,5 @@
 {
-  "id": "359",
+  "uid": "359",
   "name": "Absol",
   "number": 359,
   "forms": [
@@ -9,6 +9,9 @@
     }
   ],
   "types": [
-    "Dark"
+    {
+      "name": "Dark",
+      "code": "dark"
+    }
   ]
 }

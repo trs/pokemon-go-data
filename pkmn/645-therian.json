@@ -1,5 +1,5 @@
 {
-  "id": "645-therian",
+  "uid": "645-therian",
   "name": "Landorus",
   "number": 645,
   "forms": [
@@ -9,7 +9,13 @@
     }
   ],
   "types": [
-    "Ground",
-    "Flying"
+    {
+      "name": "Ground",
+      "code": "ground"
+    },
+    {
+      "name": "Flying",
+      "code": "flying"
+    }
   ]
 }

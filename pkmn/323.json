@@ -1,5 +1,5 @@
 {
-  "id": "323",
+  "uid": "323",
   "name": "Camerupt",
   "number": 323,
   "forms": [
@@ -9,7 +9,13 @@
     }
   ],
   "types": [
-    "Fire",
-    "Ground"
+    {
+      "name": "Fire",
+      "code": "fire"
+    },
+    {
+      "name": "Ground",
+      "code": "ground"
+    }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "id": "158",
+  "uid": "158",
   "name": "Totodile",
   "number": 158,
   "forms": [
@@ -9,6 +9,9 @@
     }
   ],
   "types": [
-    "Water"
+    {
+      "name": "Water",
+      "code": "water"
+    }
   ]
 }

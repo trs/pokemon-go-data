@@ -1,5 +1,5 @@
 {
-  "id": "135",
+  "uid": "135",
   "name": "Jolteon",
   "number": 135,
   "forms": [
@@ -9,6 +9,9 @@
     }
   ],
   "types": [
-    "Electric"
+    {
+      "name": "Electric",
+      "code": "electric"
+    }
   ]
 }

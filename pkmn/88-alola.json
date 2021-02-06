@@ -1,5 +1,5 @@
 {
-  "id": "88-alola",
+  "uid": "88-alola",
   "name": "Grimer",
   "number": 88,
   "forms": [
@@ -9,7 +9,13 @@
     }
   ],
   "types": [
-    "Poison",
-    "Dark"
+    {
+      "name": "Poison",
+      "code": "poison"
+    },
+    {
+      "name": "Dark",
+      "code": "dark"
+    }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "id": "708",
+  "uid": "708",
   "name": "Phantump",
   "number": 708,
   "forms": [
@@ -9,7 +9,13 @@
     }
   ],
   "types": [
-    "Ghost",
-    "Grass"
+    {
+      "name": "Ghost",
+      "code": "ghost"
+    },
+    {
+      "name": "Grass",
+      "code": "grass"
+    }
   ]
 }

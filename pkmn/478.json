@@ -1,5 +1,5 @@
 {
-  "id": "478",
+  "uid": "478",
   "name": "Froslass",
   "number": 478,
   "forms": [
@@ -9,7 +9,13 @@
     }
   ],
   "types": [
-    "Ice",
-    "Ghost"
+    {
+      "name": "Ice",
+      "code": "ice"
+    },
+    {
+      "name": "Ghost",
+      "code": "ghost"
+    }
   ]
 }

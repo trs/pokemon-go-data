@@ -1,5 +1,5 @@
 {
-  "id": "696",
+  "uid": "696",
   "name": "Tyrunt",
   "number": 696,
   "forms": [
@@ -9,7 +9,13 @@
     }
   ],
   "types": [
-    "Rock",
-    "Dragon"
+    {
+      "name": "Rock",
+      "code": "rock"
+    },
+    {
+      "name": "Dragon",
+      "code": "dragon"
+    }
   ]
 }

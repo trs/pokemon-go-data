@@ -1,5 +1,5 @@
 {
-  "id": "665",
+  "uid": "665",
   "name": "Spewpa",
   "number": 665,
   "forms": [
@@ -9,6 +9,9 @@
     }
   ],
   "types": [
-    "Bug"
+    {
+      "name": "Bug",
+      "code": "bug"
+    }
   ]
 }

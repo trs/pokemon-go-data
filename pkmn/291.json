@@ -1,5 +1,5 @@
 {
-  "id": "291",
+  "uid": "291",
   "name": "Ninjask",
   "number": 291,
   "forms": [
@@ -9,7 +9,13 @@
     }
   ],
   "types": [
-    "Bug",
-    "Flying"
+    {
+      "name": "Bug",
+      "code": "bug"
+    },
+    {
+      "name": "Flying",
+      "code": "flying"
+    }
   ]
 }

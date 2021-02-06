@@ -1,5 +1,5 @@
 {
-  "id": "624",
+  "uid": "624",
   "name": "Pawniard",
   "number": 624,
   "forms": [
@@ -9,7 +9,13 @@
     }
   ],
   "types": [
-    "Dark",
-    "Steel"
+    {
+      "name": "Dark",
+      "code": "dark"
+    },
+    {
+      "name": "Steel",
+      "code": "steel"
+    }
   ]
 }

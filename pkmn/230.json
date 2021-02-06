@@ -1,5 +1,5 @@
 {
-  "id": "230",
+  "uid": "230",
   "name": "Kingdra",
   "number": 230,
   "forms": [
@@ -9,7 +9,13 @@
     }
   ],
   "types": [
-    "Water",
-    "Dragon"
+    {
+      "name": "Water",
+      "code": "water"
+    },
+    {
+      "name": "Dragon",
+      "code": "dragon"
+    }
   ]
 }

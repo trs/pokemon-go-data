@@ -1,5 +1,5 @@
 {
-  "id": "3",
+  "uid": "3",
   "name": "Venusaur",
   "number": 3,
   "forms": [
@@ -9,7 +9,13 @@
     }
   ],
   "types": [
-    "Grass",
-    "Poison"
+    {
+      "name": "Grass",
+      "code": "grass"
+    },
+    {
+      "name": "Poison",
+      "code": "poison"
+    }
   ]
 }

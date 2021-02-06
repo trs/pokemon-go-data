@@ -1,5 +1,5 @@
 {
-  "id": "691",
+  "uid": "691",
   "name": "Dragalge",
   "number": 691,
   "forms": [
@@ -9,7 +9,13 @@
     }
   ],
   "types": [
-    "Poison",
-    "Dragon"
+    {
+      "name": "Poison",
+      "code": "poison"
+    },
+    {
+      "name": "Dragon",
+      "code": "dragon"
+    }
   ]
 }

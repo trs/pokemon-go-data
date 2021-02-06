@@ -1,5 +1,5 @@
 {
-  "id": "629",
+  "uid": "629",
   "name": "Vullaby",
   "number": 629,
   "forms": [
@@ -9,7 +9,13 @@
     }
   ],
   "types": [
-    "Dark",
-    "Flying"
+    {
+      "name": "Dark",
+      "code": "dark"
+    },
+    {
+      "name": "Flying",
+      "code": "flying"
+    }
   ]
 }

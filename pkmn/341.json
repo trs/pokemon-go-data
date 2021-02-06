@@ -1,5 +1,5 @@
 {
-  "id": "341",
+  "uid": "341",
   "name": "Corphish",
   "number": 341,
   "forms": [
@@ -9,6 +9,9 @@
     }
   ],
   "types": [
-    "Water"
+    {
+      "name": "Water",
+      "code": "water"
+    }
   ]
 }

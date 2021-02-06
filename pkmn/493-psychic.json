@@ -1,5 +1,5 @@
 {
-  "id": "493-psychic",
+  "uid": "493-psychic",
   "name": "Arceus",
   "number": 493,
   "forms": [
@@ -9,6 +9,9 @@
     }
   ],
   "types": [
-    "Psychic"
+    {
+      "name": "Psychic",
+      "code": "psychic"
+    }
   ]
 }

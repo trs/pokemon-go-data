@@ -1,5 +1,5 @@
 {
-  "id": "371",
+  "uid": "371",
   "name": "Bagon",
   "number": 371,
   "forms": [
@@ -9,6 +9,9 @@
     }
   ],
   "types": [
-    "Dragon"
+    {
+      "name": "Dragon",
+      "code": "dragon"
+    }
   ]
 }

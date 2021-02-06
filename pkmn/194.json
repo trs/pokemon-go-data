@@ -1,5 +1,5 @@
 {
-  "id": "194",
+  "uid": "194",
   "name": "Wooper",
   "number": 194,
   "forms": [
@@ -9,7 +9,13 @@
     }
   ],
   "types": [
-    "Water",
-    "Ground"
+    {
+      "name": "Water",
+      "code": "water"
+    },
+    {
+      "name": "Ground",
+      "code": "ground"
+    }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "id": "64",
+  "uid": "64",
   "name": "Kadabra",
   "number": 64,
   "forms": [
@@ -9,6 +9,9 @@
     }
   ],
   "types": [
-    "Psychic"
+    {
+      "name": "Psychic",
+      "code": "psychic"
+    }
   ]
 }

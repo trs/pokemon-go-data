@@ -1,5 +1,5 @@
 {
-  "id": "163",
+  "uid": "163",
   "name": "Hoothoot",
   "number": 163,
   "forms": [
@@ -9,7 +9,13 @@
     }
   ],
   "types": [
-    "Normal",
-    "Flying"
+    {
+      "name": "Normal",
+      "code": "normal"
+    },
+    {
+      "name": "Flying",
+      "code": "flying"
+    }
   ]
 }

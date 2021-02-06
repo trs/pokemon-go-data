@@ -1,5 +1,5 @@
 {
-  "id": "396",
+  "uid": "396",
   "name": "Starly",
   "number": 396,
   "forms": [
@@ -9,7 +9,13 @@
     }
   ],
   "types": [
-    "Normal",
-    "Flying"
+    {
+      "name": "Normal",
+      "code": "normal"
+    },
+    {
+      "name": "Flying",
+      "code": "flying"
+    }
   ]
 }

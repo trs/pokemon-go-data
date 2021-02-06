@@ -1,5 +1,5 @@
 {
-  "id": "492-sky",
+  "uid": "492-sky",
   "name": "Shaymin",
   "number": 492,
   "forms": [
@@ -9,7 +9,13 @@
     }
   ],
   "types": [
-    "Grass",
-    "Flying"
+    {
+      "name": "Grass",
+      "code": "grass"
+    },
+    {
+      "name": "Flying",
+      "code": "flying"
+    }
   ]
 }

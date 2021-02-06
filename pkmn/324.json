@@ -1,5 +1,5 @@
 {
-  "id": "324",
+  "uid": "324",
   "name": "Torkoal",
   "number": 324,
   "forms": [
@@ -9,6 +9,9 @@
     }
   ],
   "types": [
-    "Fire"
+    {
+      "name": "Fire",
+      "code": "fire"
+    }
   ]
 }

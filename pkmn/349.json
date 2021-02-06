@@ -1,5 +1,5 @@
 {
-  "id": "349",
+  "uid": "349",
   "name": "Feebas",
   "number": 349,
   "forms": [
@@ -9,6 +9,9 @@
     }
   ],
   "types": [
-    "Water"
+    {
+      "name": "Water",
+      "code": "water"
+    }
   ]
 }

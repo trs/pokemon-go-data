@@ -1,5 +1,5 @@
 {
-  "id": "15",
+  "uid": "15",
   "name": "Beedrill",
   "number": 15,
   "forms": [
@@ -9,7 +9,13 @@
     }
   ],
   "types": [
-    "Bug",
-    "Poison"
+    {
+      "name": "Bug",
+      "code": "bug"
+    },
+    {
+      "name": "Poison",
+      "code": "poison"
+    }
   ]
 }

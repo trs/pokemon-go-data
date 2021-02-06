@@ -1,5 +1,5 @@
 {
-  "id": "646-black",
+  "uid": "646-black",
   "name": "Kyurem",
   "number": 646,
   "forms": [
@@ -9,7 +9,13 @@
     }
   ],
   "types": [
-    "Dragon",
-    "Ice"
+    {
+      "name": "Dragon",
+      "code": "dragon"
+    },
+    {
+      "name": "Ice",
+      "code": "ice"
+    }
   ]
 }

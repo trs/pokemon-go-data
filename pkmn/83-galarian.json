@@ -1,5 +1,5 @@
 {
-  "id": "83-galarian",
+  "uid": "83-galarian",
   "name": "Farfetch'd",
   "number": 83,
   "forms": [
@@ -9,6 +9,9 @@
     }
   ],
   "types": [
-    "Fighting"
+    {
+      "name": "Fighting",
+      "code": "fighting"
+    }
   ]
 }

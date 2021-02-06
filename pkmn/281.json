@@ -1,5 +1,5 @@
 {
-  "id": "281",
+  "uid": "281",
   "name": "Kirlia",
   "number": 281,
   "forms": [
@@ -9,7 +9,13 @@
     }
   ],
   "types": [
-    "Psychic",
-    "Fairy"
+    {
+      "name": "Psychic",
+      "code": "psychic"
+    },
+    {
+      "name": "Fairy",
+      "code": "fairy"
+    }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "id": "649-chill",
+  "uid": "649-chill",
   "name": "Genesect",
   "number": 649,
   "forms": [
@@ -9,7 +9,13 @@
     }
   ],
   "types": [
-    "Bug",
-    "Steel"
+    {
+      "name": "Bug",
+      "code": "bug"
+    },
+    {
+      "name": "Steel",
+      "code": "steel"
+    }
   ]
 }

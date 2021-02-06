@@ -1,5 +1,5 @@
 {
-  "id": "598",
+  "uid": "598",
   "name": "Ferrothorn",
   "number": 598,
   "forms": [
@@ -9,7 +9,13 @@
     }
   ],
   "types": [
-    "Grass",
-    "Steel"
+    {
+      "name": "Grass",
+      "code": "grass"
+    },
+    {
+      "name": "Steel",
+      "code": "steel"
+    }
   ]
 }

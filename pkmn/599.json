@@ -1,5 +1,5 @@
 {
-  "id": "599",
+  "uid": "599",
   "name": "Klink",
   "number": 599,
   "forms": [
@@ -9,6 +9,9 @@
     }
   ],
   "types": [
-    "Steel"
+    {
+      "name": "Steel",
+      "code": "steel"
+    }
   ]
 }

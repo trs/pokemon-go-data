@@ -1,5 +1,5 @@
 {
-  "id": "251",
+  "uid": "251",
   "name": "Celebi",
   "number": 251,
   "forms": [
@@ -9,7 +9,13 @@
     }
   ],
   "types": [
-    "Psychic",
-    "Grass"
+    {
+      "name": "Psychic",
+      "code": "psychic"
+    },
+    {
+      "name": "Grass",
+      "code": "grass"
+    }
   ]
 }

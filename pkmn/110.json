@@ -1,5 +1,5 @@
 {
-  "id": "110",
+  "uid": "110",
   "name": "Weezing",
   "number": 110,
   "forms": [
@@ -9,6 +9,9 @@
     }
   ],
   "types": [
-    "Poison"
+    {
+      "name": "Poison",
+      "code": "poison"
+    }
   ]
 }

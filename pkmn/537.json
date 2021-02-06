@@ -1,5 +1,5 @@
 {
-  "id": "537",
+  "uid": "537",
   "name": "Seismitoad",
   "number": 537,
   "forms": [
@@ -9,7 +9,13 @@
     }
   ],
   "types": [
-    "Water",
-    "Ground"
+    {
+      "name": "Water",
+      "code": "water"
+    },
+    {
+      "name": "Ground",
+      "code": "ground"
+    }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "id": "645-incarnate",
+  "uid": "645-incarnate",
   "name": "Landorus",
   "number": 645,
   "forms": [
@@ -9,7 +9,13 @@
     }
   ],
   "types": [
-    "Ground",
-    "Flying"
+    {
+      "name": "Ground",
+      "code": "ground"
+    },
+    {
+      "name": "Flying",
+      "code": "flying"
+    }
   ]
 }

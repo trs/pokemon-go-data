@@ -1,5 +1,5 @@
 {
-  "id": "16",
+  "uid": "16",
   "name": "Pidgey",
   "number": 16,
   "forms": [
@@ -9,7 +9,13 @@
     }
   ],
   "types": [
-    "Normal",
-    "Flying"
+    {
+      "name": "Normal",
+      "code": "normal"
+    },
+    {
+      "name": "Flying",
+      "code": "flying"
+    }
   ]
 }

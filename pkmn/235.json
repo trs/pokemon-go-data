@@ -1,5 +1,5 @@
 {
-  "id": "235",
+  "uid": "235",
   "name": "Smeargle",
   "number": 235,
   "forms": [
@@ -9,6 +9,9 @@
     }
   ],
   "types": [
-    "Normal"
+    {
+      "name": "Normal",
+      "code": "normal"
+    }
   ]
 }

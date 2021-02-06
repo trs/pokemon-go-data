@@ -1,5 +1,5 @@
 {
-  "id": "107",
+  "uid": "107",
   "name": "Hitmonchan",
   "number": 107,
   "forms": [
@@ -9,6 +9,9 @@
     }
   ],
   "types": [
-    "Fighting"
+    {
+      "name": "Fighting",
+      "code": "fighting"
+    }
   ]
 }

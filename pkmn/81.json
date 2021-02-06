@@ -1,5 +1,5 @@
 {
-  "id": "81",
+  "uid": "81",
   "name": "Magnemite",
   "number": 81,
   "forms": [
@@ -9,7 +9,13 @@
     }
   ],
   "types": [
-    "Electric",
-    "Steel"
+    {
+      "name": "Electric",
+      "code": "electric"
+    },
+    {
+      "name": "Steel",
+      "code": "steel"
+    }
   ]
 }

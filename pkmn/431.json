@@ -1,5 +1,5 @@
 {
-  "id": "431",
+  "uid": "431",
   "name": "Glameow",
   "number": 431,
   "forms": [
@@ -9,6 +9,9 @@
     }
   ],
   "types": [
-    "Normal"
+    {
+      "name": "Normal",
+      "code": "normal"
+    }
   ]
 }

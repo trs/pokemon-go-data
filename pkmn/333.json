@@ -1,5 +1,5 @@
 {
-  "id": "333",
+  "uid": "333",
   "name": "Swablu",
   "number": 333,
   "forms": [
@@ -9,7 +9,13 @@
     }
   ],
   "types": [
-    "Normal",
-    "Flying"
+    {
+      "name": "Normal",
+      "code": "normal"
+    },
+    {
+      "name": "Flying",
+      "code": "flying"
+    }
   ]
 }

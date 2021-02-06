@@ -1,5 +1,5 @@
 {
-  "id": "344",
+  "uid": "344",
   "name": "Claydol",
   "number": 344,
   "forms": [
@@ -9,7 +9,13 @@
     }
   ],
   "types": [
-    "Ground",
-    "Psychic"
+    {
+      "name": "Ground",
+      "code": "ground"
+    },
+    {
+      "name": "Psychic",
+      "code": "psychic"
+    }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "id": "545",
+  "uid": "545",
   "name": "Scolipede",
   "number": 545,
   "forms": [
@@ -9,7 +9,13 @@
     }
   ],
   "types": [
-    "Bug",
-    "Poison"
+    {
+      "name": "Bug",
+      "code": "bug"
+    },
+    {
+      "name": "Poison",
+      "code": "poison"
+    }
   ]
 }

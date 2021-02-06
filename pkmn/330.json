@@ -1,5 +1,5 @@
 {
-  "id": "330",
+  "uid": "330",
   "name": "Flygon",
   "number": 330,
   "forms": [
@@ -9,7 +9,13 @@
     }
   ],
   "types": [
-    "Ground",
-    "Dragon"
+    {
+      "name": "Ground",
+      "code": "ground"
+    },
+    {
+      "name": "Dragon",
+      "code": "dragon"
+    }
   ]
 }

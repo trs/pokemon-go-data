@@ -1,5 +1,5 @@
 {
-  "id": "186",
+  "uid": "186",
   "name": "Politoed",
   "number": 186,
   "forms": [
@@ -9,6 +9,9 @@
     }
   ],
   "types": [
-    "Water"
+    {
+      "name": "Water",
+      "code": "water"
+    }
   ]
 }

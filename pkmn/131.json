@@ -1,5 +1,5 @@
 {
-  "id": "131",
+  "uid": "131",
   "name": "Lapras",
   "number": 131,
   "forms": [
@@ -9,7 +9,13 @@
     }
   ],
   "types": [
-    "Water",
-    "Ice"
+    {
+      "name": "Water",
+      "code": "water"
+    },
+    {
+      "name": "Ice",
+      "code": "ice"
+    }
   ]
 }

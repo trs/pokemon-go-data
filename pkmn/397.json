@@ -1,5 +1,5 @@
 {
-  "id": "397",
+  "uid": "397",
   "name": "Staravia",
   "number": 397,
   "forms": [
@@ -9,7 +9,13 @@
     }
   ],
   "types": [
-    "Normal",
-    "Flying"
+    {
+      "name": "Normal",
+      "code": "normal"
+    },
+    {
+      "name": "Flying",
+      "code": "flying"
+    }
   ]
 }

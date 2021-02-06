@@ -1,5 +1,5 @@
 {
-  "id": "221",
+  "uid": "221",
   "name": "Piloswine",
   "number": 221,
   "forms": [
@@ -9,7 +9,13 @@
     }
   ],
   "types": [
-    "Ice",
-    "Ground"
+    {
+      "name": "Ice",
+      "code": "ice"
+    },
+    {
+      "name": "Ground",
+      "code": "ground"
+    }
   ]
 }

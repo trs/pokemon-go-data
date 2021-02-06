@@ -1,5 +1,5 @@
 {
-  "id": "636",
+  "uid": "636",
   "name": "Larvesta",
   "number": 636,
   "forms": [
@@ -9,7 +9,13 @@
     }
   ],
   "types": [
-    "Bug",
-    "Fire"
+    {
+      "name": "Bug",
+      "code": "bug"
+    },
+    {
+      "name": "Fire",
+      "code": "fire"
+    }
   ]
 }

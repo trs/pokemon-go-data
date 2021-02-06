@@ -1,5 +1,5 @@
 {
-  "id": "263",
+  "uid": "263",
   "name": "Zigzagoon",
   "number": 263,
   "forms": [
@@ -9,6 +9,9 @@
     }
   ],
   "types": [
-    "Normal"
+    {
+      "name": "Normal",
+      "code": "normal"
+    }
   ]
 }

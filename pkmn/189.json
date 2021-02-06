@@ -1,5 +1,5 @@
 {
-  "id": "189",
+  "uid": "189",
   "name": "Jumpluff",
   "number": 189,
   "forms": [
@@ -9,7 +9,13 @@
     }
   ],
   "types": [
-    "Grass",
-    "Flying"
+    {
+      "name": "Grass",
+      "code": "grass"
+    },
+    {
+      "name": "Flying",
+      "code": "flying"
+    }
   ]
 }

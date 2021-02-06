@@ -1,5 +1,5 @@
 {
-  "id": "541",
+  "uid": "541",
   "name": "Swadloon",
   "number": 541,
   "forms": [
@@ -9,7 +9,13 @@
     }
   ],
   "types": [
-    "Bug",
-    "Grass"
+    {
+      "name": "Bug",
+      "code": "bug"
+    },
+    {
+      "name": "Grass",
+      "code": "grass"
+    }
   ]
 }

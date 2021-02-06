@@ -1,5 +1,5 @@
 {
-  "id": "660",
+  "uid": "660",
   "name": "Diggersby",
   "number": 660,
   "forms": [
@@ -9,7 +9,13 @@
     }
   ],
   "types": [
-    "Normal",
-    "Ground"
+    {
+      "name": "Normal",
+      "code": "normal"
+    },
+    {
+      "name": "Ground",
+      "code": "ground"
+    }
   ]
 }

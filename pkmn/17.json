@@ -1,5 +1,5 @@
 {
-  "id": "17",
+  "uid": "17",
   "name": "Pidgeotto",
   "number": 17,
   "forms": [
@@ -9,7 +9,13 @@
     }
   ],
   "types": [
-    "Normal",
-    "Flying"
+    {
+      "name": "Normal",
+      "code": "normal"
+    },
+    {
+      "name": "Flying",
+      "code": "flying"
+    }
   ]
 }

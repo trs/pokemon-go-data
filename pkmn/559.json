@@ -1,5 +1,5 @@
 {
-  "id": "559",
+  "uid": "559",
   "name": "Scraggy",
   "number": 559,
   "forms": [
@@ -9,7 +9,13 @@
     }
   ],
   "types": [
-    "Dark",
-    "Fighting"
+    {
+      "name": "Dark",
+      "code": "dark"
+    },
+    {
+      "name": "Fighting",
+      "code": "fighting"
+    }
   ]
 }

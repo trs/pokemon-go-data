@@ -1,5 +1,5 @@
 {
-  "id": "631",
+  "uid": "631",
   "name": "Heatmor",
   "number": 631,
   "forms": [
@@ -9,6 +9,9 @@
     }
   ],
   "types": [
-    "Fire"
+    {
+      "name": "Fire",
+      "code": "fire"
+    }
   ]
 }

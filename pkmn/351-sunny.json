@@ -1,5 +1,5 @@
 {
-  "id": "351-sunny",
+  "uid": "351-sunny",
   "name": "Castform",
   "number": 351,
   "forms": [
@@ -9,6 +9,9 @@
     }
   ],
   "types": [
-    "Fire"
+    {
+      "name": "Fire",
+      "code": "fire"
+    }
   ]
 }

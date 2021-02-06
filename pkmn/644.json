@@ -1,5 +1,5 @@
 {
-  "id": "644",
+  "uid": "644",
   "name": "Zekrom",
   "number": 644,
   "forms": [
@@ -9,7 +9,13 @@
     }
   ],
   "types": [
-    "Dragon",
-    "Electric"
+    {
+      "name": "Dragon",
+      "code": "dragon"
+    },
+    {
+      "name": "Electric",
+      "code": "electric"
+    }
   ]
 }

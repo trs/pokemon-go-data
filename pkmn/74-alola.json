@@ -1,5 +1,5 @@
 {
-  "id": "74-alola",
+  "uid": "74-alola",
   "name": "Geodude",
   "number": 74,
   "forms": [
@@ -9,7 +9,13 @@
     }
   ],
   "types": [
-    "Rock",
-    "Electric"
+    {
+      "name": "Rock",
+      "code": "rock"
+    },
+    {
+      "name": "Electric",
+      "code": "electric"
+    }
   ]
 }

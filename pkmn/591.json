@@ -1,5 +1,5 @@
 {
-  "id": "591",
+  "uid": "591",
   "name": "Amoonguss",
   "number": 591,
   "forms": [
@@ -9,7 +9,13 @@
     }
   ],
   "types": [
-    "Grass",
-    "Poison"
+    {
+      "name": "Grass",
+      "code": "grass"
+    },
+    {
+      "name": "Poison",
+      "code": "poison"
+    }
   ]
 }

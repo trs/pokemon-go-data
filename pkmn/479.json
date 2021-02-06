@@ -1,5 +1,5 @@
 {
-  "id": "479",
+  "uid": "479",
   "name": "Rotom",
   "number": 479,
   "forms": [
@@ -9,7 +9,13 @@
     }
   ],
   "types": [
-    "Electric",
-    "Ghost"
+    {
+      "name": "Electric",
+      "code": "electric"
+    },
+    {
+      "name": "Ghost",
+      "code": "ghost"
+    }
   ]
 }

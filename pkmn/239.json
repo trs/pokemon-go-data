@@ -1,5 +1,5 @@
 {
-  "id": "239",
+  "uid": "239",
   "name": "Elekid",
   "number": 239,
   "forms": [
@@ -9,6 +9,9 @@
     }
   ],
   "types": [
-    "Electric"
+    {
+      "name": "Electric",
+      "code": "electric"
+    }
   ]
 }

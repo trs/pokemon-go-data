@@ -1,5 +1,5 @@
 {
-  "id": "479-frost",
+  "uid": "479-frost",
   "name": "Rotom",
   "number": 479,
   "forms": [
@@ -9,7 +9,13 @@
     }
   ],
   "types": [
-    "Electric",
-    "Ice"
+    {
+      "name": "Electric",
+      "code": "electric"
+    },
+    {
+      "name": "Ice",
+      "code": "ice"
+    }
   ]
 }

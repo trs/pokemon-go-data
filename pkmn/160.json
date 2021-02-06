@@ -1,5 +1,5 @@
 {
-  "id": "160",
+  "uid": "160",
   "name": "Feraligatr",
   "number": 160,
   "forms": [
@@ -9,6 +9,9 @@
     }
   ],
   "types": [
-    "Water"
+    {
+      "name": "Water",
+      "code": "water"
+    }
   ]
 }

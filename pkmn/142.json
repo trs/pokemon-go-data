@@ -1,5 +1,5 @@
 {
-  "id": "142",
+  "uid": "142",
   "name": "Aerodactyl",
   "number": 142,
   "forms": [
@@ -9,7 +9,13 @@
     }
   ],
   "types": [
-    "Rock",
-    "Flying"
+    {
+      "name": "Rock",
+      "code": "rock"
+    },
+    {
+      "name": "Flying",
+      "code": "flying"
+    }
   ]
 }

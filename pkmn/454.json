@@ -1,5 +1,5 @@
 {
-  "id": "454",
+  "uid": "454",
   "name": "Toxicroak",
   "number": 454,
   "forms": [
@@ -9,7 +9,13 @@
     }
   ],
   "types": [
-    "Poison",
-    "Fighting"
+    {
+      "name": "Poison",
+      "code": "poison"
+    },
+    {
+      "name": "Fighting",
+      "code": "fighting"
+    }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "id": "89",
+  "uid": "89",
   "name": "Muk",
   "number": 89,
   "forms": [
@@ -9,6 +9,9 @@
     }
   ],
   "types": [
-    "Poison"
+    {
+      "name": "Poison",
+      "code": "poison"
+    }
   ]
 }

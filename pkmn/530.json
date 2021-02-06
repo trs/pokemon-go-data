@@ -1,5 +1,5 @@
 {
-  "id": "530",
+  "uid": "530",
   "name": "Excadrill",
   "number": 530,
   "forms": [
@@ -9,7 +9,13 @@
     }
   ],
   "types": [
-    "Ground",
-    "Steel"
+    {
+      "name": "Ground",
+      "code": "ground"
+    },
+    {
+      "name": "Steel",
+      "code": "steel"
+    }
   ]
 }

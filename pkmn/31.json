@@ -1,5 +1,5 @@
 {
-  "id": "31",
+  "uid": "31",
   "name": "Nidoqueen",
   "number": 31,
   "forms": [
@@ -9,7 +9,13 @@
     }
   ],
   "types": [
-    "Poison",
-    "Ground"
+    {
+      "name": "Poison",
+      "code": "poison"
+    },
+    {
+      "name": "Ground",
+      "code": "ground"
+    }
   ]
 }

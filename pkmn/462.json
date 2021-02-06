@@ -1,5 +1,5 @@
 {
-  "id": "462",
+  "uid": "462",
   "name": "Magnezone",
   "number": 462,
   "forms": [
@@ -9,7 +9,13 @@
     }
   ],
   "types": [
-    "Electric",
-    "Steel"
+    {
+      "name": "Electric",
+      "code": "electric"
+    },
+    {
+      "name": "Steel",
+      "code": "steel"
+    }
   ]
 }

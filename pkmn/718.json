@@ -1,5 +1,5 @@
 {
-  "id": "718",
+  "uid": "718",
   "name": "Zygarde",
   "number": 718,
   "forms": [
@@ -9,7 +9,13 @@
     }
   ],
   "types": [
-    "Dragon",
-    "Ground"
+    {
+      "name": "Dragon",
+      "code": "dragon"
+    },
+    {
+      "name": "Ground",
+      "code": "ground"
+    }
   ]
 }

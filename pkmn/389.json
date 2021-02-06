@@ -1,5 +1,5 @@
 {
-  "id": "389",
+  "uid": "389",
   "name": "Torterra",
   "number": 389,
   "forms": [
@@ -9,7 +9,13 @@
     }
   ],
   "types": [
-    "Grass",
-    "Ground"
+    {
+      "name": "Grass",
+      "code": "grass"
+    },
+    {
+      "name": "Ground",
+      "code": "ground"
+    }
   ]
 }

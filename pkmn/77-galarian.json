@@ -1,5 +1,5 @@
 {
-  "id": "77-galarian",
+  "uid": "77-galarian",
   "name": "Ponyta",
   "number": 77,
   "forms": [
@@ -9,6 +9,9 @@
     }
   ],
   "types": [
-    "Psychic"
+    {
+      "name": "Psychic",
+      "code": "psychic"
+    }
   ]
 }

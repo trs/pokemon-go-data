@@ -1,5 +1,5 @@
 {
-  "id": "249",
+  "uid": "249",
   "name": "Lugia",
   "number": 249,
   "forms": [
@@ -9,7 +9,13 @@
     }
   ],
   "types": [
-    "Psychic",
-    "Flying"
+    {
+      "name": "Psychic",
+      "code": "psychic"
+    },
+    {
+      "name": "Flying",
+      "code": "flying"
+    }
   ]
 }

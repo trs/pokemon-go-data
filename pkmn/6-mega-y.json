@@ -1,5 +1,5 @@
 {
-  "id": "6-mega-y",
+  "uid": "6-mega-y",
   "name": "Charizard",
   "number": 6,
   "forms": [
@@ -13,7 +13,13 @@
     }
   ],
   "types": [
-    "Fire",
-    "Flying"
+    {
+      "name": "Fire",
+      "code": "fire"
+    },
+    {
+      "name": "Flying",
+      "code": "flying"
+    }
   ]
 }

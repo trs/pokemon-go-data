@@ -1,5 +1,5 @@
 {
-  "id": "143",
+  "uid": "143",
   "name": "Snorlax",
   "number": 143,
   "forms": [
@@ -9,6 +9,9 @@
     }
   ],
   "types": [
-    "Normal"
+    {
+      "name": "Normal",
+      "code": "normal"
+    }
   ]
 }

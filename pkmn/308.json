@@ -1,5 +1,5 @@
 {
-  "id": "308",
+  "uid": "308",
   "name": "Medicham",
   "number": 308,
   "forms": [
@@ -9,7 +9,13 @@
     }
   ],
   "types": [
-    "Fighting",
-    "Psychic"
+    {
+      "name": "Fighting",
+      "code": "fighting"
+    },
+    {
+      "name": "Psychic",
+      "code": "psychic"
+    }
   ]
 }

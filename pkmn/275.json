@@ -1,5 +1,5 @@
 {
-  "id": "275",
+  "uid": "275",
   "name": "Shiftry",
   "number": 275,
   "forms": [
@@ -9,7 +9,13 @@
     }
   ],
   "types": [
-    "Grass",
-    "Dark"
+    {
+      "name": "Grass",
+      "code": "grass"
+    },
+    {
+      "name": "Dark",
+      "code": "dark"
+    }
   ]
 }

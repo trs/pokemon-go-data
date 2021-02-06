@@ -1,5 +1,5 @@
 {
-  "id": "141",
+  "uid": "141",
   "name": "Kabutops",
   "number": 141,
   "forms": [
@@ -9,7 +9,13 @@
     }
   ],
   "types": [
-    "Rock",
-    "Water"
+    {
+      "name": "Rock",
+      "code": "rock"
+    },
+    {
+      "name": "Water",
+      "code": "water"
+    }
   ]
 }

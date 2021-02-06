@@ -1,5 +1,5 @@
 {
-  "id": "247",
+  "uid": "247",
   "name": "Pupitar",
   "number": 247,
   "forms": [
@@ -9,7 +9,13 @@
     }
   ],
   "types": [
-    "Rock",
-    "Ground"
+    {
+      "name": "Rock",
+      "code": "rock"
+    },
+    {
+      "name": "Ground",
+      "code": "ground"
+    }
   ]
 }

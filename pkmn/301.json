@@ -1,5 +1,5 @@
 {
-  "id": "301",
+  "uid": "301",
   "name": "Delcatty",
   "number": 301,
   "forms": [
@@ -9,6 +9,9 @@
     }
   ],
   "types": [
-    "Normal"
+    {
+      "name": "Normal",
+      "code": "normal"
+    }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "id": "587",
+  "uid": "587",
   "name": "Emolga",
   "number": 587,
   "forms": [
@@ -9,7 +9,13 @@
     }
   ],
   "types": [
-    "Electric",
-    "Flying"
+    {
+      "name": "Electric",
+      "code": "electric"
+    },
+    {
+      "name": "Flying",
+      "code": "flying"
+    }
   ]
 }

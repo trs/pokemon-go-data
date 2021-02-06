@@ -1,5 +1,5 @@
 {
-  "id": "625",
+  "uid": "625",
   "name": "Bisharp",
   "number": 625,
   "forms": [
@@ -9,7 +9,13 @@
     }
   ],
   "types": [
-    "Dark",
-    "Steel"
+    {
+      "name": "Dark",
+      "code": "dark"
+    },
+    {
+      "name": "Steel",
+      "code": "steel"
+    }
   ]
 }

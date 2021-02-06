@@ -1,5 +1,5 @@
 {
-  "id": "370",
+  "uid": "370",
   "name": "Luvdisc",
   "number": 370,
   "forms": [
@@ -9,6 +9,9 @@
     }
   ],
   "types": [
-    "Water"
+    {
+      "name": "Water",
+      "code": "water"
+    }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "id": "130-mega",
+  "uid": "130-mega",
   "name": "Gyarados",
   "number": 130,
   "forms": [
@@ -13,7 +13,13 @@
     }
   ],
   "types": [
-    "Water",
-    "Dark"
+    {
+      "name": "Water",
+      "code": "water"
+    },
+    {
+      "name": "Dark",
+      "code": "dark"
+    }
   ]
 }

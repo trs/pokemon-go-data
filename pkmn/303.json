@@ -1,5 +1,5 @@
 {
-  "id": "303",
+  "uid": "303",
   "name": "Mawile",
   "number": 303,
   "forms": [
@@ -9,7 +9,13 @@
     }
   ],
   "types": [
-    "Steel",
-    "Fairy"
+    {
+      "name": "Steel",
+      "code": "steel"
+    },
+    {
+      "name": "Fairy",
+      "code": "fairy"
+    }
   ]
 }

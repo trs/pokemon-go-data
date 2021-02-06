@@ -1,5 +1,5 @@
 {
-  "id": "6-mega-x",
+  "uid": "6-mega-x",
   "name": "Charizard",
   "number": 6,
   "forms": [
@@ -13,7 +13,13 @@
     }
   ],
   "types": [
-    "Fire",
-    "Dragon"
+    {
+      "name": "Fire",
+      "code": "fire"
+    },
+    {
+      "name": "Dragon",
+      "code": "dragon"
+    }
   ]
 }

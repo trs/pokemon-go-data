@@ -1,5 +1,5 @@
 {
-  "id": "862",
+  "uid": "862",
   "name": "Obstagoon",
   "number": 862,
   "forms": [
@@ -9,7 +9,13 @@
     }
   ],
   "types": [
-    "Dark",
-    "Normal"
+    {
+      "name": "Dark",
+      "code": "dark"
+    },
+    {
+      "name": "Normal",
+      "code": "normal"
+    }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "id": "108",
+  "uid": "108",
   "name": "Lickitung",
   "number": 108,
   "forms": [
@@ -9,6 +9,9 @@
     }
   ],
   "types": [
-    "Normal"
+    {
+      "name": "Normal",
+      "code": "normal"
+    }
   ]
 }

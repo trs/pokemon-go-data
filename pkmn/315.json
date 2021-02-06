@@ -1,5 +1,5 @@
 {
-  "id": "315",
+  "uid": "315",
   "name": "Roselia",
   "number": 315,
   "forms": [
@@ -9,7 +9,13 @@
     }
   ],
   "types": [
-    "Grass",
-    "Poison"
+    {
+      "name": "Grass",
+      "code": "grass"
+    },
+    {
+      "name": "Poison",
+      "code": "poison"
+    }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "id": "684",
+  "uid": "684",
   "name": "Swirlix",
   "number": 684,
   "forms": [
@@ -9,6 +9,9 @@
     }
   ],
   "types": [
-    "Fairy"
+    {
+      "name": "Fairy",
+      "code": "fairy"
+    }
   ]
 }

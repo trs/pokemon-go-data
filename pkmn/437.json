@@ -1,5 +1,5 @@
 {
-  "id": "437",
+  "uid": "437",
   "name": "Bronzong",
   "number": 437,
   "forms": [
@@ -9,7 +9,13 @@
     }
   ],
   "types": [
-    "Steel",
-    "Psychic"
+    {
+      "name": "Steel",
+      "code": "steel"
+    },
+    {
+      "name": "Psychic",
+      "code": "psychic"
+    }
   ]
 }

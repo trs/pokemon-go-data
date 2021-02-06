@@ -1,5 +1,5 @@
 {
-  "id": "710",
+  "uid": "710",
   "name": "Pumpkaboo",
   "number": 710,
   "forms": [
@@ -9,7 +9,13 @@
     }
   ],
   "types": [
-    "Ghost",
-    "Grass"
+    {
+      "name": "Ghost",
+      "code": "ghost"
+    },
+    {
+      "name": "Grass",
+      "code": "grass"
+    }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "id": "257",
+  "uid": "257",
   "name": "Blaziken",
   "number": 257,
   "forms": [
@@ -9,7 +9,13 @@
     }
   ],
   "types": [
-    "Fire",
-    "Fighting"
+    {
+      "name": "Fire",
+      "code": "fire"
+    },
+    {
+      "name": "Fighting",
+      "code": "fighting"
+    }
   ]
 }

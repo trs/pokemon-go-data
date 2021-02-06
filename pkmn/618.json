@@ -1,5 +1,5 @@
 {
-  "id": "618",
+  "uid": "618",
   "name": "Stunfisk",
   "number": 618,
   "forms": [
@@ -9,7 +9,13 @@
     }
   ],
   "types": [
-    "Ground",
-    "Electric"
+    {
+      "name": "Ground",
+      "code": "ground"
+    },
+    {
+      "name": "Electric",
+      "code": "electric"
+    }
   ]
 }

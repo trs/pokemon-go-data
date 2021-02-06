@@ -1,5 +1,5 @@
 {
-  "id": "518",
+  "uid": "518",
   "name": "Musharna",
   "number": 518,
   "forms": [
@@ -9,6 +9,9 @@
     }
   ],
   "types": [
-    "Psychic"
+    {
+      "name": "Psychic",
+      "code": "psychic"
+    }
   ]
 }

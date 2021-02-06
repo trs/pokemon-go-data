@@ -1,5 +1,5 @@
 {
-  "id": "394",
+  "uid": "394",
   "name": "Prinplup",
   "number": 394,
   "forms": [
@@ -9,6 +9,9 @@
     }
   ],
   "types": [
-    "Water"
+    {
+      "name": "Water",
+      "code": "water"
+    }
   ]
 }

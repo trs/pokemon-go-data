@@ -1,5 +1,5 @@
 {
-  "id": "3-mega",
+  "uid": "3-mega",
   "name": "Venusaur",
   "number": 3,
   "forms": [
@@ -13,7 +13,13 @@
     }
   ],
   "types": [
-    "Grass",
-    "Poison"
+    {
+      "name": "Grass",
+      "code": "grass"
+    },
+    {
+      "name": "Poison",
+      "code": "poison"
+    }
   ]
 }

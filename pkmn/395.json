@@ -1,5 +1,5 @@
 {
-  "id": "395",
+  "uid": "395",
   "name": "Empoleon",
   "number": 395,
   "forms": [
@@ -9,7 +9,13 @@
     }
   ],
   "types": [
-    "Water",
-    "Steel"
+    {
+      "name": "Water",
+      "code": "water"
+    },
+    {
+      "name": "Steel",
+      "code": "steel"
+    }
   ]
 }

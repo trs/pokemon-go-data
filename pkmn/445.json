@@ -1,5 +1,5 @@
 {
-  "id": "445",
+  "uid": "445",
   "name": "Garchomp",
   "number": 445,
   "forms": [
@@ -9,7 +9,13 @@
     }
   ],
   "types": [
-    "Dragon",
-    "Ground"
+    {
+      "name": "Dragon",
+      "code": "dragon"
+    },
+    {
+      "name": "Ground",
+      "code": "ground"
+    }
   ]
 }

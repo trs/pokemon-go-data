@@ -1,5 +1,5 @@
 {
-  "id": "521",
+  "uid": "521",
   "name": "Unfezant",
   "number": 521,
   "forms": [
@@ -9,7 +9,13 @@
     }
   ],
   "types": [
-    "Normal",
-    "Flying"
+    {
+      "name": "Normal",
+      "code": "normal"
+    },
+    {
+      "name": "Flying",
+      "code": "flying"
+    }
   ]
 }

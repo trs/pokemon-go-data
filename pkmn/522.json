@@ -1,5 +1,5 @@
 {
-  "id": "522",
+  "uid": "522",
   "name": "Blitzle",
   "number": 522,
   "forms": [
@@ -9,6 +9,9 @@
     }
   ],
   "types": [
-    "Electric"
+    {
+      "name": "Electric",
+      "code": "electric"
+    }
   ]
 }

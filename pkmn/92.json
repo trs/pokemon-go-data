@@ -1,5 +1,5 @@
 {
-  "id": "92",
+  "uid": "92",
   "name": "Gastly",
   "number": 92,
   "forms": [
@@ -9,7 +9,13 @@
     }
   ],
   "types": [
-    "Ghost",
-    "Poison"
+    {
+      "name": "Ghost",
+      "code": "ghost"
+    },
+    {
+      "name": "Poison",
+      "code": "poison"
+    }
   ]
 }

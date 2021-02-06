@@ -1,5 +1,5 @@
 {
-  "id": "369",
+  "uid": "369",
   "name": "Relicanth",
   "number": 369,
   "forms": [
@@ -9,7 +9,13 @@
     }
   ],
   "types": [
-    "Water",
-    "Rock"
+    {
+      "name": "Water",
+      "code": "water"
+    },
+    {
+      "name": "Rock",
+      "code": "rock"
+    }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "id": "377",
+  "uid": "377",
   "name": "Regirock",
   "number": 377,
   "forms": [
@@ -9,6 +9,9 @@
     }
   ],
   "types": [
-    "Rock"
+    {
+      "name": "Rock",
+      "code": "rock"
+    }
   ]
 }

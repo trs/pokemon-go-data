@@ -1,5 +1,5 @@
 {
-  "id": "413-plant",
+  "uid": "413-plant",
   "name": "Wormadam",
   "number": 413,
   "forms": [
@@ -9,7 +9,13 @@
     }
   ],
   "types": [
-    "Bug",
-    "Grass"
+    {
+      "name": "Bug",
+      "code": "bug"
+    },
+    {
+      "name": "Grass",
+      "code": "grass"
+    }
   ]
 }

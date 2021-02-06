@@ -1,5 +1,5 @@
 {
-  "id": "434",
+  "uid": "434",
   "name": "Stunky",
   "number": 434,
   "forms": [
@@ -9,7 +9,13 @@
     }
   ],
   "types": [
-    "Poison",
-    "Dark"
+    {
+      "name": "Poison",
+      "code": "poison"
+    },
+    {
+      "name": "Dark",
+      "code": "dark"
+    }
   ]
 }

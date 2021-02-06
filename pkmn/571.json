@@ -1,5 +1,5 @@
 {
-  "id": "571",
+  "uid": "571",
   "name": "Zoroark",
   "number": 571,
   "forms": [
@@ -9,6 +9,9 @@
     }
   ],
   "types": [
-    "Dark"
+    {
+      "name": "Dark",
+      "code": "dark"
+    }
   ]
 }

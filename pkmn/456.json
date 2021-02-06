@@ -1,5 +1,5 @@
 {
-  "id": "456",
+  "uid": "456",
   "name": "Finneon",
   "number": 456,
   "forms": [
@@ -9,6 +9,9 @@
     }
   ],
   "types": [
-    "Water"
+    {
+      "name": "Water",
+      "code": "water"
+    }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "id": "93",
+  "uid": "93",
   "name": "Haunter",
   "number": 93,
   "forms": [
@@ -9,7 +9,13 @@
     }
   ],
   "types": [
-    "Ghost",
-    "Poison"
+    {
+      "name": "Ghost",
+      "code": "ghost"
+    },
+    {
+      "name": "Poison",
+      "code": "poison"
+    }
   ]
 }

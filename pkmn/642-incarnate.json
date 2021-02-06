@@ -1,5 +1,5 @@
 {
-  "id": "642-incarnate",
+  "uid": "642-incarnate",
   "name": "Thundurus",
   "number": 642,
   "forms": [
@@ -9,7 +9,13 @@
     }
   ],
   "types": [
-    "Electric",
-    "Flying"
+    {
+      "name": "Electric",
+      "code": "electric"
+    },
+    {
+      "name": "Flying",
+      "code": "flying"
+    }
   ]
 }

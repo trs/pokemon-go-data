@@ -1,5 +1,5 @@
 {
-  "id": "702",
+  "uid": "702",
   "name": "Dedenne",
   "number": 702,
   "forms": [
@@ -9,7 +9,13 @@
     }
   ],
   "types": [
-    "Electric",
-    "Fairy"
+    {
+      "name": "Electric",
+      "code": "electric"
+    },
+    {
+      "name": "Fairy",
+      "code": "fairy"
+    }
   ]
 }

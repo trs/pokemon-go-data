@@ -1,5 +1,5 @@
 {
-  "id": "563",
+  "uid": "563",
   "name": "Cofagrigus",
   "number": 563,
   "forms": [
@@ -9,6 +9,9 @@
     }
   ],
   "types": [
-    "Ghost"
+    {
+      "name": "Ghost",
+      "code": "ghost"
+    }
   ]
 }

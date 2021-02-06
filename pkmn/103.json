@@ -1,5 +1,5 @@
 {
-  "id": "103",
+  "uid": "103",
   "name": "Exeggutor",
   "number": 103,
   "forms": [
@@ -9,7 +9,13 @@
     }
   ],
   "types": [
-    "Grass",
-    "Psychic"
+    {
+      "name": "Grass",
+      "code": "grass"
+    },
+    {
+      "name": "Psychic",
+      "code": "psychic"
+    }
   ]
 }

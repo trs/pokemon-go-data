@@ -1,5 +1,5 @@
 {
-  "id": "567",
+  "uid": "567",
   "name": "Archeops",
   "number": 567,
   "forms": [
@@ -9,7 +9,13 @@
     }
   ],
   "types": [
-    "Rock",
-    "Flying"
+    {
+      "name": "Rock",
+      "code": "rock"
+    },
+    {
+      "name": "Flying",
+      "code": "flying"
+    }
   ]
 }

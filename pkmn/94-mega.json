@@ -1,5 +1,5 @@
 {
-  "id": "94-mega",
+  "uid": "94-mega",
   "name": "Gengar",
   "number": 94,
   "forms": [
@@ -13,7 +13,13 @@
     }
   ],
   "types": [
-    "Ghost",
-    "Poison"
+    {
+      "name": "Ghost",
+      "code": "ghost"
+    },
+    {
+      "name": "Poison",
+      "code": "poison"
+    }
   ]
 }

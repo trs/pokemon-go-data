@@ -1,5 +1,5 @@
 {
-  "id": "94",
+  "uid": "94",
   "name": "Gengar",
   "number": 94,
   "forms": [
@@ -9,7 +9,13 @@
     }
   ],
   "types": [
-    "Ghost",
-    "Poison"
+    {
+      "name": "Ghost",
+      "code": "ghost"
+    },
+    {
+      "name": "Poison",
+      "code": "poison"
+    }
   ]
 }

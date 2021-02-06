@@ -1,5 +1,5 @@
 {
-  "id": "14",
+  "uid": "14",
   "name": "Kakuna",
   "number": 14,
   "forms": [
@@ -9,7 +9,13 @@
     }
   ],
   "types": [
-    "Bug",
-    "Poison"
+    {
+      "name": "Bug",
+      "code": "bug"
+    },
+    {
+      "name": "Poison",
+      "code": "poison"
+    }
   ]
 }

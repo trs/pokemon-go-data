@@ -1,5 +1,5 @@
 {
-  "id": "679",
+  "uid": "679",
   "name": "Honedge",
   "number": 679,
   "forms": [
@@ -9,7 +9,13 @@
     }
   ],
   "types": [
-    "Steel",
-    "Ghost"
+    {
+      "name": "Steel",
+      "code": "steel"
+    },
+    {
+      "name": "Ghost",
+      "code": "ghost"
+    }
   ]
 }

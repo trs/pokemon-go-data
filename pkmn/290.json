@@ -1,5 +1,5 @@
 {
-  "id": "290",
+  "uid": "290",
   "name": "Nincada",
   "number": 290,
   "forms": [
@@ -9,7 +9,13 @@
     }
   ],
   "types": [
-    "Bug",
-    "Ground"
+    {
+      "name": "Bug",
+      "code": "bug"
+    },
+    {
+      "name": "Ground",
+      "code": "ground"
+    }
   ]
 }

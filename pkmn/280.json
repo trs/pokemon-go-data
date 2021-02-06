@@ -1,5 +1,5 @@
 {
-  "id": "280",
+  "uid": "280",
   "name": "Ralts",
   "number": 280,
   "forms": [
@@ -9,7 +9,13 @@
     }
   ],
   "types": [
-    "Psychic",
-    "Fairy"
+    {
+      "name": "Psychic",
+      "code": "psychic"
+    },
+    {
+      "name": "Fairy",
+      "code": "fairy"
+    }
   ]
 }

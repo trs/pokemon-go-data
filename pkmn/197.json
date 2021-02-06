@@ -1,5 +1,5 @@
 {
-  "id": "197",
+  "uid": "197",
   "name": "Umbreon",
   "number": 197,
   "forms": [
@@ -9,6 +9,9 @@
     }
   ],
   "types": [
-    "Dark"
+    {
+      "name": "Dark",
+      "code": "dark"
+    }
   ]
 }

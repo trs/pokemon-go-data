@@ -1,5 +1,5 @@
 {
-  "id": "566",
+  "uid": "566",
   "name": "Archen",
   "number": 566,
   "forms": [
@@ -9,7 +9,13 @@
     }
   ],
   "types": [
-    "Rock",
-    "Flying"
+    {
+      "name": "Rock",
+      "code": "rock"
+    },
+    {
+      "name": "Flying",
+      "code": "flying"
+    }
   ]
 }

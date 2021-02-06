@@ -1,5 +1,5 @@
 {
-  "id": "263-galarian",
+  "uid": "263-galarian",
   "name": "Zigzagoon",
   "number": 263,
   "forms": [
@@ -9,7 +9,13 @@
     }
   ],
   "types": [
-    "Dark",
-    "Normal"
+    {
+      "name": "Dark",
+      "code": "dark"
+    },
+    {
+      "name": "Normal",
+      "code": "normal"
+    }
   ]
 }

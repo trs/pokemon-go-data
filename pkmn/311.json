@@ -1,5 +1,5 @@
 {
-  "id": "311",
+  "uid": "311",
   "name": "Plusle",
   "number": 311,
   "forms": [
@@ -9,6 +9,9 @@
     }
   ],
   "types": [
-    "Electric"
+    {
+      "name": "Electric",
+      "code": "electric"
+    }
   ]
 }

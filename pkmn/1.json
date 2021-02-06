@@ -1,5 +1,5 @@
 {
-  "id": "1",
+  "uid": "1",
   "name": "Bulbasaur",
   "number": 1,
   "forms": [
@@ -9,7 +9,13 @@
     }
   ],
   "types": [
-    "Grass",
-    "Poison"
+    {
+      "name": "Grass",
+      "code": "grass"
+    },
+    {
+      "name": "Poison",
+      "code": "poison"
+    }
   ]
 }

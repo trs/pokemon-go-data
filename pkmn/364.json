@@ -1,5 +1,5 @@
 {
-  "id": "364",
+  "uid": "364",
   "name": "Sealeo",
   "number": 364,
   "forms": [
@@ -9,7 +9,13 @@
     }
   ],
   "types": [
-    "Ice",
-    "Water"
+    {
+      "name": "Ice",
+      "code": "ice"
+    },
+    {
+      "name": "Water",
+      "code": "water"
+    }
   ]
 }

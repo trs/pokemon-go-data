@@ -1,5 +1,5 @@
 {
-  "id": "19-alola",
+  "uid": "19-alola",
   "name": "Rattata",
   "number": 19,
   "forms": [
@@ -9,7 +9,13 @@
     }
   ],
   "types": [
-    "Dark",
-    "Normal"
+    {
+      "name": "Dark",
+      "code": "dark"
+    },
+    {
+      "name": "Normal",
+      "code": "normal"
+    }
   ]
 }

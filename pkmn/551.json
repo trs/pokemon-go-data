@@ -1,5 +1,5 @@
 {
-  "id": "551",
+  "uid": "551",
   "name": "Sandile",
   "number": 551,
   "forms": [
@@ -9,7 +9,13 @@
     }
   ],
   "types": [
-    "Ground",
-    "Dark"
+    {
+      "name": "Ground",
+      "code": "ground"
+    },
+    {
+      "name": "Dark",
+      "code": "dark"
+    }
   ]
 }

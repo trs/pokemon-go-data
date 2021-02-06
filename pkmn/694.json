@@ -1,5 +1,5 @@
 {
-  "id": "694",
+  "uid": "694",
   "name": "Helioptile",
   "number": 694,
   "forms": [
@@ -9,7 +9,13 @@
     }
   ],
   "types": [
-    "Electric",
-    "Normal"
+    {
+      "name": "Electric",
+      "code": "electric"
+    },
+    {
+      "name": "Normal",
+      "code": "normal"
+    }
   ]
 }

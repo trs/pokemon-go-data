@@ -1,5 +1,5 @@
 {
-  "id": "552",
+  "uid": "552",
   "name": "Krokorok",
   "number": 552,
   "forms": [
@@ -9,7 +9,13 @@
     }
   ],
   "types": [
-    "Ground",
-    "Dark"
+    {
+      "name": "Ground",
+      "code": "ground"
+    },
+    {
+      "name": "Dark",
+      "code": "dark"
+    }
   ]
 }

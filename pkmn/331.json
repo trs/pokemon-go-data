@@ -1,5 +1,5 @@
 {
-  "id": "331",
+  "uid": "331",
   "name": "Cacnea",
   "number": 331,
   "forms": [
@@ -9,6 +9,9 @@
     }
   ],
   "types": [
-    "Grass"
+    {
+      "name": "Grass",
+      "code": "grass"
+    }
   ]
 }

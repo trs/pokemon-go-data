@@ -1,5 +1,5 @@
 {
-  "id": "187",
+  "uid": "187",
   "name": "Hoppip",
   "number": 187,
   "forms": [
@@ -9,7 +9,13 @@
     }
   ],
   "types": [
-    "Grass",
-    "Flying"
+    {
+      "name": "Grass",
+      "code": "grass"
+    },
+    {
+      "name": "Flying",
+      "code": "flying"
+    }
   ]
 }

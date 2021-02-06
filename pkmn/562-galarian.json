@@ -1,5 +1,5 @@
 {
-  "id": "562-galarian",
+  "uid": "562-galarian",
   "name": "Yamask",
   "number": 562,
   "forms": [
@@ -9,7 +9,13 @@
     }
   ],
   "types": [
-    "Ground",
-    "Ghost"
+    {
+      "name": "Ground",
+      "code": "ground"
+    },
+    {
+      "name": "Ghost",
+      "code": "ghost"
+    }
   ]
 }

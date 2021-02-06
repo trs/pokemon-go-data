@@ -1,5 +1,5 @@
 {
-  "id": "228",
+  "uid": "228",
   "name": "Houndour",
   "number": 228,
   "forms": [
@@ -9,7 +9,13 @@
     }
   ],
   "types": [
-    "Dark",
-    "Fire"
+    {
+      "name": "Dark",
+      "code": "dark"
+    },
+    {
+      "name": "Fire",
+      "code": "fire"
+    }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "id": "174",
+  "uid": "174",
   "name": "Igglybuff",
   "number": 174,
   "forms": [
@@ -9,7 +9,13 @@
     }
   ],
   "types": [
-    "Normal",
-    "Fairy"
+    {
+      "name": "Normal",
+      "code": "normal"
+    },
+    {
+      "name": "Fairy",
+      "code": "fairy"
+    }
   ]
 }

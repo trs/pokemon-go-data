@@ -1,5 +1,5 @@
 {
-  "id": "714",
+  "uid": "714",
   "name": "Noibat",
   "number": 714,
   "forms": [
@@ -9,7 +9,13 @@
     }
   ],
   "types": [
-    "Flying",
-    "Dragon"
+    {
+      "name": "Flying",
+      "code": "flying"
+    },
+    {
+      "name": "Dragon",
+      "code": "dragon"
+    }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "id": "357",
+  "uid": "357",
   "name": "Tropius",
   "number": 357,
   "forms": [
@@ -9,7 +9,13 @@
     }
   ],
   "types": [
-    "Grass",
-    "Flying"
+    {
+      "name": "Grass",
+      "code": "grass"
+    },
+    {
+      "name": "Flying",
+      "code": "flying"
+    }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "id": "666",
+  "uid": "666",
   "name": "Vivillon",
   "number": 666,
   "forms": [
@@ -9,7 +9,13 @@
     }
   ],
   "types": [
-    "Bug",
-    "Flying"
+    {
+      "name": "Bug",
+      "code": "bug"
+    },
+    {
+      "name": "Flying",
+      "code": "flying"
+    }
   ]
 }

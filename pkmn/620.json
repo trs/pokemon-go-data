@@ -1,5 +1,5 @@
 {
-  "id": "620",
+  "uid": "620",
   "name": "Mienshao",
   "number": 620,
   "forms": [
@@ -9,6 +9,9 @@
     }
   ],
   "types": [
-    "Fighting"
+    {
+      "name": "Fighting",
+      "code": "fighting"
+    }
   ]
 }

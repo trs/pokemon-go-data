@@ -1,5 +1,5 @@
 {
-  "id": "320",
+  "uid": "320",
   "name": "Wailmer",
   "number": 320,
   "forms": [
@@ -9,6 +9,9 @@
     }
   ],
   "types": [
-    "Water"
+    {
+      "name": "Water",
+      "code": "water"
+    }
   ]
 }

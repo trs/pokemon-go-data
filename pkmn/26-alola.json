@@ -1,5 +1,5 @@
 {
-  "id": "26-alola",
+  "uid": "26-alola",
   "name": "Raichu",
   "number": 26,
   "forms": [
@@ -9,7 +9,13 @@
     }
   ],
   "types": [
-    "Electric",
-    "Psychic"
+    {
+      "name": "Electric",
+      "code": "electric"
+    },
+    {
+      "name": "Psychic",
+      "code": "psychic"
+    }
   ]
 }

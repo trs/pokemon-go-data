@@ -1,5 +1,5 @@
 {
-  "id": "867",
+  "uid": "867",
   "name": "Runerigus",
   "number": 867,
   "forms": [
@@ -9,7 +9,13 @@
     }
   ],
   "types": [
-    "Ground",
-    "Ghost"
+    {
+      "name": "Ground",
+      "code": "ground"
+    },
+    {
+      "name": "Ghost",
+      "code": "ghost"
+    }
   ]
 }

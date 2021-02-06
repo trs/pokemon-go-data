@@ -1,5 +1,5 @@
 {
-  "id": "430",
+  "uid": "430",
   "name": "Honchkrow",
   "number": 430,
   "forms": [
@@ -9,7 +9,13 @@
     }
   ],
   "types": [
-    "Dark",
-    "Flying"
+    {
+      "name": "Dark",
+      "code": "dark"
+    },
+    {
+      "name": "Flying",
+      "code": "flying"
+    }
   ]
 }

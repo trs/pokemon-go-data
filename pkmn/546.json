@@ -1,5 +1,5 @@
 {
-  "id": "546",
+  "uid": "546",
   "name": "Cottonee",
   "number": 546,
   "forms": [
@@ -9,7 +9,13 @@
     }
   ],
   "types": [
-    "Grass",
-    "Fairy"
+    {
+      "name": "Grass",
+      "code": "grass"
+    },
+    {
+      "name": "Fairy",
+      "code": "fairy"
+    }
   ]
 }

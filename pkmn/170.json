@@ -1,5 +1,5 @@
 {
-  "id": "170",
+  "uid": "170",
   "name": "Chinchou",
   "number": 170,
   "forms": [
@@ -9,7 +9,13 @@
     }
   ],
   "types": [
-    "Water",
-    "Electric"
+    {
+      "name": "Water",
+      "code": "water"
+    },
+    {
+      "name": "Electric",
+      "code": "electric"
+    }
   ]
 }

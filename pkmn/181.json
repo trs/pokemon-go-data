@@ -1,5 +1,5 @@
 {
-  "id": "181",
+  "uid": "181",
   "name": "Ampharos",
   "number": 181,
   "forms": [
@@ -9,6 +9,9 @@
     }
   ],
   "types": [
-    "Electric"
+    {
+      "name": "Electric",
+      "code": "electric"
+    }
   ]
 }

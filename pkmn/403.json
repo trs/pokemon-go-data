@@ -1,5 +1,5 @@
 {
-  "id": "403",
+  "uid": "403",
   "name": "Shinx",
   "number": 403,
   "forms": [
@@ -9,6 +9,9 @@
     }
   ],
   "types": [
-    "Electric"
+    {
+      "name": "Electric",
+      "code": "electric"
+    }
   ]
 }

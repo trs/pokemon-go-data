@@ -1,5 +1,5 @@
 {
-  "id": "115",
+  "uid": "115",
   "name": "Kangaskhan",
   "number": 115,
   "forms": [
@@ -9,6 +9,9 @@
     }
   ],
   "types": [
-    "Normal"
+    {
+      "name": "Normal",
+      "code": "normal"
+    }
   ]
 }

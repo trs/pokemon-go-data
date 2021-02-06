@@ -1,5 +1,5 @@
 {
-  "id": "417",
+  "uid": "417",
   "name": "Pachirisu",
   "number": 417,
   "forms": [
@@ -9,6 +9,9 @@
     }
   ],
   "types": [
-    "Electric"
+    {
+      "name": "Electric",
+      "code": "electric"
+    }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "id": "472",
+  "uid": "472",
   "name": "Gliscor",
   "number": 472,
   "forms": [
@@ -9,7 +9,13 @@
     }
   ],
   "types": [
-    "Ground",
-    "Flying"
+    {
+      "name": "Ground",
+      "code": "ground"
+    },
+    {
+      "name": "Flying",
+      "code": "flying"
+    }
   ]
 }

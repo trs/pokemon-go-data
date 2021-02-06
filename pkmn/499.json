@@ -1,5 +1,5 @@
 {
-  "id": "499",
+  "uid": "499",
   "name": "Pignite",
   "number": 499,
   "forms": [
@@ -9,7 +9,13 @@
     }
   ],
   "types": [
-    "Fire",
-    "Fighting"
+    {
+      "name": "Fire",
+      "code": "fire"
+    },
+    {
+      "name": "Fighting",
+      "code": "fighting"
+    }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "id": "634",
+  "uid": "634",
   "name": "Zweilous",
   "number": 634,
   "forms": [
@@ -9,7 +9,13 @@
     }
   ],
   "types": [
-    "Dark",
-    "Dragon"
+    {
+      "name": "Dark",
+      "code": "dark"
+    },
+    {
+      "name": "Dragon",
+      "code": "dragon"
+    }
   ]
 }

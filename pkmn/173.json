@@ -1,5 +1,5 @@
 {
-  "id": "173",
+  "uid": "173",
   "name": "Cleffa",
   "number": 173,
   "forms": [
@@ -9,6 +9,9 @@
     }
   ],
   "types": [
-    "Fairy"
+    {
+      "name": "Fairy",
+      "code": "fairy"
+    }
   ]
 }

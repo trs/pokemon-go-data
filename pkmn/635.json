@@ -1,5 +1,5 @@
 {
-  "id": "635",
+  "uid": "635",
   "name": "Hydreigon",
   "number": 635,
   "forms": [
@@ -9,7 +9,13 @@
     }
   ],
   "types": [
-    "Dark",
-    "Dragon"
+    {
+      "name": "Dark",
+      "code": "dark"
+    },
+    {
+      "name": "Dragon",
+      "code": "dragon"
+    }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "id": "632",
+  "uid": "632",
   "name": "Durant",
   "number": 632,
   "forms": [
@@ -9,7 +9,13 @@
     }
   ],
   "types": [
-    "Bug",
-    "Steel"
+    {
+      "name": "Bug",
+      "code": "bug"
+    },
+    {
+      "name": "Steel",
+      "code": "steel"
+    }
   ]
 }

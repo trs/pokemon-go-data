@@ -1,5 +1,5 @@
 {
-  "id": "282",
+  "uid": "282",
   "name": "Gardevoir",
   "number": 282,
   "forms": [
@@ -9,7 +9,13 @@
     }
   ],
   "types": [
-    "Psychic",
-    "Fairy"
+    {
+      "name": "Psychic",
+      "code": "psychic"
+    },
+    {
+      "name": "Fairy",
+      "code": "fairy"
+    }
   ]
 }

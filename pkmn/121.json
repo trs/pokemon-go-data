@@ -1,5 +1,5 @@
 {
-  "id": "121",
+  "uid": "121",
   "name": "Starmie",
   "number": 121,
   "forms": [
@@ -9,7 +9,13 @@
     }
   ],
   "types": [
-    "Water",
-    "Psychic"
+    {
+      "name": "Water",
+      "code": "water"
+    },
+    {
+      "name": "Psychic",
+      "code": "psychic"
+    }
   ]
 }

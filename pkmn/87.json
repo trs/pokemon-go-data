@@ -1,5 +1,5 @@
 {
-  "id": "87",
+  "uid": "87",
   "name": "Dewgong",
   "number": 87,
   "forms": [
@@ -9,7 +9,13 @@
     }
   ],
   "types": [
-    "Water",
-    "Ice"
+    {
+      "name": "Water",
+      "code": "water"
+    },
+    {
+      "name": "Ice",
+      "code": "ice"
+    }
   ]
 }

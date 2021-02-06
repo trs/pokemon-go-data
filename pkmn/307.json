@@ -1,5 +1,5 @@
 {
-  "id": "307",
+  "uid": "307",
   "name": "Meditite",
   "number": 307,
   "forms": [
@@ -9,7 +9,13 @@
     }
   ],
   "types": [
-    "Fighting",
-    "Psychic"
+    {
+      "name": "Fighting",
+      "code": "fighting"
+    },
+    {
+      "name": "Psychic",
+      "code": "psychic"
+    }
   ]
 }

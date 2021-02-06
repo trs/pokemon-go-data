@@ -1,5 +1,5 @@
 {
-  "id": "648-pirouette",
+  "uid": "648-pirouette",
   "name": "Meloetta",
   "number": 648,
   "forms": [
@@ -9,7 +9,13 @@
     }
   ],
   "types": [
-    "Normal",
-    "Fighting"
+    {
+      "name": "Normal",
+      "code": "normal"
+    },
+    {
+      "name": "Fighting",
+      "code": "fighting"
+    }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "id": "310",
+  "uid": "310",
   "name": "Manectric",
   "number": 310,
   "forms": [
@@ -9,6 +9,9 @@
     }
   ],
   "types": [
-    "Electric"
+    {
+      "name": "Electric",
+      "code": "electric"
+    }
   ]
 }

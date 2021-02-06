@@ -1,5 +1,5 @@
 {
-  "id": "633",
+  "uid": "633",
   "name": "Deino",
   "number": 633,
   "forms": [
@@ -9,7 +9,13 @@
     }
   ],
   "types": [
-    "Dark",
-    "Dragon"
+    {
+      "name": "Dark",
+      "code": "dark"
+    },
+    {
+      "name": "Dragon",
+      "code": "dragon"
+    }
   ]
 }

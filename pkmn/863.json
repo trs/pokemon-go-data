@@ -1,5 +1,5 @@
 {
-  "id": "863",
+  "uid": "863",
   "name": "Perrserker",
   "number": 863,
   "forms": [
@@ -9,6 +9,9 @@
     }
   ],
   "types": [
-    "Steel"
+    {
+      "name": "Steel",
+      "code": "steel"
+    }
   ]
 }

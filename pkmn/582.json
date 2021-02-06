@@ -1,5 +1,5 @@
 {
-  "id": "582",
+  "uid": "582",
   "name": "Vanillite",
   "number": 582,
   "forms": [
@@ -9,6 +9,9 @@
     }
   ],
   "types": [
-    "Ice"
+    {
+      "name": "Ice",
+      "code": "ice"
+    }
   ]
 }

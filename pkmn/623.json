@@ -1,5 +1,5 @@
 {
-  "id": "623",
+  "uid": "623",
   "name": "Golurk",
   "number": 623,
   "forms": [
@@ -9,7 +9,13 @@
     }
   ],
   "types": [
-    "Ground",
-    "Ghost"
+    {
+      "name": "Ground",
+      "code": "ground"
+    },
+    {
+      "name": "Ghost",
+      "code": "ghost"
+    }
   ]
 }

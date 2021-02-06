@@ -1,5 +1,5 @@
 {
-  "id": "513",
+  "uid": "513",
   "name": "Pansear",
   "number": 513,
   "forms": [
@@ -9,6 +9,9 @@
     }
   ],
   "types": [
-    "Fire"
+    {
+      "name": "Fire",
+      "code": "fire"
+    }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "id": "105-alola",
+  "uid": "105-alola",
   "name": "Marowak",
   "number": 105,
   "forms": [
@@ -9,7 +9,13 @@
     }
   ],
   "types": [
-    "Fire",
-    "Ghost"
+    {
+      "name": "Fire",
+      "code": "fire"
+    },
+    {
+      "name": "Ghost",
+      "code": "ghost"
+    }
   ]
 }

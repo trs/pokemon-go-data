@@ -1,5 +1,5 @@
 {
-  "id": "595",
+  "uid": "595",
   "name": "Joltik",
   "number": 595,
   "forms": [
@@ -9,7 +9,13 @@
     }
   ],
   "types": [
-    "Bug",
-    "Electric"
+    {
+      "name": "Bug",
+      "code": "bug"
+    },
+    {
+      "name": "Electric",
+      "code": "electric"
+    }
   ]
 }

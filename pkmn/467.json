@@ -1,5 +1,5 @@
 {
-  "id": "467",
+  "uid": "467",
   "name": "Magmortar",
   "number": 467,
   "forms": [
@@ -9,6 +9,9 @@
     }
   ],
   "types": [
-    "Fire"
+    {
+      "name": "Fire",
+      "code": "fire"
+    }
   ]
 }

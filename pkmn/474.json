@@ -1,5 +1,5 @@
 {
-  "id": "474",
+  "uid": "474",
   "name": "Porygon-Z",
   "number": 474,
   "forms": [
@@ -9,6 +9,9 @@
     }
   ],
   "types": [
-    "Normal"
+    {
+      "name": "Normal",
+      "code": "normal"
+    }
   ]
 }

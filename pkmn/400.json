@@ -1,5 +1,5 @@
 {
-  "id": "400",
+  "uid": "400",
   "name": "Bibarel",
   "number": 400,
   "forms": [
@@ -9,7 +9,13 @@
     }
   ],
   "types": [
-    "Normal",
-    "Water"
+    {
+      "name": "Normal",
+      "code": "normal"
+    },
+    {
+      "name": "Water",
+      "code": "water"
+    }
   ]
 }

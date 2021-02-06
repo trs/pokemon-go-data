@@ -1,5 +1,5 @@
 {
-  "id": "674",
+  "uid": "674",
   "name": "Pancham",
   "number": 674,
   "forms": [
@@ -9,6 +9,9 @@
     }
   ],
   "types": [
-    "Fighting"
+    {
+      "name": "Fighting",
+      "code": "fighting"
+    }
   ]
 }

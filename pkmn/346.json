@@ -1,5 +1,5 @@
 {
-  "id": "346",
+  "uid": "346",
   "name": "Cradily",
   "number": 346,
   "forms": [
@@ -9,7 +9,13 @@
     }
   ],
   "types": [
-    "Rock",
-    "Grass"
+    {
+      "name": "Rock",
+      "code": "rock"
+    },
+    {
+      "name": "Grass",
+      "code": "grass"
+    }
   ]
 }

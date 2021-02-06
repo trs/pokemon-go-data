@@ -1,5 +1,5 @@
 {
-  "id": "475",
+  "uid": "475",
   "name": "Gallade",
   "number": 475,
   "forms": [
@@ -9,7 +9,13 @@
     }
   ],
   "types": [
-    "Psychic",
-    "Fighting"
+    {
+      "name": "Psychic",
+      "code": "psychic"
+    },
+    {
+      "name": "Fighting",
+      "code": "fighting"
+    }
   ]
 }

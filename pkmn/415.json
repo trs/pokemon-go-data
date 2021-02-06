@@ -1,5 +1,5 @@
 {
-  "id": "415",
+  "uid": "415",
   "name": "Combee",
   "number": 415,
   "forms": [
@@ -9,7 +9,13 @@
     }
   ],
   "types": [
-    "Bug",
-    "Flying"
+    {
+      "name": "Bug",
+      "code": "bug"
+    },
+    {
+      "name": "Flying",
+      "code": "flying"
+    }
   ]
 }

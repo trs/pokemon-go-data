@@ -1,5 +1,5 @@
 {
-  "id": "69",
+  "uid": "69",
   "name": "Bellsprout",
   "number": 69,
   "forms": [
@@ -9,7 +9,13 @@
     }
   ],
   "types": [
-    "Grass",
-    "Poison"
+    {
+      "name": "Grass",
+      "code": "grass"
+    },
+    {
+      "name": "Poison",
+      "code": "poison"
+    }
   ]
 }

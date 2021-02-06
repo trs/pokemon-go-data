@@ -1,5 +1,5 @@
 {
-  "id": "717",
+  "uid": "717",
   "name": "Yveltal",
   "number": 717,
   "forms": [
@@ -9,7 +9,13 @@
     }
   ],
   "types": [
-    "Dark",
-    "Flying"
+    {
+      "name": "Dark",
+      "code": "dark"
+    },
+    {
+      "name": "Flying",
+      "code": "flying"
+    }
   ]
 }

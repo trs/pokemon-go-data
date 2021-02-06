@@ -1,5 +1,5 @@
 {
-  "id": "540",
+  "uid": "540",
   "name": "Sewaddle",
   "number": 540,
   "forms": [
@@ -9,7 +9,13 @@
     }
   ],
   "types": [
-    "Bug",
-    "Grass"
+    {
+      "name": "Bug",
+      "code": "bug"
+    },
+    {
+      "name": "Grass",
+      "code": "grass"
+    }
   ]
 }

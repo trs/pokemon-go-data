@@ -1,5 +1,5 @@
 {
-  "id": "322",
+  "uid": "322",
   "name": "Numel",
   "number": 322,
   "forms": [
@@ -9,7 +9,13 @@
     }
   ],
   "types": [
-    "Fire",
-    "Ground"
+    {
+      "name": "Fire",
+      "code": "fire"
+    },
+    {
+      "name": "Ground",
+      "code": "ground"
+    }
   ]
 }

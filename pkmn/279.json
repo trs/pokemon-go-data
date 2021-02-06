@@ -1,5 +1,5 @@
 {
-  "id": "279",
+  "uid": "279",
   "name": "Pelipper",
   "number": 279,
   "forms": [
@@ -9,7 +9,13 @@
     }
   ],
   "types": [
-    "Water",
-    "Flying"
+    {
+      "name": "Water",
+      "code": "water"
+    },
+    {
+      "name": "Flying",
+      "code": "flying"
+    }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "id": "500",
+  "uid": "500",
   "name": "Emboar",
   "number": 500,
   "forms": [
@@ -9,7 +9,13 @@
     }
   ],
   "types": [
-    "Fire",
-    "Fighting"
+    {
+      "name": "Fire",
+      "code": "fire"
+    },
+    {
+      "name": "Fighting",
+      "code": "fighting"
+    }
   ]
 }

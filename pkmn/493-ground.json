@@ -1,5 +1,5 @@
 {
-  "id": "493-ground",
+  "uid": "493-ground",
   "name": "Arceus",
   "number": 493,
   "forms": [
@@ -9,6 +9,9 @@
     }
   ],
   "types": [
-    "Ground"
+    {
+      "name": "Ground",
+      "code": "ground"
+    }
   ]
 }

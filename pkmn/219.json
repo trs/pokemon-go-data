@@ -1,5 +1,5 @@
 {
-  "id": "219",
+  "uid": "219",
   "name": "Magcargo",
   "number": 219,
   "forms": [
@@ -9,7 +9,13 @@
     }
   ],
   "types": [
-    "Fire",
-    "Rock"
+    {
+      "name": "Fire",
+      "code": "fire"
+    },
+    {
+      "name": "Rock",
+      "code": "rock"
+    }
   ]
 }

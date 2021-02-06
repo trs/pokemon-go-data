@@ -1,5 +1,5 @@
 {
-  "id": "302",
+  "uid": "302",
   "name": "Sableye",
   "number": 302,
   "forms": [
@@ -9,7 +9,13 @@
     }
   ],
   "types": [
-    "Dark",
-    "Ghost"
+    {
+      "name": "Dark",
+      "code": "dark"
+    },
+    {
+      "name": "Ghost",
+      "code": "ghost"
+    }
   ]
 }

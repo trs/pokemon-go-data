@@ -1,5 +1,5 @@
 {
-  "id": "292",
+  "uid": "292",
   "name": "Shedinja",
   "number": 292,
   "forms": [
@@ -9,7 +9,13 @@
     }
   ],
   "types": [
-    "Bug",
-    "Ghost"
+    {
+      "name": "Bug",
+      "code": "bug"
+    },
+    {
+      "name": "Ghost",
+      "code": "ghost"
+    }
   ]
 }

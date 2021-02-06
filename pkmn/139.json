@@ -1,5 +1,5 @@
 {
-  "id": "139",
+  "uid": "139",
   "name": "Omastar",
   "number": 139,
   "forms": [
@@ -9,7 +9,13 @@
     }
   ],
   "types": [
-    "Rock",
-    "Water"
+    {
+      "name": "Rock",
+      "code": "rock"
+    },
+    {
+      "name": "Water",
+      "code": "water"
+    }
   ]
 }

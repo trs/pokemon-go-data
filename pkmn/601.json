@@ -1,5 +1,5 @@
 {
-  "id": "601",
+  "uid": "601",
   "name": "Klinklang",
   "number": 601,
   "forms": [
@@ -9,6 +9,9 @@
     }
   ],
   "types": [
-    "Steel"
+    {
+      "name": "Steel",
+      "code": "steel"
+    }
   ]
 }

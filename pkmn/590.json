@@ -1,5 +1,5 @@
 {
-  "id": "590",
+  "uid": "590",
   "name": "Foongus",
   "number": 590,
   "forms": [
@@ -9,7 +9,13 @@
     }
   ],
   "types": [
-    "Grass",
-    "Poison"
+    {
+      "name": "Grass",
+      "code": "grass"
+    },
+    {
+      "name": "Poison",
+      "code": "poison"
+    }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "id": "407",
+  "uid": "407",
   "name": "Roserade",
   "number": 407,
   "forms": [
@@ -9,7 +9,13 @@
     }
   ],
   "types": [
-    "Grass",
-    "Poison"
+    {
+      "name": "Grass",
+      "code": "grass"
+    },
+    {
+      "name": "Poison",
+      "code": "poison"
+    }
   ]
 }

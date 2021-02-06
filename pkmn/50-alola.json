@@ -1,5 +1,5 @@
 {
-  "id": "50-alola",
+  "uid": "50-alola",
   "name": "Diglett",
   "number": 50,
   "forms": [
@@ -9,7 +9,13 @@
     }
   ],
   "types": [
-    "Ground",
-    "Steel"
+    {
+      "name": "Ground",
+      "code": "ground"
+    },
+    {
+      "name": "Steel",
+      "code": "steel"
+    }
   ]
 }

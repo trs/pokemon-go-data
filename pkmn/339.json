@@ -1,5 +1,5 @@
 {
-  "id": "339",
+  "uid": "339",
   "name": "Barboach",
   "number": 339,
   "forms": [
@@ -9,7 +9,13 @@
     }
   ],
   "types": [
-    "Water",
-    "Ground"
+    {
+      "name": "Water",
+      "code": "water"
+    },
+    {
+      "name": "Ground",
+      "code": "ground"
+    }
   ]
 }

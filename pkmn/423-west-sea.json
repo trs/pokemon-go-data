@@ -1,5 +1,5 @@
 {
-  "id": "423-west-sea",
+  "uid": "423-west-sea",
   "name": "Gastrodon",
   "number": 423,
   "forms": [
@@ -9,7 +9,13 @@
     }
   ],
   "types": [
-    "Water",
-    "Ground"
+    {
+      "name": "Water",
+      "code": "water"
+    },
+    {
+      "name": "Ground",
+      "code": "ground"
+    }
   ]
 }

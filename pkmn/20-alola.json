@@ -1,5 +1,5 @@
 {
-  "id": "20-alola",
+  "uid": "20-alola",
   "name": "Raticate",
   "number": 20,
   "forms": [
@@ -9,7 +9,13 @@
     }
   ],
   "types": [
-    "Dark",
-    "Normal"
+    {
+      "name": "Dark",
+      "code": "dark"
+    },
+    {
+      "name": "Normal",
+      "code": "normal"
+    }
   ]
 }

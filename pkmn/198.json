@@ -1,5 +1,5 @@
 {
-  "id": "198",
+  "uid": "198",
   "name": "Murkrow",
   "number": 198,
   "forms": [
@@ -9,7 +9,13 @@
     }
   ],
   "types": [
-    "Dark",
-    "Flying"
+    {
+      "name": "Dark",
+      "code": "dark"
+    },
+    {
+      "name": "Flying",
+      "code": "flying"
+    }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "id": "443",
+  "uid": "443",
   "name": "Gible",
   "number": 443,
   "forms": [
@@ -9,7 +9,13 @@
     }
   ],
   "types": [
-    "Dragon",
-    "Ground"
+    {
+      "name": "Dragon",
+      "code": "dragon"
+    },
+    {
+      "name": "Ground",
+      "code": "ground"
+    }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "id": "111",
+  "uid": "111",
   "name": "Rhyhorn",
   "number": 111,
   "forms": [
@@ -9,7 +9,13 @@
     }
   ],
   "types": [
-    "Ground",
-    "Rock"
+    {
+      "name": "Ground",
+      "code": "ground"
+    },
+    {
+      "name": "Rock",
+      "code": "rock"
+    }
   ]
 }

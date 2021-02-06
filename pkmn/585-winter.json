@@ -1,5 +1,5 @@
 {
-  "id": "585-winter",
+  "uid": "585-winter",
   "name": "Deerling",
   "number": 585,
   "forms": [
@@ -9,7 +9,13 @@
     }
   ],
   "types": [
-    "Normal",
-    "Grass"
+    {
+      "name": "Normal",
+      "code": "normal"
+    },
+    {
+      "name": "Grass",
+      "code": "grass"
+    }
   ]
 }

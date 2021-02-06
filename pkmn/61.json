@@ -1,5 +1,5 @@
 {
-  "id": "61",
+  "uid": "61",
   "name": "Poliwhirl",
   "number": 61,
   "forms": [
@@ -9,6 +9,9 @@
     }
   ],
   "types": [
-    "Water"
+    {
+      "name": "Water",
+      "code": "water"
+    }
   ]
 }

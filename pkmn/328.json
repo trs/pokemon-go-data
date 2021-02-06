@@ -1,5 +1,5 @@
 {
-  "id": "328",
+  "uid": "328",
   "name": "Trapinch",
   "number": 328,
   "forms": [
@@ -9,6 +9,9 @@
     }
   ],
   "types": [
-    "Ground"
+    {
+      "name": "Ground",
+      "code": "ground"
+    }
   ]
 }

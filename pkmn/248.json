@@ -1,5 +1,5 @@
 {
-  "id": "248",
+  "uid": "248",
   "name": "Tyranitar",
   "number": 248,
   "forms": [
@@ -9,7 +9,13 @@
     }
   ],
   "types": [
-    "Rock",
-    "Dark"
+    {
+      "name": "Rock",
+      "code": "rock"
+    },
+    {
+      "name": "Dark",
+      "code": "dark"
+    }
   ]
 }

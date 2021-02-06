@@ -1,5 +1,5 @@
 {
-  "id": "667",
+  "uid": "667",
   "name": "Litleo",
   "number": 667,
   "forms": [
@@ -9,7 +9,13 @@
     }
   ],
   "types": [
-    "Fire",
-    "Normal"
+    {
+      "name": "Fire",
+      "code": "fire"
+    },
+    {
+      "name": "Normal",
+      "code": "normal"
+    }
   ]
 }

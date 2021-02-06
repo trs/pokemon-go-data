@@ -1,5 +1,5 @@
 {
-  "id": "190",
+  "uid": "190",
   "name": "Aipom",
   "number": 190,
   "forms": [
@@ -9,6 +9,9 @@
     }
   ],
   "types": [
-    "Normal"
+    {
+      "name": "Normal",
+      "code": "normal"
+    }
   ]
 }

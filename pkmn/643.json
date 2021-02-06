@@ -1,5 +1,5 @@
 {
-  "id": "643",
+  "uid": "643",
   "name": "Reshiram",
   "number": 643,
   "forms": [
@@ -9,7 +9,13 @@
     }
   ],
   "types": [
-    "Dragon",
-    "Fire"
+    {
+      "name": "Dragon",
+      "code": "dragon"
+    },
+    {
+      "name": "Fire",
+      "code": "fire"
+    }
   ]
 }

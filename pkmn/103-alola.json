@@ -1,5 +1,5 @@
 {
-  "id": "103-alola",
+  "uid": "103-alola",
   "name": "Exeggutor",
   "number": 103,
   "forms": [
@@ -9,7 +9,13 @@
     }
   ],
   "types": [
-    "Grass",
-    "Dragon"
+    {
+      "name": "Grass",
+      "code": "grass"
+    },
+    {
+      "name": "Dragon",
+      "code": "dragon"
+    }
   ]
 }

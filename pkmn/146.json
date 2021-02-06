@@ -1,5 +1,5 @@
 {
-  "id": "146",
+  "uid": "146",
   "name": "Moltres",
   "number": 146,
   "forms": [
@@ -9,7 +9,13 @@
     }
   ],
   "types": [
-    "Fire",
-    "Flying"
+    {
+      "name": "Fire",
+      "code": "fire"
+    },
+    {
+      "name": "Flying",
+      "code": "flying"
+    }
   ]
 }

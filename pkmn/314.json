@@ -1,5 +1,5 @@
 {
-  "id": "314",
+  "uid": "314",
   "name": "Illumise",
   "number": 314,
   "forms": [
@@ -9,6 +9,9 @@
     }
   ],
   "types": [
-    "Bug"
+    {
+      "name": "Bug",
+      "code": "bug"
+    }
   ]
 }

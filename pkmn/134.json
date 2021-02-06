@@ -1,5 +1,5 @@
 {
-  "id": "134",
+  "uid": "134",
   "name": "Vaporeon",
   "number": 134,
   "forms": [
@@ -9,6 +9,9 @@
     }
   ],
   "types": [
-    "Water"
+    {
+      "name": "Water",
+      "code": "water"
+    }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "id": "479-fan",
+  "uid": "479-fan",
   "name": "Rotom",
   "number": 479,
   "forms": [
@@ -9,7 +9,13 @@
     }
   ],
   "types": [
-    "Electric",
-    "Flying"
+    {
+      "name": "Electric",
+      "code": "electric"
+    },
+    {
+      "name": "Flying",
+      "code": "flying"
+    }
   ]
 }

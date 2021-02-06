@@ -1,5 +1,5 @@
 {
-  "id": "712",
+  "uid": "712",
   "name": "Bergmite",
   "number": 712,
   "forms": [
@@ -9,6 +9,9 @@
     }
   ],
   "types": [
-    "Ice"
+    {
+      "name": "Ice",
+      "code": "ice"
+    }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "id": "501",
+  "uid": "501",
   "name": "Oshawott",
   "number": 501,
   "forms": [
@@ -9,6 +9,9 @@
     }
   ],
   "types": [
-    "Water"
+    {
+      "name": "Water",
+      "code": "water"
+    }
   ]
 }

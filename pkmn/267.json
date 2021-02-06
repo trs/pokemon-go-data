@@ -1,5 +1,5 @@
 {
-  "id": "267",
+  "uid": "267",
   "name": "Beautifly",
   "number": 267,
   "forms": [
@@ -9,7 +9,13 @@
     }
   ],
   "types": [
-    "Bug",
-    "Flying"
+    {
+      "name": "Bug",
+      "code": "bug"
+    },
+    {
+      "name": "Flying",
+      "code": "flying"
+    }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "id": "60",
+  "uid": "60",
   "name": "Poliwag",
   "number": 60,
   "forms": [
@@ -9,6 +9,9 @@
     }
   ],
   "types": [
-    "Water"
+    {
+      "name": "Water",
+      "code": "water"
+    }
   ]
 }

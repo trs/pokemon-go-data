@@ -1,5 +1,5 @@
 {
-  "id": "622",
+  "uid": "622",
   "name": "Golett",
   "number": 622,
   "forms": [
@@ -9,7 +9,13 @@
     }
   ],
   "types": [
-    "Ground",
-    "Ghost"
+    {
+      "name": "Ground",
+      "code": "ground"
+    },
+    {
+      "name": "Ghost",
+      "code": "ghost"
+    }
   ]
 }

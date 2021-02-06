@@ -1,5 +1,5 @@
 {
-  "id": "363",
+  "uid": "363",
   "name": "Spheal",
   "number": 363,
   "forms": [
@@ -9,7 +9,13 @@
     }
   ],
   "types": [
-    "Ice",
-    "Water"
+    {
+      "name": "Ice",
+      "code": "ice"
+    },
+    {
+      "name": "Water",
+      "code": "water"
+    }
   ]
 }

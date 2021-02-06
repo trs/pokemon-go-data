@@ -1,5 +1,5 @@
 {
-  "id": "6",
+  "uid": "6",
   "name": "Charizard",
   "number": 6,
   "forms": [
@@ -9,7 +9,13 @@
     }
   ],
   "types": [
-    "Fire",
-    "Flying"
+    {
+      "name": "Fire",
+      "code": "fire"
+    },
+    {
+      "name": "Flying",
+      "code": "flying"
+    }
   ]
 }

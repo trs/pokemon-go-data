@@ -1,5 +1,5 @@
 {
-  "id": "270",
+  "uid": "270",
   "name": "Lotad",
   "number": 270,
   "forms": [
@@ -9,7 +9,13 @@
     }
   ],
   "types": [
-    "Water",
-    "Grass"
+    {
+      "name": "Water",
+      "code": "water"
+    },
+    {
+      "name": "Grass",
+      "code": "grass"
+    }
   ]
 }

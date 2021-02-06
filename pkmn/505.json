@@ -1,5 +1,5 @@
 {
-  "id": "505",
+  "uid": "505",
   "name": "Watchog",
   "number": 505,
   "forms": [
@@ -9,6 +9,9 @@
     }
   ],
   "types": [
-    "Normal"
+    {
+      "name": "Normal",
+      "code": "normal"
+    }
   ]
 }

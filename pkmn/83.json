@@ -1,5 +1,5 @@
 {
-  "id": "83",
+  "uid": "83",
   "name": "Farfetch'd",
   "number": 83,
   "forms": [
@@ -9,7 +9,13 @@
     }
   ],
   "types": [
-    "Normal",
-    "Flying"
+    {
+      "name": "Normal",
+      "code": "normal"
+    },
+    {
+      "name": "Flying",
+      "code": "flying"
+    }
   ]
 }

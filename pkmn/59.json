@@ -1,5 +1,5 @@
 {
-  "id": "59",
+  "uid": "59",
   "name": "Arcanine",
   "number": 59,
   "forms": [
@@ -9,6 +9,9 @@
     }
   ],
   "types": [
-    "Fire"
+    {
+      "name": "Fire",
+      "code": "fire"
+    }
   ]
 }

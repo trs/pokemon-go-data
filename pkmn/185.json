@@ -1,5 +1,5 @@
 {
-  "id": "185",
+  "uid": "185",
   "name": "Sudowoodo",
   "number": 185,
   "forms": [
@@ -9,6 +9,9 @@
     }
   ],
   "types": [
-    "Rock"
+    {
+      "name": "Rock",
+      "code": "rock"
+    }
   ]
 }

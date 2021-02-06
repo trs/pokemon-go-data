@@ -1,5 +1,5 @@
 {
-  "id": "305",
+  "uid": "305",
   "name": "Lairon",
   "number": 305,
   "forms": [
@@ -9,7 +9,13 @@
     }
   ],
   "types": [
-    "Steel",
-    "Rock"
+    {
+      "name": "Steel",
+      "code": "steel"
+    },
+    {
+      "name": "Rock",
+      "code": "rock"
+    }
   ]
 }

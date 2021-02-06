@@ -1,5 +1,5 @@
 {
-  "id": "675",
+  "uid": "675",
   "name": "Pangoro",
   "number": 675,
   "forms": [
@@ -9,7 +9,13 @@
     }
   ],
   "types": [
-    "Fighting",
-    "Dark"
+    {
+      "name": "Fighting",
+      "code": "fighting"
+    },
+    {
+      "name": "Dark",
+      "code": "dark"
+    }
   ]
 }

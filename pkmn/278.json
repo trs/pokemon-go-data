@@ -1,5 +1,5 @@
 {
-  "id": "278",
+  "uid": "278",
   "name": "Wingull",
   "number": 278,
   "forms": [
@@ -9,7 +9,13 @@
     }
   ],
   "types": [
-    "Water",
-    "Flying"
+    {
+      "name": "Water",
+      "code": "water"
+    },
+    {
+      "name": "Flying",
+      "code": "flying"
+    }
   ]
 }

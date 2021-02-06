@@ -1,5 +1,5 @@
 {
-  "id": "273",
+  "uid": "273",
   "name": "Seedot",
   "number": 273,
   "forms": [
@@ -9,6 +9,9 @@
     }
   ],
   "types": [
-    "Grass"
+    {
+      "name": "Grass",
+      "code": "grass"
+    }
   ]
 }

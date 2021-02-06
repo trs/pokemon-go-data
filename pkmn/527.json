@@ -1,5 +1,5 @@
 {
-  "id": "527",
+  "uid": "527",
   "name": "Woobat",
   "number": 527,
   "forms": [
@@ -9,7 +9,13 @@
     }
   ],
   "types": [
-    "Psychic",
-    "Flying"
+    {
+      "name": "Psychic",
+      "code": "psychic"
+    },
+    {
+      "name": "Flying",
+      "code": "flying"
+    }
   ]
 }

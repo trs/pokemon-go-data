@@ -1,5 +1,5 @@
 {
-  "id": "11",
+  "uid": "11",
   "name": "Metapod",
   "number": 11,
   "forms": [
@@ -9,6 +9,9 @@
     }
   ],
   "types": [
-    "Bug"
+    {
+      "name": "Bug",
+      "code": "bug"
+    }
   ]
 }

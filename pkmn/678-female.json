@@ -1,5 +1,5 @@
 {
-  "id": "678-female",
+  "uid": "678-female",
   "name": "Meowstic",
   "number": 678,
   "forms": [
@@ -9,6 +9,9 @@
     }
   ],
   "types": [
-    "Psychic"
+    {
+      "name": "Psychic",
+      "code": "psychic"
+    }
   ]
 }

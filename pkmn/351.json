@@ -1,5 +1,5 @@
 {
-  "id": "351",
+  "uid": "351",
   "name": "Castform",
   "number": 351,
   "forms": [
@@ -9,6 +9,9 @@
     }
   ],
   "types": [
-    "Normal"
+    {
+      "name": "Normal",
+      "code": "normal"
+    }
   ]
 }

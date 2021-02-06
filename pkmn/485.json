@@ -1,5 +1,5 @@
 {
-  "id": "485",
+  "uid": "485",
   "name": "Heatran",
   "number": 485,
   "forms": [
@@ -9,7 +9,13 @@
     }
   ],
   "types": [
-    "Fire",
-    "Steel"
+    {
+      "name": "Fire",
+      "code": "fire"
+    },
+    {
+      "name": "Steel",
+      "code": "steel"
+    }
   ]
 }

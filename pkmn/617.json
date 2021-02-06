@@ -1,5 +1,5 @@
 {
-  "id": "617",
+  "uid": "617",
   "name": "Accelgor",
   "number": 617,
   "forms": [
@@ -9,6 +9,9 @@
     }
   ],
   "types": [
-    "Bug"
+    {
+      "name": "Bug",
+      "code": "bug"
+    }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "id": "226",
+  "uid": "226",
   "name": "Mantine",
   "number": 226,
   "forms": [
@@ -9,7 +9,13 @@
     }
   ],
   "types": [
-    "Water",
-    "Flying"
+    {
+      "name": "Water",
+      "code": "water"
+    },
+    {
+      "name": "Flying",
+      "code": "flying"
+    }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "id": "203",
+  "uid": "203",
   "name": "Girafarig",
   "number": 203,
   "forms": [
@@ -9,7 +9,13 @@
     }
   ],
   "types": [
-    "Normal",
-    "Psychic"
+    {
+      "name": "Normal",
+      "code": "normal"
+    },
+    {
+      "name": "Psychic",
+      "code": "psychic"
+    }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "id": "295",
+  "uid": "295",
   "name": "Exploud",
   "number": 295,
   "forms": [
@@ -9,6 +9,9 @@
     }
   ],
   "types": [
-    "Normal"
+    {
+      "name": "Normal",
+      "code": "normal"
+    }
   ]
 }

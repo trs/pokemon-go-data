@@ -1,5 +1,5 @@
 {
-  "id": "358",
+  "uid": "358",
   "name": "Chimecho",
   "number": 358,
   "forms": [
@@ -9,6 +9,9 @@
     }
   ],
   "types": [
-    "Psychic"
+    {
+      "name": "Psychic",
+      "code": "psychic"
+    }
   ]
 }

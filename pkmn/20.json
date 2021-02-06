@@ -1,5 +1,5 @@
 {
-  "id": "20",
+  "uid": "20",
   "name": "Raticate",
   "number": 20,
   "forms": [
@@ -9,6 +9,9 @@
     }
   ],
   "types": [
-    "Normal"
+    {
+      "name": "Normal",
+      "code": "normal"
+    }
   ]
 }

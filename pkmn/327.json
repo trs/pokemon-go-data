@@ -1,5 +1,5 @@
 {
-  "id": "327",
+  "uid": "327",
   "name": "Spinda",
   "number": 327,
   "forms": [
@@ -9,6 +9,9 @@
     }
   ],
   "types": [
-    "Normal"
+    {
+      "name": "Normal",
+      "code": "normal"
+    }
   ]
 }

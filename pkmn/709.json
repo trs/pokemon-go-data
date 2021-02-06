@@ -1,5 +1,5 @@
 {
-  "id": "709",
+  "uid": "709",
   "name": "Trevenant",
   "number": 709,
   "forms": [
@@ -9,7 +9,13 @@
     }
   ],
   "types": [
-    "Ghost",
-    "Grass"
+    {
+      "name": "Ghost",
+      "code": "ghost"
+    },
+    {
+      "name": "Grass",
+      "code": "grass"
+    }
   ]
 }

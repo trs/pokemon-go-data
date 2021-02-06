@@ -1,5 +1,5 @@
 {
-  "id": "225",
+  "uid": "225",
   "name": "Delibird",
   "number": 225,
   "forms": [
@@ -9,7 +9,13 @@
     }
   ],
   "types": [
-    "Ice",
-    "Flying"
+    {
+      "name": "Ice",
+      "code": "ice"
+    },
+    {
+      "name": "Flying",
+      "code": "flying"
+    }
   ]
 }

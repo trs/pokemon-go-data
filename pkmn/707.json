@@ -1,5 +1,5 @@
 {
-  "id": "707",
+  "uid": "707",
   "name": "Klefki",
   "number": 707,
   "forms": [
@@ -9,7 +9,13 @@
     }
   ],
   "types": [
-    "Steel",
-    "Fairy"
+    {
+      "name": "Steel",
+      "code": "steel"
+    },
+    {
+      "name": "Fairy",
+      "code": "fairy"
+    }
   ]
 }

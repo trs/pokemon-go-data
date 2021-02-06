@@ -1,5 +1,5 @@
 {
-  "id": "639",
+  "uid": "639",
   "name": "Terrakion",
   "number": 639,
   "forms": [
@@ -9,7 +9,13 @@
     }
   ],
   "types": [
-    "Rock",
-    "Fighting"
+    {
+      "name": "Rock",
+      "code": "rock"
+    },
+    {
+      "name": "Fighting",
+      "code": "fighting"
+    }
   ]
 }

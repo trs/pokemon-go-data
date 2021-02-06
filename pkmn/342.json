@@ -1,5 +1,5 @@
 {
-  "id": "342",
+  "uid": "342",
   "name": "Crawdaunt",
   "number": 342,
   "forms": [
@@ -9,7 +9,13 @@
     }
   ],
   "types": [
-    "Water",
-    "Dark"
+    {
+      "name": "Water",
+      "code": "water"
+    },
+    {
+      "name": "Dark",
+      "code": "dark"
+    }
   ]
 }

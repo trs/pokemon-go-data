@@ -1,5 +1,5 @@
 {
-  "id": "138",
+  "uid": "138",
   "name": "Omanyte",
   "number": 138,
   "forms": [
@@ -9,7 +9,13 @@
     }
   ],
   "types": [
-    "Rock",
-    "Water"
+    {
+      "name": "Rock",
+      "code": "rock"
+    },
+    {
+      "name": "Water",
+      "code": "water"
+    }
   ]
 }

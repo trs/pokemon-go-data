@@ -1,5 +1,5 @@
 {
-  "id": "458",
+  "uid": "458",
   "name": "Mantyke",
   "number": 458,
   "forms": [
@@ -9,7 +9,13 @@
     }
   ],
   "types": [
-    "Water",
-    "Flying"
+    {
+      "name": "Water",
+      "code": "water"
+    },
+    {
+      "name": "Flying",
+      "code": "flying"
+    }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "id": "227",
+  "uid": "227",
   "name": "Skarmory",
   "number": 227,
   "forms": [
@@ -9,7 +9,13 @@
     }
   ],
   "types": [
-    "Steel",
-    "Flying"
+    {
+      "name": "Steel",
+      "code": "steel"
+    },
+    {
+      "name": "Flying",
+      "code": "flying"
+    }
   ]
 }

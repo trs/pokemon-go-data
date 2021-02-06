@@ -1,5 +1,5 @@
 {
-  "id": "144",
+  "uid": "144",
   "name": "Articuno",
   "number": 144,
   "forms": [
@@ -9,7 +9,13 @@
     }
   ],
   "types": [
-    "Ice",
-    "Flying"
+    {
+      "name": "Ice",
+      "code": "ice"
+    },
+    {
+      "name": "Flying",
+      "code": "flying"
+    }
   ]
 }

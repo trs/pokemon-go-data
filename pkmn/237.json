@@ -1,5 +1,5 @@
 {
-  "id": "237",
+  "uid": "237",
   "name": "Hitmontop",
   "number": 237,
   "forms": [
@@ -9,6 +9,9 @@
     }
   ],
   "types": [
-    "Fighting"
+    {
+      "name": "Fighting",
+      "code": "fighting"
+    }
   ]
 }

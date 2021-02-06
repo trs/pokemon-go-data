@@ -1,5 +1,5 @@
 {
-  "id": "507",
+  "uid": "507",
   "name": "Herdier",
   "number": 507,
   "forms": [
@@ -9,6 +9,9 @@
     }
   ],
   "types": [
-    "Normal"
+    {
+      "name": "Normal",
+      "code": "normal"
+    }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "id": "405",
+  "uid": "405",
   "name": "Luxray",
   "number": 405,
   "forms": [
@@ -9,6 +9,9 @@
     }
   ],
   "types": [
-    "Electric"
+    {
+      "name": "Electric",
+      "code": "electric"
+    }
   ]
 }

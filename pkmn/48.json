@@ -1,5 +1,5 @@
 {
-  "id": "48",
+  "uid": "48",
   "name": "Venonat",
   "number": 48,
   "forms": [
@@ -9,7 +9,13 @@
     }
   ],
   "types": [
-    "Bug",
-    "Poison"
+    {
+      "name": "Bug",
+      "code": "bug"
+    },
+    {
+      "name": "Poison",
+      "code": "poison"
+    }
   ]
 }

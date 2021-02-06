@@ -1,5 +1,5 @@
 {
-  "id": "129",
+  "uid": "129",
   "name": "Magikarp",
   "number": 129,
   "forms": [
@@ -9,6 +9,9 @@
     }
   ],
   "types": [
-    "Water"
+    {
+      "name": "Water",
+      "code": "water"
+    }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "id": "668",
+  "uid": "668",
   "name": "Pyroar",
   "number": 668,
   "forms": [
@@ -9,7 +9,13 @@
     }
   ],
   "types": [
-    "Fire",
-    "Normal"
+    {
+      "name": "Fire",
+      "code": "fire"
+    },
+    {
+      "name": "Normal",
+      "code": "normal"
+    }
   ]
 }

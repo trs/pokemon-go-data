@@ -1,5 +1,5 @@
 {
-  "id": "70",
+  "uid": "70",
   "name": "Weepinbell",
   "number": 70,
   "forms": [
@@ -9,7 +9,13 @@
     }
   ],
   "types": [
-    "Grass",
-    "Poison"
+    {
+      "name": "Grass",
+      "code": "grass"
+    },
+    {
+      "name": "Poison",
+      "code": "poison"
+    }
   ]
 }

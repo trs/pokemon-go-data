@@ -1,5 +1,5 @@
 {
-  "id": "460-mega",
+  "uid": "460-mega",
   "name": "Abomasnow",
   "number": 460,
   "forms": [
@@ -13,7 +13,13 @@
     }
   ],
   "types": [
-    "Grass",
-    "Ice"
+    {
+      "name": "Grass",
+      "code": "grass"
+    },
+    {
+      "name": "Ice",
+      "code": "ice"
+    }
   ]
 }

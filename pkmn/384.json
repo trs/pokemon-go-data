@@ -1,5 +1,5 @@
 {
-  "id": "384",
+  "uid": "384",
   "name": "Rayquaza",
   "number": 384,
   "forms": [
@@ -9,7 +9,13 @@
     }
   ],
   "types": [
-    "Dragon",
-    "Flying"
+    {
+      "name": "Dragon",
+      "code": "dragon"
+    },
+    {
+      "name": "Flying",
+      "code": "flying"
+    }
   ]
 }

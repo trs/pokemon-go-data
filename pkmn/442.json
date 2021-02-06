@@ -1,5 +1,5 @@
 {
-  "id": "442",
+  "uid": "442",
   "name": "Spiritomb",
   "number": 442,
   "forms": [
@@ -9,7 +9,13 @@
     }
   ],
   "types": [
-    "Ghost",
-    "Dark"
+    {
+      "name": "Ghost",
+      "code": "ghost"
+    },
+    {
+      "name": "Dark",
+      "code": "dark"
+    }
   ]
 }

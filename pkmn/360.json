@@ -1,5 +1,5 @@
 {
-  "id": "360",
+  "uid": "360",
   "name": "Wynaut",
   "number": 360,
   "forms": [
@@ -9,6 +9,9 @@
     }
   ],
   "types": [
-    "Psychic"
+    {
+      "name": "Psychic",
+      "code": "psychic"
+    }
   ]
 }

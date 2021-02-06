@@ -1,5 +1,5 @@
 {
-  "id": "85",
+  "uid": "85",
   "name": "Dodrio",
   "number": 85,
   "forms": [
@@ -9,7 +9,13 @@
     }
   ],
   "types": [
-    "Normal",
-    "Flying"
+    {
+      "name": "Normal",
+      "code": "normal"
+    },
+    {
+      "name": "Flying",
+      "code": "flying"
+    }
   ]
 }

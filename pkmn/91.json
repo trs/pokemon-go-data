@@ -1,5 +1,5 @@
 {
-  "id": "91",
+  "uid": "91",
   "name": "Cloyster",
   "number": 91,
   "forms": [
@@ -9,7 +9,13 @@
     }
   ],
   "types": [
-    "Water",
-    "Ice"
+    {
+      "name": "Water",
+      "code": "water"
+    },
+    {
+      "name": "Ice",
+      "code": "ice"
+    }
   ]
 }

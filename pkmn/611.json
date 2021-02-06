@@ -1,5 +1,5 @@
 {
-  "id": "611",
+  "uid": "611",
   "name": "Fraxure",
   "number": 611,
   "forms": [
@@ -9,6 +9,9 @@
     }
   ],
   "types": [
-    "Dragon"
+    {
+      "name": "Dragon",
+      "code": "dragon"
+    }
   ]
 }

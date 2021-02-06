@@ -1,5 +1,5 @@
 {
-  "id": "271",
+  "uid": "271",
   "name": "Lombre",
   "number": 271,
   "forms": [
@@ -9,7 +9,13 @@
     }
   ],
   "types": [
-    "Water",
-    "Grass"
+    {
+      "name": "Water",
+      "code": "water"
+    },
+    {
+      "name": "Grass",
+      "code": "grass"
+    }
   ]
 }

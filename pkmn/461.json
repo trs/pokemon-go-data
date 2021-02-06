@@ -1,5 +1,5 @@
 {
-  "id": "461",
+  "uid": "461",
   "name": "Weavile",
   "number": 461,
   "forms": [
@@ -9,7 +9,13 @@
     }
   ],
   "types": [
-    "Dark",
-    "Ice"
+    {
+      "name": "Dark",
+      "code": "dark"
+    },
+    {
+      "name": "Ice",
+      "code": "ice"
+    }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "id": "73",
+  "uid": "73",
   "name": "Tentacruel",
   "number": 73,
   "forms": [
@@ -9,7 +9,13 @@
     }
   ],
   "types": [
-    "Water",
-    "Poison"
+    {
+      "name": "Water",
+      "code": "water"
+    },
+    {
+      "name": "Poison",
+      "code": "poison"
+    }
   ]
 }

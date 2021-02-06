@@ -1,5 +1,5 @@
 {
-  "id": "157",
+  "uid": "157",
   "name": "Typhlosion",
   "number": 157,
   "forms": [
@@ -9,6 +9,9 @@
     }
   ],
   "types": [
-    "Fire"
+    {
+      "name": "Fire",
+      "code": "fire"
+    }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "id": "340",
+  "uid": "340",
   "name": "Whiscash",
   "number": 340,
   "forms": [
@@ -9,7 +9,13 @@
     }
   ],
   "types": [
-    "Water",
-    "Ground"
+    {
+      "name": "Water",
+      "code": "water"
+    },
+    {
+      "name": "Ground",
+      "code": "ground"
+    }
   ]
 }

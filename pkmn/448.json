@@ -1,5 +1,5 @@
 {
-  "id": "448",
+  "uid": "448",
   "name": "Lucario",
   "number": 448,
   "forms": [
@@ -9,7 +9,13 @@
     }
   ],
   "types": [
-    "Fighting",
-    "Steel"
+    {
+      "name": "Fighting",
+      "code": "fighting"
+    },
+    {
+      "name": "Steel",
+      "code": "steel"
+    }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "id": "602",
+  "uid": "602",
   "name": "Tynamo",
   "number": 602,
   "forms": [
@@ -9,6 +9,9 @@
     }
   ],
   "types": [
-    "Electric"
+    {
+      "name": "Electric",
+      "code": "electric"
+    }
   ]
 }

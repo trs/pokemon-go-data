@@ -1,5 +1,5 @@
 {
-  "id": "425",
+  "uid": "425",
   "name": "Drifloon",
   "number": 425,
   "forms": [
@@ -9,7 +9,13 @@
     }
   ],
   "types": [
-    "Ghost",
-    "Flying"
+    {
+      "name": "Ghost",
+      "code": "ghost"
+    },
+    {
+      "name": "Flying",
+      "code": "flying"
+    }
   ]
 }

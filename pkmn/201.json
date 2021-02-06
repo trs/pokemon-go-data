@@ -1,5 +1,5 @@
 {
-  "id": "201",
+  "uid": "201",
   "name": "Unown",
   "number": 201,
   "forms": [
@@ -9,6 +9,9 @@
     }
   ],
   "types": [
-    "Psychic"
+    {
+      "name": "Psychic",
+      "code": "psychic"
+    }
   ]
 }

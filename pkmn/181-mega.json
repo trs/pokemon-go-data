@@ -1,5 +1,5 @@
 {
-  "id": "181-mega",
+  "uid": "181-mega",
   "name": "Ampharos",
   "number": 181,
   "forms": [
@@ -13,7 +13,13 @@
     }
   ],
   "types": [
-    "Electric",
-    "Dragon"
+    {
+      "name": "Electric",
+      "code": "electric"
+    },
+    {
+      "name": "Dragon",
+      "code": "dragon"
+    }
   ]
 }

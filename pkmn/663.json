@@ -1,5 +1,5 @@
 {
-  "id": "663",
+  "uid": "663",
   "name": "Talonflame",
   "number": 663,
   "forms": [
@@ -9,7 +9,13 @@
     }
   ],
   "types": [
-    "Fire",
-    "Flying"
+    {
+      "name": "Fire",
+      "code": "fire"
+    },
+    {
+      "name": "Flying",
+      "code": "flying"
+    }
   ]
 }

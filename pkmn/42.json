@@ -1,5 +1,5 @@
 {
-  "id": "42",
+  "uid": "42",
   "name": "Golbat",
   "number": 42,
   "forms": [
@@ -9,7 +9,13 @@
     }
   ],
   "types": [
-    "Poison",
-    "Flying"
+    {
+      "name": "Poison",
+      "code": "poison"
+    },
+    {
+      "name": "Flying",
+      "code": "flying"
+    }
   ]
 }

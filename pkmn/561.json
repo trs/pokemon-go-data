@@ -1,5 +1,5 @@
 {
-  "id": "561",
+  "uid": "561",
   "name": "Sigilyph",
   "number": 561,
   "forms": [
@@ -9,7 +9,13 @@
     }
   ],
   "types": [
-    "Psychic",
-    "Flying"
+    {
+      "name": "Psychic",
+      "code": "psychic"
+    },
+    {
+      "name": "Flying",
+      "code": "flying"
+    }
   ]
 }

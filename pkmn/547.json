@@ -1,5 +1,5 @@
 {
-  "id": "547",
+  "uid": "547",
   "name": "Whimsicott",
   "number": 547,
   "forms": [
@@ -9,7 +9,13 @@
     }
   ],
   "types": [
-    "Grass",
-    "Fairy"
+    {
+      "name": "Grass",
+      "code": "grass"
+    },
+    {
+      "name": "Fairy",
+      "code": "fairy"
+    }
   ]
 }

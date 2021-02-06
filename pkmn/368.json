@@ -1,5 +1,5 @@
 {
-  "id": "368",
+  "uid": "368",
   "name": "Gorebyss",
   "number": 368,
   "forms": [
@@ -9,6 +9,9 @@
     }
   ],
   "types": [
-    "Water"
+    {
+      "name": "Water",
+      "code": "water"
+    }
   ]
 }

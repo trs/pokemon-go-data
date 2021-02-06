@@ -1,5 +1,5 @@
 {
-  "id": "37-alola",
+  "uid": "37-alola",
   "name": "Vulpix",
   "number": 37,
   "forms": [
@@ -9,6 +9,9 @@
     }
   ],
   "types": [
-    "Ice"
+    {
+      "name": "Ice",
+      "code": "ice"
+    }
   ]
 }

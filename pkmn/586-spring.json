@@ -1,5 +1,5 @@
 {
-  "id": "586-spring",
+  "uid": "586-spring",
   "name": "Sawsbuck",
   "number": 586,
   "forms": [
@@ -9,7 +9,13 @@
     }
   ],
   "types": [
-    "Normal",
-    "Grass"
+    {
+      "name": "Normal",
+      "code": "normal"
+    },
+    {
+      "name": "Grass",
+      "code": "grass"
+    }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "id": "38-alola",
+  "uid": "38-alola",
   "name": "Ninetales",
   "number": 38,
   "forms": [
@@ -9,7 +9,13 @@
     }
   ],
   "types": [
-    "Ice",
-    "Fairy"
+    {
+      "name": "Ice",
+      "code": "ice"
+    },
+    {
+      "name": "Fairy",
+      "code": "fairy"
+    }
   ]
 }

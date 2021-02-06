@@ -1,5 +1,5 @@
 {
-  "id": "531",
+  "uid": "531",
   "name": "Audino",
   "number": 531,
   "forms": [
@@ -9,6 +9,9 @@
     }
   ],
   "types": [
-    "Normal"
+    {
+      "name": "Normal",
+      "code": "normal"
+    }
   ]
 }

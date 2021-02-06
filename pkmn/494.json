@@ -1,5 +1,5 @@
 {
-  "id": "494",
+  "uid": "494",
   "name": "Victini",
   "number": 494,
   "forms": [
@@ -9,7 +9,13 @@
     }
   ],
   "types": [
-    "Psychic",
-    "Fire"
+    {
+      "name": "Psychic",
+      "code": "psychic"
+    },
+    {
+      "name": "Fire",
+      "code": "fire"
+    }
   ]
 }

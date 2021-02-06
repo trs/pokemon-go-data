@@ -1,5 +1,5 @@
 {
-  "id": "607",
+  "uid": "607",
   "name": "Litwick",
   "number": 607,
   "forms": [
@@ -9,7 +9,13 @@
     }
   ],
   "types": [
-    "Ghost",
-    "Fire"
+    {
+      "name": "Ghost",
+      "code": "ghost"
+    },
+    {
+      "name": "Fire",
+      "code": "fire"
+    }
   ]
 }

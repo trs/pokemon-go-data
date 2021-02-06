@@ -1,5 +1,5 @@
 {
-  "id": "484",
+  "uid": "484",
   "name": "Palkia",
   "number": 484,
   "forms": [
@@ -9,7 +9,13 @@
     }
   ],
   "types": [
-    "Water",
-    "Dragon"
+    {
+      "name": "Water",
+      "code": "water"
+    },
+    {
+      "name": "Dragon",
+      "code": "dragon"
+    }
   ]
 }

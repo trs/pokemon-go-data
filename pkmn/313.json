@@ -1,5 +1,5 @@
 {
-  "id": "313",
+  "uid": "313",
   "name": "Volbeat",
   "number": 313,
   "forms": [
@@ -9,6 +9,9 @@
     }
   ],
   "types": [
-    "Bug"
+    {
+      "name": "Bug",
+      "code": "bug"
+    }
   ]
 }

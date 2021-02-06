@@ -1,5 +1,5 @@
 {
-  "id": "9-mega",
+  "uid": "9-mega",
   "name": "Blastoise",
   "number": 9,
   "forms": [
@@ -13,6 +13,9 @@
     }
   ],
   "types": [
-    "Water"
+    {
+      "name": "Water",
+      "code": "water"
+    }
   ]
 }

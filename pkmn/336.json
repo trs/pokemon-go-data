@@ -1,5 +1,5 @@
 {
-  "id": "336",
+  "uid": "336",
   "name": "Seviper",
   "number": 336,
   "forms": [
@@ -9,6 +9,9 @@
     }
   ],
   "types": [
-    "Poison"
+    {
+      "name": "Poison",
+      "code": "poison"
+    }
   ]
 }

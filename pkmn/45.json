@@ -1,5 +1,5 @@
 {
-  "id": "45",
+  "uid": "45",
   "name": "Vileplume",
   "number": 45,
   "forms": [
@@ -9,7 +9,13 @@
     }
   ],
   "types": [
-    "Grass",
-    "Poison"
+    {
+      "name": "Grass",
+      "code": "grass"
+    },
+    {
+      "name": "Poison",
+      "code": "poison"
+    }
   ]
 }

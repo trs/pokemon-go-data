@@ -1,5 +1,5 @@
 {
-  "id": "410",
+  "uid": "410",
   "name": "Shieldon",
   "number": 410,
   "forms": [
@@ -9,7 +9,13 @@
     }
   ],
   "types": [
-    "Rock",
-    "Steel"
+    {
+      "name": "Rock",
+      "code": "rock"
+    },
+    {
+      "name": "Steel",
+      "code": "steel"
+    }
   ]
 }

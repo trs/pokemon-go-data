@@ -1,5 +1,5 @@
 {
-  "id": "296",
+  "uid": "296",
   "name": "Makuhita",
   "number": 296,
   "forms": [
@@ -9,6 +9,9 @@
     }
   ],
   "types": [
-    "Fighting"
+    {
+      "name": "Fighting",
+      "code": "fighting"
+    }
   ]
 }

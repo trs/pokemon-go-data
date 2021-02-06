@@ -1,5 +1,5 @@
 {
-  "id": "555-standard",
+  "uid": "555-standard",
   "name": "Darmanitan",
   "number": 555,
   "forms": [
@@ -9,6 +9,9 @@
     }
   ],
   "types": [
-    "Fire"
+    {
+      "name": "Fire",
+      "code": "fire"
+    }
   ]
 }

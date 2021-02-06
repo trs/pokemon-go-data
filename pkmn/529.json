@@ -1,5 +1,5 @@
 {
-  "id": "529",
+  "uid": "529",
   "name": "Drilbur",
   "number": 529,
   "forms": [
@@ -9,6 +9,9 @@
     }
   ],
   "types": [
-    "Ground"
+    {
+      "name": "Ground",
+      "code": "ground"
+    }
   ]
 }

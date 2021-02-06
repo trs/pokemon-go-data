@@ -1,5 +1,5 @@
 {
-  "id": "52-galarian",
+  "uid": "52-galarian",
   "name": "Meowth",
   "number": 52,
   "forms": [
@@ -9,6 +9,9 @@
     }
   ],
   "types": [
-    "Steel"
+    {
+      "name": "Steel",
+      "code": "steel"
+    }
   ]
 }

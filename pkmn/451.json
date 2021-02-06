@@ -1,5 +1,5 @@
 {
-  "id": "451",
+  "uid": "451",
   "name": "Skorupi",
   "number": 451,
   "forms": [
@@ -9,7 +9,13 @@
     }
   ],
   "types": [
-    "Poison",
-    "Bug"
+    {
+      "name": "Poison",
+      "code": "poison"
+    },
+    {
+      "name": "Bug",
+      "code": "bug"
+    }
   ]
 }

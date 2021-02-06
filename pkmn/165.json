@@ -1,5 +1,5 @@
 {
-  "id": "165",
+  "uid": "165",
   "name": "Ledyba",
   "number": 165,
   "forms": [
@@ -9,7 +9,13 @@
     }
   ],
   "types": [
-    "Bug",
-    "Flying"
+    {
+      "name": "Bug",
+      "code": "bug"
+    },
+    {
+      "name": "Flying",
+      "code": "flying"
+    }
   ]
 }

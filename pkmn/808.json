@@ -1,5 +1,5 @@
 {
-  "id": "808",
+  "uid": "808",
   "name": "Meltan",
   "number": 808,
   "forms": [
@@ -9,6 +9,9 @@
     }
   ],
   "types": [
-    "Steel"
+    {
+      "name": "Steel",
+      "code": "steel"
+    }
   ]
 }

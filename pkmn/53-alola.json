@@ -1,5 +1,5 @@
 {
-  "id": "53-alola",
+  "uid": "53-alola",
   "name": "Persian",
   "number": 53,
   "forms": [
@@ -9,6 +9,9 @@
     }
   ],
   "types": [
-    "Dark"
+    {
+      "name": "Dark",
+      "code": "dark"
+    }
   ]
 }

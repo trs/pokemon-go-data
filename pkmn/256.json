@@ -1,5 +1,5 @@
 {
-  "id": "256",
+  "uid": "256",
   "name": "Combusken",
   "number": 256,
   "forms": [
@@ -9,7 +9,13 @@
     }
   ],
   "types": [
-    "Fire",
-    "Fighting"
+    {
+      "name": "Fire",
+      "code": "fire"
+    },
+    {
+      "name": "Fighting",
+      "code": "fighting"
+    }
   ]
 }

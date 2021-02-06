@@ -1,5 +1,5 @@
 {
-  "id": "711",
+  "uid": "711",
   "name": "Gourgeist",
   "number": 711,
   "forms": [
@@ -9,7 +9,13 @@
     }
   ],
   "types": [
-    "Ghost",
-    "Grass"
+    {
+      "name": "Ghost",
+      "code": "ghost"
+    },
+    {
+      "name": "Grass",
+      "code": "grass"
+    }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "id": "701",
+  "uid": "701",
   "name": "Hawlucha",
   "number": 701,
   "forms": [
@@ -9,7 +9,13 @@
     }
   ],
   "types": [
-    "Fighting",
-    "Flying"
+    {
+      "name": "Fighting",
+      "code": "fighting"
+    },
+    {
+      "name": "Flying",
+      "code": "flying"
+    }
   ]
 }

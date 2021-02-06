@@ -1,5 +1,5 @@
 {
-  "id": "95",
+  "uid": "95",
   "name": "Onix",
   "number": 95,
   "forms": [
@@ -9,7 +9,13 @@
     }
   ],
   "types": [
-    "Rock",
-    "Ground"
+    {
+      "name": "Rock",
+      "code": "rock"
+    },
+    {
+      "name": "Ground",
+      "code": "ground"
+    }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "id": "374",
+  "uid": "374",
   "name": "Beldum",
   "number": 374,
   "forms": [
@@ -9,7 +9,13 @@
     }
   ],
   "types": [
-    "Steel",
-    "Psychic"
+    {
+      "name": "Steel",
+      "code": "steel"
+    },
+    {
+      "name": "Psychic",
+      "code": "psychic"
+    }
   ]
 }

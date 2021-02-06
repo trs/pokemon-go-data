@@ -1,5 +1,5 @@
 {
-  "id": "380",
+  "uid": "380",
   "name": "Latias",
   "number": 380,
   "forms": [
@@ -9,7 +9,13 @@
     }
   ],
   "types": [
-    "Dragon",
-    "Psychic"
+    {
+      "name": "Dragon",
+      "code": "dragon"
+    },
+    {
+      "name": "Psychic",
+      "code": "psychic"
+    }
   ]
 }

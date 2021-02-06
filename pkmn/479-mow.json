@@ -1,5 +1,5 @@
 {
-  "id": "479-mow",
+  "uid": "479-mow",
   "name": "Rotom",
   "number": 479,
   "forms": [
@@ -9,7 +9,13 @@
     }
   ],
   "types": [
-    "Electric",
-    "Grass"
+    {
+      "name": "Electric",
+      "code": "electric"
+    },
+    {
+      "name": "Grass",
+      "code": "grass"
+    }
   ]
 }
