@@ -2,6 +2,7 @@
   "uid": "319",
   "name": "Sharpedo",
   "number": 319,
+  "generation": 3,
   "forms": [
     {
       "name": "Normal",

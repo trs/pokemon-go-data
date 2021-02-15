@@ -2,6 +2,7 @@
   "uid": "549",
   "name": "Lilligant",
   "number": 549,
+  "generation": 5,
   "forms": [
     {
       "name": "Normal",

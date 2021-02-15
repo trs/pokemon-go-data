@@ -2,6 +2,7 @@
   "uid": "411",
   "name": "Bastiodon",
   "number": 411,
+  "generation": 4,
   "forms": [
     {
       "name": "Normal",

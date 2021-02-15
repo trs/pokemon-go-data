@@ -2,6 +2,7 @@
   "uid": "43",
   "name": "Oddish",
   "number": 43,
+  "generation": 1,
   "forms": [
     {
       "name": "Normal",

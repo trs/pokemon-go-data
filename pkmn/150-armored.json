@@ -2,6 +2,7 @@
   "uid": "150-armored",
   "name": "Mewtwo",
   "number": 150,
+  "generation": 1,
   "forms": [
     {
       "name": "Armored",

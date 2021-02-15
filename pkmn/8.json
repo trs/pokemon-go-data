@@ -2,6 +2,7 @@
   "uid": "8",
   "name": "Wartortle",
   "number": 8,
+  "generation": 1,
   "forms": [
     {
       "name": "Normal",

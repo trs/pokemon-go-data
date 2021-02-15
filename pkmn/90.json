@@ -2,6 +2,7 @@
   "uid": "90",
   "name": "Shellder",
   "number": 90,
+  "generation": 1,
   "forms": [
     {
       "name": "Normal",

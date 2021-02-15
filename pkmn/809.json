@@ -2,6 +2,7 @@
   "uid": "809",
   "name": "Melmetal",
   "number": 809,
+  "generation": 7,
   "forms": [
     {
       "name": "Normal",

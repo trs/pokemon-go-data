@@ -2,6 +2,7 @@
   "uid": "96",
   "name": "Drowzee",
   "number": 96,
+  "generation": 1,
   "forms": [
     {
       "name": "Normal",

@@ -2,6 +2,7 @@
   "uid": "494",
   "name": "Victini",
   "number": 494,
+  "generation": 5,
   "forms": [
     {
       "name": "Normal",

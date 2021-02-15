@@ -2,6 +2,7 @@
   "uid": "666",
   "name": "Vivillon",
   "number": 666,
+  "generation": 6,
   "forms": [
     {
       "name": "Normal",

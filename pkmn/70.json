@@ -2,6 +2,7 @@
   "uid": "70",
   "name": "Weepinbell",
   "number": 70,
+  "generation": 1,
   "forms": [
     {
       "name": "Normal",

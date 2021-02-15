@@ -2,6 +2,7 @@
   "uid": "64",
   "name": "Kadabra",
   "number": 64,
+  "generation": 1,
   "forms": [
     {
       "name": "Normal",

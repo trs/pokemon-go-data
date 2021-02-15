@@ -2,6 +2,7 @@
   "uid": "199",
   "name": "Slowking",
   "number": 199,
+  "generation": 2,
   "forms": [
     {
       "name": "Normal",

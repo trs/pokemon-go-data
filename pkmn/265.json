@@ -2,6 +2,7 @@
   "uid": "265",
   "name": "Wurmple",
   "number": 265,
+  "generation": 3,
   "forms": [
     {
       "name": "Normal",

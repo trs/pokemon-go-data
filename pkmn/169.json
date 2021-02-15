@@ -2,6 +2,7 @@
   "uid": "169",
   "name": "Crobat",
   "number": 169,
+  "generation": 2,
   "forms": [
     {
       "name": "Normal",

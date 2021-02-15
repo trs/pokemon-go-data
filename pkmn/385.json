@@ -2,6 +2,7 @@
   "uid": "385",
   "name": "Jirachi",
   "number": 385,
+  "generation": 3,
   "forms": [
     {
       "name": "Normal",

@@ -2,6 +2,7 @@
   "uid": "348",
   "name": "Armaldo",
   "number": 348,
+  "generation": 3,
   "forms": [
     {
       "name": "Normal",

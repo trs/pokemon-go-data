@@ -2,6 +2,7 @@
   "uid": "375",
   "name": "Metang",
   "number": 375,
+  "generation": 3,
   "forms": [
     {
       "name": "Normal",

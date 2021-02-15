@@ -2,6 +2,7 @@
   "uid": "177",
   "name": "Natu",
   "number": 177,
+  "generation": 2,
   "forms": [
     {
       "name": "Normal",

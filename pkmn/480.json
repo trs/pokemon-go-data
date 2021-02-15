@@ -2,6 +2,7 @@
   "uid": "480",
   "name": "Uxie",
   "number": 480,
+  "generation": 4,
   "forms": [
     {
       "name": "Normal",

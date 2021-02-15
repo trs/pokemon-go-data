@@ -2,6 +2,7 @@
   "uid": "466",
   "name": "Electivire",
   "number": 466,
+  "generation": 4,
   "forms": [
     {
       "name": "Normal",

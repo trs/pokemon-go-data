@@ -2,6 +2,7 @@
   "uid": "100",
   "name": "Voltorb",
   "number": 100,
+  "generation": 1,
   "forms": [
     {
       "name": "Normal",

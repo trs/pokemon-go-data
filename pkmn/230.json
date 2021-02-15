@@ -2,6 +2,7 @@
   "uid": "230",
   "name": "Kingdra",
   "number": 230,
+  "generation": 2,
   "forms": [
     {
       "name": "Normal",

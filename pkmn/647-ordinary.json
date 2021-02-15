@@ -2,6 +2,7 @@
   "uid": "647-ordinary",
   "name": "Keldeo",
   "number": 647,
+  "generation": 5,
   "forms": [
     {
       "name": "Ordinary",

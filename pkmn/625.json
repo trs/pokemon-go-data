@@ -2,6 +2,7 @@
   "uid": "625",
   "name": "Bisharp",
   "number": 625,
+  "generation": 5,
   "forms": [
     {
       "name": "Normal",

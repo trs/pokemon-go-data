@@ -2,6 +2,7 @@
   "uid": "400",
   "name": "Bibarel",
   "number": 400,
+  "generation": 4,
   "forms": [
     {
       "name": "Normal",

@@ -2,6 +2,7 @@
   "uid": "17",
   "name": "Pidgeotto",
   "number": 17,
+  "generation": 1,
   "forms": [
     {
       "name": "Normal",

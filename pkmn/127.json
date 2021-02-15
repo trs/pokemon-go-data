@@ -2,6 +2,7 @@
   "uid": "127",
   "name": "Pinsir",
   "number": 127,
+  "generation": 1,
   "forms": [
     {
       "name": "Normal",

@@ -2,6 +2,7 @@
   "uid": "41",
   "name": "Zubat",
   "number": 41,
+  "generation": 1,
   "forms": [
     {
       "name": "Normal",

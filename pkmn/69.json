@@ -2,6 +2,7 @@
   "uid": "69",
   "name": "Bellsprout",
   "number": 69,
+  "generation": 1,
   "forms": [
     {
       "name": "Normal",

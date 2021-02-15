@@ -2,6 +2,7 @@
   "uid": "259",
   "name": "Marshtomp",
   "number": 259,
+  "generation": 3,
   "forms": [
     {
       "name": "Normal",

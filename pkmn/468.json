@@ -2,6 +2,7 @@
   "uid": "468",
   "name": "Togekiss",
   "number": 468,
+  "generation": 4,
   "forms": [
     {
       "name": "Normal",

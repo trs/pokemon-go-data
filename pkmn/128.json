@@ -2,6 +2,7 @@
   "uid": "128",
   "name": "Tauros",
   "number": 128,
+  "generation": 1,
   "forms": [
     {
       "name": "Normal",

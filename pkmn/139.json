@@ -2,6 +2,7 @@
   "uid": "139",
   "name": "Omastar",
   "number": 139,
+  "generation": 1,
   "forms": [
     {
       "name": "Normal",

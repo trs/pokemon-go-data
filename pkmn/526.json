@@ -2,6 +2,7 @@
   "uid": "526",
   "name": "Gigalith",
   "number": 526,
+  "generation": 5,
   "forms": [
     {
       "name": "Normal",

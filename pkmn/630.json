@@ -2,6 +2,7 @@
   "uid": "630",
   "name": "Mandibuzz",
   "number": 630,
+  "generation": 5,
   "forms": [
     {
       "name": "Normal",

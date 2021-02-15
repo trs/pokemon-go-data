@@ -2,6 +2,7 @@
   "uid": "2",
   "name": "Ivysaur",
   "number": 2,
+  "generation": 1,
   "forms": [
     {
       "name": "Normal",

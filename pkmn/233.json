@@ -2,6 +2,7 @@
   "uid": "233",
   "name": "Porygon2",
   "number": 233,
+  "generation": 2,
   "forms": [
     {
       "name": "Normal",

@@ -2,6 +2,7 @@
   "uid": "660",
   "name": "Diggersby",
   "number": 660,
+  "generation": 6,
   "forms": [
     {
       "name": "Normal",

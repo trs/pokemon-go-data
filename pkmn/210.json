@@ -2,6 +2,7 @@
   "uid": "210",
   "name": "Granbull",
   "number": 210,
+  "generation": 2,
   "forms": [
     {
       "name": "Normal",

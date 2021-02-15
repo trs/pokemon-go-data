@@ -2,6 +2,7 @@
   "uid": "251",
   "name": "Celebi",
   "number": 251,
+  "generation": 2,
   "forms": [
     {
       "name": "Normal",

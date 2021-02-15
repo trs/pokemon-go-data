@@ -2,6 +2,7 @@
   "uid": "148",
   "name": "Dragonair",
   "number": 148,
+  "generation": 1,
   "forms": [
     {
       "name": "Normal",

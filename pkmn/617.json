@@ -2,6 +2,7 @@
   "uid": "617",
   "name": "Accelgor",
   "number": 617,
+  "generation": 5,
   "forms": [
     {
       "name": "Normal",

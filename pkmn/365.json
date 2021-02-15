@@ -2,6 +2,7 @@
   "uid": "365",
   "name": "Walrein",
   "number": 365,
+  "generation": 3,
   "forms": [
     {
       "name": "Normal",

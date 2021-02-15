@@ -2,6 +2,7 @@
   "uid": "705",
   "name": "Sliggoo",
   "number": 705,
+  "generation": 6,
   "forms": [
     {
       "name": "Normal",

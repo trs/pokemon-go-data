@@ -2,6 +2,7 @@
   "uid": "652",
   "name": "Chesnaught",
   "number": 652,
+  "generation": 6,
   "forms": [
     {
       "name": "Normal",

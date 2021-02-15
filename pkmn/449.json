@@ -2,6 +2,7 @@
   "uid": "449",
   "name": "Hippopotas",
   "number": 449,
+  "generation": 4,
   "forms": [
     {
       "name": "Normal",

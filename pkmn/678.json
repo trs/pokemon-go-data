@@ -2,6 +2,7 @@
   "uid": "678",
   "name": "Meowstic",
   "number": 678,
+  "generation": 6,
   "forms": [
     {
       "name": "Normal",

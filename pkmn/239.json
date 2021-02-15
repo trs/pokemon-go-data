@@ -2,6 +2,7 @@
   "uid": "239",
   "name": "Elekid",
   "number": 239,
+  "generation": 2,
   "forms": [
     {
       "name": "Normal",

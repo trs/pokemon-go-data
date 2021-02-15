@@ -2,6 +2,7 @@
   "uid": "327",
   "name": "Spinda",
   "number": 327,
+  "generation": 3,
   "forms": [
     {
       "name": "Normal",

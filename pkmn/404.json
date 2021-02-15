@@ -2,6 +2,7 @@
   "uid": "404",
   "name": "Luxio",
   "number": 404,
+  "generation": 4,
   "forms": [
     {
       "name": "Normal",

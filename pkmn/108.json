@@ -2,6 +2,7 @@
   "uid": "108",
   "name": "Lickitung",
   "number": 108,
+  "generation": 1,
   "forms": [
     {
       "name": "Normal",

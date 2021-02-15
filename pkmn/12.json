@@ -2,6 +2,7 @@
   "uid": "12",
   "name": "Butterfree",
   "number": 12,
+  "generation": 1,
   "forms": [
     {
       "name": "Normal",

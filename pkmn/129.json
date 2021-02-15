@@ -2,6 +2,7 @@
   "uid": "129",
   "name": "Magikarp",
   "number": 129,
+  "generation": 1,
   "forms": [
     {
       "name": "Normal",

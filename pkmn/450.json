@@ -2,6 +2,7 @@
   "uid": "450",
   "name": "Hippowdon",
   "number": 450,
+  "generation": 4,
   "forms": [
     {
       "name": "Normal",

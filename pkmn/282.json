@@ -2,6 +2,7 @@
   "uid": "282",
   "name": "Gardevoir",
   "number": 282,
+  "generation": 3,
   "forms": [
     {
       "name": "Normal",

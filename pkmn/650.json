@@ -2,6 +2,7 @@
   "uid": "650",
   "name": "Chespin",
   "number": 650,
+  "generation": 6,
   "forms": [
     {
       "name": "Normal",

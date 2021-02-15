@@ -2,6 +2,7 @@
   "uid": "122",
   "name": "Mr. Mime",
   "number": 122,
+  "generation": 1,
   "forms": [
     {
       "name": "Normal",

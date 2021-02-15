@@ -2,6 +2,7 @@
   "uid": "455",
   "name": "Carnivine",
   "number": 455,
+  "generation": 4,
   "forms": [
     {
       "name": "Normal",

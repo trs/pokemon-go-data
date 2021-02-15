@@ -2,6 +2,7 @@
   "uid": "562-galarian",
   "name": "Yamask",
   "number": 562,
+  "generation": 5,
   "forms": [
     {
       "name": "Galarian",

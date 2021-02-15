@@ -2,6 +2,7 @@
   "uid": "499",
   "name": "Pignite",
   "number": 499,
+  "generation": 5,
   "forms": [
     {
       "name": "Normal",

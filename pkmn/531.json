@@ -2,6 +2,7 @@
   "uid": "531",
   "name": "Audino",
   "number": 531,
+  "generation": 5,
   "forms": [
     {
       "name": "Normal",

@@ -2,6 +2,7 @@
   "uid": "522",
   "name": "Blitzle",
   "number": 522,
+  "generation": 5,
   "forms": [
     {
       "name": "Normal",

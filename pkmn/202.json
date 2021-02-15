@@ -2,6 +2,7 @@
   "uid": "202",
   "name": "Wobbuffet",
   "number": 202,
+  "generation": 2,
   "forms": [
     {
       "name": "Normal",

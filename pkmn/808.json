@@ -2,6 +2,7 @@
   "uid": "808",
   "name": "Meltan",
   "number": 808,
+  "generation": 7,
   "forms": [
     {
       "name": "Normal",

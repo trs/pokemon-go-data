@@ -2,6 +2,7 @@
   "uid": "479-wash",
   "name": "Rotom",
   "number": 479,
+  "generation": 4,
   "forms": [
     {
       "name": "Wash",

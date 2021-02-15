@@ -2,6 +2,7 @@
   "uid": "420",
   "name": "Cherubi",
   "number": 420,
+  "generation": 4,
   "forms": [
     {
       "name": "Normal",

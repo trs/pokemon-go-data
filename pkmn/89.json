@@ -2,6 +2,7 @@
   "uid": "89",
   "name": "Muk",
   "number": 89,
+  "generation": 1,
   "forms": [
     {
       "name": "Normal",

@@ -2,6 +2,7 @@
   "uid": "81",
   "name": "Magnemite",
   "number": 81,
+  "generation": 1,
   "forms": [
     {
       "name": "Normal",

@@ -2,6 +2,7 @@
   "uid": "476",
   "name": "Probopass",
   "number": 476,
+  "generation": 4,
   "forms": [
     {
       "name": "Normal",

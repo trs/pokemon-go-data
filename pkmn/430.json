@@ -2,6 +2,7 @@
   "uid": "430",
   "name": "Honchkrow",
   "number": 430,
+  "generation": 4,
   "forms": [
     {
       "name": "Normal",

@@ -2,6 +2,7 @@
   "uid": "460-mega",
   "name": "Abomasnow",
   "number": 460,
+  "generation": 4,
   "forms": [
     {
       "name": "Normal",

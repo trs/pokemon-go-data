@@ -2,6 +2,7 @@
   "uid": "305",
   "name": "Lairon",
   "number": 305,
+  "generation": 3,
   "forms": [
     {
       "name": "Normal",

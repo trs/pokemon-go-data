@@ -2,6 +2,7 @@
   "uid": "405",
   "name": "Luxray",
   "number": 405,
+  "generation": 4,
   "forms": [
     {
       "name": "Normal",

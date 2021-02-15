@@ -2,6 +2,7 @@
   "uid": "245",
   "name": "Suicune",
   "number": 245,
+  "generation": 2,
   "forms": [
     {
       "name": "Normal",

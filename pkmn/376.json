@@ -2,6 +2,7 @@
   "uid": "376",
   "name": "Metagross",
   "number": 376,
+  "generation": 3,
   "forms": [
     {
       "name": "Normal",

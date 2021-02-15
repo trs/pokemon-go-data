@@ -2,6 +2,7 @@
   "uid": "77",
   "name": "Ponyta",
   "number": 77,
+  "generation": 1,
   "forms": [
     {
       "name": "Normal",

@@ -2,6 +2,7 @@
   "uid": "433",
   "name": "Chingling",
   "number": 433,
+  "generation": 4,
   "forms": [
     {
       "name": "Normal",

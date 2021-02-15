@@ -2,6 +2,7 @@
   "uid": "252",
   "name": "Treecko",
   "number": 252,
+  "generation": 3,
   "forms": [
     {
       "name": "Normal",

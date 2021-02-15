@@ -2,6 +2,7 @@
   "uid": "555-zen",
   "name": "Darmanitan",
   "number": 555,
+  "generation": 5,
   "forms": [
     {
       "name": "Zen",

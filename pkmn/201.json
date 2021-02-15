@@ -2,6 +2,7 @@
   "uid": "201",
   "name": "Unown",
   "number": 201,
+  "generation": 2,
   "forms": [
     {
       "name": "Normal",

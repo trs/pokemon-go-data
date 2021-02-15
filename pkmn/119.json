@@ -2,6 +2,7 @@
   "uid": "119",
   "name": "Seaking",
   "number": 119,
+  "generation": 1,
   "forms": [
     {
       "name": "Normal",

@@ -2,6 +2,7 @@
   "uid": "320",
   "name": "Wailmer",
   "number": 320,
+  "generation": 3,
   "forms": [
     {
       "name": "Normal",

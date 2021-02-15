@@ -2,6 +2,7 @@
   "uid": "171",
   "name": "Lanturn",
   "number": 171,
+  "generation": 2,
   "forms": [
     {
       "name": "Normal",

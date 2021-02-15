@@ -2,6 +2,7 @@
   "uid": "422-east-sea",
   "name": "Shellos",
   "number": 422,
+  "generation": 4,
   "forms": [
     {
       "name": "East Sea",

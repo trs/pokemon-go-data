@@ -2,6 +2,7 @@
   "uid": "572",
   "name": "Minccino",
   "number": 572,
+  "generation": 5,
   "forms": [
     {
       "name": "Normal",

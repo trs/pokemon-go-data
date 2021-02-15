@@ -2,6 +2,7 @@
   "uid": "146",
   "name": "Moltres",
   "number": 146,
+  "generation": 1,
   "forms": [
     {
       "name": "Normal",

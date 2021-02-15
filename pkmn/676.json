@@ -2,6 +2,7 @@
   "uid": "676",
   "name": "Furfrou",
   "number": 676,
+  "generation": 6,
   "forms": [
     {
       "name": "Normal",

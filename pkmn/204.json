@@ -2,6 +2,7 @@
   "uid": "204",
   "name": "Pineco",
   "number": 204,
+  "generation": 2,
   "forms": [
     {
       "name": "Normal",

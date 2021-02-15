@@ -2,6 +2,7 @@
   "uid": "24",
   "name": "Arbok",
   "number": 24,
+  "generation": 1,
   "forms": [
     {
       "name": "Normal",

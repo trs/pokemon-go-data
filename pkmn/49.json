@@ -2,6 +2,7 @@
   "uid": "49",
   "name": "Venomoth",
   "number": 49,
+  "generation": 1,
   "forms": [
     {
       "name": "Normal",

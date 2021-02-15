@@ -2,6 +2,7 @@
   "uid": "267",
   "name": "Beautifly",
   "number": 267,
+  "generation": 3,
   "forms": [
     {
       "name": "Normal",

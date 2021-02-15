@@ -2,6 +2,7 @@
   "uid": "62",
   "name": "Poliwrath",
   "number": 62,
+  "generation": 1,
   "forms": [
     {
       "name": "Normal",

@@ -2,6 +2,7 @@
   "uid": "97",
   "name": "Hypno",
   "number": 97,
+  "generation": 1,
   "forms": [
     {
       "name": "Normal",

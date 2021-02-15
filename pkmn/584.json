@@ -2,6 +2,7 @@
   "uid": "584",
   "name": "Vanilluxe",
   "number": 584,
+  "generation": 5,
   "forms": [
     {
       "name": "Normal",

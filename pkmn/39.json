@@ -2,6 +2,7 @@
   "uid": "39",
   "name": "Jigglypuff",
   "number": 39,
+  "generation": 1,
   "forms": [
     {
       "name": "Normal",

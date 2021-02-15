@@ -2,6 +2,7 @@
   "uid": "336",
   "name": "Seviper",
   "number": 336,
+  "generation": 3,
   "forms": [
     {
       "name": "Normal",

@@ -2,6 +2,7 @@
   "uid": "212",
   "name": "Scizor",
   "number": 212,
+  "generation": 2,
   "forms": [
     {
       "name": "Normal",

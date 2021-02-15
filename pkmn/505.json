@@ -2,6 +2,7 @@
   "uid": "505",
   "name": "Watchog",
   "number": 505,
+  "generation": 5,
   "forms": [
     {
       "name": "Normal",

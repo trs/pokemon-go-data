@@ -2,6 +2,7 @@
   "uid": "641-therian",
   "name": "Tornadus",
   "number": 641,
+  "generation": 5,
   "forms": [
     {
       "name": "Therian",

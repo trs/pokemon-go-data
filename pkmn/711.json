@@ -2,6 +2,7 @@
   "uid": "711",
   "name": "Gourgeist",
   "number": 711,
+  "generation": 6,
   "forms": [
     {
       "name": "Normal",

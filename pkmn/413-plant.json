@@ -2,6 +2,7 @@
   "uid": "413-plant",
   "name": "Wormadam",
   "number": 413,
+  "generation": 4,
   "forms": [
     {
       "name": "Plant",

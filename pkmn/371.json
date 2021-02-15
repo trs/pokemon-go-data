@@ -2,6 +2,7 @@
   "uid": "371",
   "name": "Bagon",
   "number": 371,
+  "generation": 3,
   "forms": [
     {
       "name": "Normal",

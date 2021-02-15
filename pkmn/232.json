@@ -2,6 +2,7 @@
   "uid": "232",
   "name": "Donphan",
   "number": 232,
+  "generation": 2,
   "forms": [
     {
       "name": "Normal",

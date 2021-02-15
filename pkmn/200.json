@@ -2,6 +2,7 @@
   "uid": "200",
   "name": "Misdreavus",
   "number": 200,
+  "generation": 2,
   "forms": [
     {
       "name": "Normal",

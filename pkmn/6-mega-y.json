@@ -2,6 +2,7 @@
   "uid": "6-mega-y",
   "name": "Charizard",
   "number": 6,
+  "generation": 1,
   "forms": [
     {
       "name": "Normal",

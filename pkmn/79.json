@@ -2,6 +2,7 @@
   "uid": "79",
   "name": "Slowpoke",
   "number": 79,
+  "generation": 1,
   "forms": [
     {
       "name": "Normal",

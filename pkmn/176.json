@@ -2,6 +2,7 @@
   "uid": "176",
   "name": "Togetic",
   "number": 176,
+  "generation": 2,
   "forms": [
     {
       "name": "Normal",

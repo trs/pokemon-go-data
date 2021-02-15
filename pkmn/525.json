@@ -2,6 +2,7 @@
   "uid": "525",
   "name": "Boldore",
   "number": 525,
+  "generation": 5,
   "forms": [
     {
       "name": "Normal",

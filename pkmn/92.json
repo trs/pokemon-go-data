@@ -2,6 +2,7 @@
   "uid": "92",
   "name": "Gastly",
   "number": 92,
+  "generation": 1,
   "forms": [
     {
       "name": "Normal",

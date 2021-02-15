@@ -2,6 +2,7 @@
   "uid": "624",
   "name": "Pawniard",
   "number": 624,
+  "generation": 5,
   "forms": [
     {
       "name": "Normal",

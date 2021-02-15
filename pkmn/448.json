@@ -2,6 +2,7 @@
   "uid": "448",
   "name": "Lucario",
   "number": 448,
+  "generation": 4,
   "forms": [
     {
       "name": "Normal",

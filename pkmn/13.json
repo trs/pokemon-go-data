@@ -2,6 +2,7 @@
   "uid": "13",
   "name": "Weedle",
   "number": 13,
+  "generation": 1,
   "forms": [
     {
       "name": "Normal",

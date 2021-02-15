@@ -2,6 +2,7 @@
   "uid": "288",
   "name": "Vigoroth",
   "number": 288,
+  "generation": 3,
   "forms": [
     {
       "name": "Normal",

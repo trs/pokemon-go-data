@@ -2,6 +2,7 @@
   "uid": "135",
   "name": "Jolteon",
   "number": 135,
+  "generation": 1,
   "forms": [
     {
       "name": "Normal",

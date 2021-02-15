@@ -2,6 +2,7 @@
   "uid": "511",
   "name": "Pansage",
   "number": 511,
+  "generation": 5,
   "forms": [
     {
       "name": "Normal",

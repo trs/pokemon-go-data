@@ -2,6 +2,7 @@
   "uid": "645-incarnate",
   "name": "Landorus",
   "number": 645,
+  "generation": 5,
   "forms": [
     {
       "name": "Incarnate",

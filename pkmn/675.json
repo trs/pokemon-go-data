@@ -2,6 +2,7 @@
   "uid": "675",
   "name": "Pangoro",
   "number": 675,
+  "generation": 6,
   "forms": [
     {
       "name": "Normal",

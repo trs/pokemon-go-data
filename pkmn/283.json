@@ -2,6 +2,7 @@
   "uid": "283",
   "name": "Surskit",
   "number": 283,
+  "generation": 3,
   "forms": [
     {
       "name": "Normal",

@@ -2,6 +2,7 @@
   "uid": "131",
   "name": "Lapras",
   "number": 131,
+  "generation": 1,
   "forms": [
     {
       "name": "Normal",

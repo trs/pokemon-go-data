@@ -2,6 +2,7 @@
   "uid": "326",
   "name": "Grumpig",
   "number": 326,
+  "generation": 3,
   "forms": [
     {
       "name": "Normal",

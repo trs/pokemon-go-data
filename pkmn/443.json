@@ -2,6 +2,7 @@
   "uid": "443",
   "name": "Gible",
   "number": 443,
+  "generation": 4,
   "forms": [
     {
       "name": "Normal",

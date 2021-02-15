@@ -2,6 +2,7 @@
   "uid": "72",
   "name": "Tentacool",
   "number": 72,
+  "generation": 1,
   "forms": [
     {
       "name": "Normal",

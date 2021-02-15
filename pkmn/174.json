@@ -2,6 +2,7 @@
   "uid": "174",
   "name": "Igglybuff",
   "number": 174,
+  "generation": 2,
   "forms": [
     {
       "name": "Normal",

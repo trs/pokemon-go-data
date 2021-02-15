@@ -2,6 +2,7 @@
   "uid": "575",
   "name": "Gothorita",
   "number": 575,
+  "generation": 5,
   "forms": [
     {
       "name": "Normal",

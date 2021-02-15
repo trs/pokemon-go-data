@@ -2,6 +2,7 @@
   "uid": "56",
   "name": "Mankey",
   "number": 56,
+  "generation": 1,
   "forms": [
     {
       "name": "Normal",

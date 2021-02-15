@@ -2,6 +2,7 @@
   "uid": "168",
   "name": "Ariados",
   "number": 168,
+  "generation": 2,
   "forms": [
     {
       "name": "Normal",

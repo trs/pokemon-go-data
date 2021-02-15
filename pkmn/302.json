@@ -2,6 +2,7 @@
   "uid": "302",
   "name": "Sableye",
   "number": 302,
+  "generation": 3,
   "forms": [
     {
       "name": "Normal",

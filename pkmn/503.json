@@ -2,6 +2,7 @@
   "uid": "503",
   "name": "Samurott",
   "number": 503,
+  "generation": 5,
   "forms": [
     {
       "name": "Normal",

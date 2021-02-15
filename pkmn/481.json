@@ -2,6 +2,7 @@
   "uid": "481",
   "name": "Mesprit",
   "number": 481,
+  "generation": 4,
   "forms": [
     {
       "name": "Normal",

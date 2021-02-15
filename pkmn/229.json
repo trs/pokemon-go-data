@@ -2,6 +2,7 @@
   "uid": "229",
   "name": "Houndoom",
   "number": 229,
+  "generation": 2,
   "forms": [
     {
       "name": "Normal",

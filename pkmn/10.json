@@ -2,6 +2,7 @@
   "uid": "10",
   "name": "Caterpie",
   "number": 10,
+  "generation": 1,
   "forms": [
     {
       "name": "Normal",

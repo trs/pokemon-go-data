@@ -2,6 +2,7 @@
   "uid": "513",
   "name": "Pansear",
   "number": 513,
+  "generation": 5,
   "forms": [
     {
       "name": "Normal",

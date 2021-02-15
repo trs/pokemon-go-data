@@ -2,6 +2,7 @@
   "uid": "498",
   "name": "Tepig",
   "number": 498,
+  "generation": 5,
   "forms": [
     {
       "name": "Normal",

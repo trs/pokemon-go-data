@@ -2,6 +2,7 @@
   "uid": "225",
   "name": "Delibird",
   "number": 225,
+  "generation": 2,
   "forms": [
     {
       "name": "Normal",

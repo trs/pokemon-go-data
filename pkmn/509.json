@@ -2,6 +2,7 @@
   "uid": "509",
   "name": "Purrloin",
   "number": 509,
+  "generation": 5,
   "forms": [
     {
       "name": "Normal",

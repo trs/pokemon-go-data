@@ -2,6 +2,7 @@
   "uid": "657",
   "name": "Frogadier",
   "number": 657,
+  "generation": 6,
   "forms": [
     {
       "name": "Normal",

@@ -2,6 +2,7 @@
   "uid": "390",
   "name": "Chimchar",
   "number": 390,
+  "generation": 4,
   "forms": [
     {
       "name": "Normal",

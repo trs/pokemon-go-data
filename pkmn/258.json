@@ -2,6 +2,7 @@
   "uid": "258",
   "name": "Mudkip",
   "number": 258,
+  "generation": 3,
   "forms": [
     {
       "name": "Normal",

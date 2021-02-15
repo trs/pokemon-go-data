@@ -2,6 +2,7 @@
   "uid": "569",
   "name": "Garbodor",
   "number": 569,
+  "generation": 5,
   "forms": [
     {
       "name": "Normal",

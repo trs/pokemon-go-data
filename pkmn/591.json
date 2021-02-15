@@ -2,6 +2,7 @@
   "uid": "591",
   "name": "Amoonguss",
   "number": 591,
+  "generation": 5,
   "forms": [
     {
       "name": "Normal",

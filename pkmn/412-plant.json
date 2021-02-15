@@ -2,6 +2,7 @@
   "uid": "412-plant",
   "name": "Burmy",
   "number": 412,
+  "generation": 4,
   "forms": [
     {
       "name": "Plant",

@@ -2,6 +2,7 @@
   "uid": "58",
   "name": "Growlithe",
   "number": 58,
+  "generation": 1,
   "forms": [
     {
       "name": "Normal",

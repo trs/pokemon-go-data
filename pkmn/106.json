@@ -2,6 +2,7 @@
   "uid": "106",
   "name": "Hitmonlee",
   "number": 106,
+  "generation": 1,
   "forms": [
     {
       "name": "Normal",

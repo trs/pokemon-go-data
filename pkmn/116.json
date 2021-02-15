@@ -2,6 +2,7 @@
   "uid": "116",
   "name": "Horsea",
   "number": 116,
+  "generation": 1,
   "forms": [
     {
       "name": "Normal",

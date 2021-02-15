@@ -2,6 +2,7 @@
   "uid": "44",
   "name": "Gloom",
   "number": 44,
+  "generation": 1,
   "forms": [
     {
       "name": "Normal",

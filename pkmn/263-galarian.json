@@ -2,6 +2,7 @@
   "uid": "263-galarian",
   "name": "Zigzagoon",
   "number": 263,
+  "generation": 3,
   "forms": [
     {
       "name": "Galarian",

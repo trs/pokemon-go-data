@@ -2,6 +2,7 @@
   "uid": "187",
   "name": "Hoppip",
   "number": 187,
+  "generation": 2,
   "forms": [
     {
       "name": "Normal",

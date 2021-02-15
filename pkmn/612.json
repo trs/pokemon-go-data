@@ -2,6 +2,7 @@
   "uid": "612",
   "name": "Haxorus",
   "number": 612,
+  "generation": 5,
   "forms": [
     {
       "name": "Normal",

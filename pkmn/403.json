@@ -2,6 +2,7 @@
   "uid": "403",
   "name": "Shinx",
   "number": 403,
+  "generation": 4,
   "forms": [
     {
       "name": "Normal",

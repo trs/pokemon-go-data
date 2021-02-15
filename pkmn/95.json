@@ -2,6 +2,7 @@
   "uid": "95",
   "name": "Onix",
   "number": 95,
+  "generation": 1,
   "forms": [
     {
       "name": "Normal",

@@ -2,6 +2,7 @@
   "uid": "535",
   "name": "Tympole",
   "number": 535,
+  "generation": 5,
   "forms": [
     {
       "name": "Normal",

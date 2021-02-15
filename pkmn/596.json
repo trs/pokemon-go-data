@@ -2,6 +2,7 @@
   "uid": "596",
   "name": "Galvantula",
   "number": 596,
+  "generation": 5,
   "forms": [
     {
       "name": "Normal",

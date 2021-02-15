@@ -2,6 +2,7 @@
   "uid": "483",
   "name": "Dialga",
   "number": 483,
+  "generation": 4,
   "forms": [
     {
       "name": "Normal",

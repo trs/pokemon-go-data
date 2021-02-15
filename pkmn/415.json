@@ -2,6 +2,7 @@
   "uid": "415",
   "name": "Combee",
   "number": 415,
+  "generation": 4,
   "forms": [
     {
       "name": "Normal",

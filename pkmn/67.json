@@ -2,6 +2,7 @@
   "uid": "67",
   "name": "Machoke",
   "number": 67,
+  "generation": 1,
   "forms": [
     {
       "name": "Normal",

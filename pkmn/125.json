@@ -2,6 +2,7 @@
   "uid": "125",
   "name": "Electabuzz",
   "number": 125,
+  "generation": 1,
   "forms": [
     {
       "name": "Normal",

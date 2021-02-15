@@ -2,6 +2,7 @@
   "uid": "552",
   "name": "Krokorok",
   "number": 552,
+  "generation": 5,
   "forms": [
     {
       "name": "Normal",

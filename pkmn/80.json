@@ -2,6 +2,7 @@
   "uid": "80",
   "name": "Slowbro",
   "number": 80,
+  "generation": 1,
   "forms": [
     {
       "name": "Normal",

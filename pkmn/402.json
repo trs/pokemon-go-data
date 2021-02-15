@@ -2,6 +2,7 @@
   "uid": "402",
   "name": "Kricketune",
   "number": 402,
+  "generation": 4,
   "forms": [
     {
       "name": "Normal",

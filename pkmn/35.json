@@ -2,6 +2,7 @@
   "uid": "35",
   "name": "Clefairy",
   "number": 35,
+  "generation": 1,
   "forms": [
     {
       "name": "Normal",

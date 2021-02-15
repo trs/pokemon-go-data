@@ -2,6 +2,7 @@
   "uid": "196",
   "name": "Espeon",
   "number": 196,
+  "generation": 2,
   "forms": [
     {
       "name": "Normal",

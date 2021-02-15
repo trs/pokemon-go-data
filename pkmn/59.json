@@ -2,6 +2,7 @@
   "uid": "59",
   "name": "Arcanine",
   "number": 59,
+  "generation": 1,
   "forms": [
     {
       "name": "Normal",

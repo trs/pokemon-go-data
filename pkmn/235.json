@@ -2,6 +2,7 @@
   "uid": "235",
   "name": "Smeargle",
   "number": 235,
+  "generation": 2,
   "forms": [
     {
       "name": "Normal",

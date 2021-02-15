@@ -2,6 +2,7 @@
   "uid": "22",
   "name": "Fearow",
   "number": 22,
+  "generation": 1,
   "forms": [
     {
       "name": "Normal",

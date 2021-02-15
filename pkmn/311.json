@@ -2,6 +2,7 @@
   "uid": "311",
   "name": "Plusle",
   "number": 311,
+  "generation": 3,
   "forms": [
     {
       "name": "Normal",

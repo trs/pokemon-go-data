@@ -2,6 +2,7 @@
   "uid": "161",
   "name": "Sentret",
   "number": 161,
+  "generation": 2,
   "forms": [
     {
       "name": "Normal",

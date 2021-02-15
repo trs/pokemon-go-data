@@ -2,6 +2,7 @@
   "uid": "102",
   "name": "Exeggcute",
   "number": 102,
+  "generation": 1,
   "forms": [
     {
       "name": "Normal",

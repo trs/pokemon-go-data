@@ -2,6 +2,7 @@
   "uid": "519",
   "name": "Pidove",
   "number": 519,
+  "generation": 5,
   "forms": [
     {
       "name": "Normal",

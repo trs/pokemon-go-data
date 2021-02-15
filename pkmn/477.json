@@ -2,6 +2,7 @@
   "uid": "477",
   "name": "Dusknoir",
   "number": 477,
+  "generation": 4,
   "forms": [
     {
       "name": "Normal",

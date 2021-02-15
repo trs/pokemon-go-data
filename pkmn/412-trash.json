@@ -2,6 +2,7 @@
   "uid": "412-trash",
   "name": "Burmy",
   "number": 412,
+  "generation": 4,
   "forms": [
     {
       "name": "Trash",

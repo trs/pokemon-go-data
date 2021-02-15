@@ -2,6 +2,7 @@
   "uid": "224",
   "name": "Octillery",
   "number": 224,
+  "generation": 2,
   "forms": [
     {
       "name": "Normal",

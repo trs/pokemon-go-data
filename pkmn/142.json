@@ -2,6 +2,7 @@
   "uid": "142",
   "name": "Aerodactyl",
   "number": 142,
+  "generation": 1,
   "forms": [
     {
       "name": "Normal",

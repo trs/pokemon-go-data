@@ -2,6 +2,7 @@
   "uid": "166",
   "name": "Ledian",
   "number": 166,
+  "generation": 2,
   "forms": [
     {
       "name": "Normal",

@@ -2,6 +2,7 @@
   "uid": "236",
   "name": "Tyrogue",
   "number": 236,
+  "generation": 2,
   "forms": [
     {
       "name": "Normal",

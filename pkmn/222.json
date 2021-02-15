@@ -2,6 +2,7 @@
   "uid": "222",
   "name": "Corsola",
   "number": 222,
+  "generation": 2,
   "forms": [
     {
       "name": "Normal",

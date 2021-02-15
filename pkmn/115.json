@@ -2,6 +2,7 @@
   "uid": "115",
   "name": "Kangaskhan",
   "number": 115,
+  "generation": 1,
   "forms": [
     {
       "name": "Normal",

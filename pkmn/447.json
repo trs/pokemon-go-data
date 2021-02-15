@@ -2,6 +2,7 @@
   "uid": "447",
   "name": "Riolu",
   "number": 447,
+  "generation": 4,
   "forms": [
     {
       "name": "Normal",

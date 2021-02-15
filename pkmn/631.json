@@ -2,6 +2,7 @@
   "uid": "631",
   "name": "Heatmor",
   "number": 631,
+  "generation": 5,
   "forms": [
     {
       "name": "Normal",

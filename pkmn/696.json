@@ -2,6 +2,7 @@
   "uid": "696",
   "name": "Tyrunt",
   "number": 696,
+  "generation": 6,
   "forms": [
     {
       "name": "Normal",

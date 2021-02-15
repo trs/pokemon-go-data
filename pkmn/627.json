@@ -2,6 +2,7 @@
   "uid": "627",
   "name": "Rufflet",
   "number": 627,
+  "generation": 5,
   "forms": [
     {
       "name": "Normal",

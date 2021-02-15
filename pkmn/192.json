@@ -2,6 +2,7 @@
   "uid": "192",
   "name": "Sunflora",
   "number": 192,
+  "generation": 2,
   "forms": [
     {
       "name": "Normal",

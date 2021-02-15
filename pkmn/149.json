@@ -2,6 +2,7 @@
   "uid": "149",
   "name": "Dragonite",
   "number": 149,
+  "generation": 1,
   "forms": [
     {
       "name": "Normal",

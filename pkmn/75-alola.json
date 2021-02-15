@@ -2,6 +2,7 @@
   "uid": "75-alola",
   "name": "Graveler",
   "number": 75,
+  "generation": 1,
   "forms": [
     {
       "name": "Alola",

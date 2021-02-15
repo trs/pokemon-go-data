@@ -2,6 +2,7 @@
   "uid": "295",
   "name": "Exploud",
   "number": 295,
+  "generation": 3,
   "forms": [
     {
       "name": "Normal",

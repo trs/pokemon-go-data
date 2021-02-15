@@ -2,6 +2,7 @@
   "uid": "37",
   "name": "Vulpix",
   "number": 37,
+  "generation": 1,
   "forms": [
     {
       "name": "Normal",

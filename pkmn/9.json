@@ -2,6 +2,7 @@
   "uid": "9",
   "name": "Blastoise",
   "number": 9,
+  "generation": 1,
   "forms": [
     {
       "name": "Normal",

@@ -2,6 +2,7 @@
   "uid": "667",
   "name": "Litleo",
   "number": 667,
+  "generation": 6,
   "forms": [
     {
       "name": "Normal",

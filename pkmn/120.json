@@ -2,6 +2,7 @@
   "uid": "120",
   "name": "Staryu",
   "number": 120,
+  "generation": 1,
   "forms": [
     {
       "name": "Normal",

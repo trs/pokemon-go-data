@@ -2,6 +2,7 @@
   "uid": "211",
   "name": "Qwilfish",
   "number": 211,
+  "generation": 2,
   "forms": [
     {
       "name": "Normal",

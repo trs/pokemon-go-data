@@ -2,6 +2,7 @@
   "uid": "138",
   "name": "Omanyte",
   "number": 138,
+  "generation": 1,
   "forms": [
     {
       "name": "Normal",

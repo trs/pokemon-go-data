@@ -2,6 +2,7 @@
   "uid": "639",
   "name": "Terrakion",
   "number": 639,
+  "generation": 5,
   "forms": [
     {
       "name": "Normal",

@@ -2,6 +2,7 @@
   "uid": "83",
   "name": "Farfetch'd",
   "number": 83,
+  "generation": 1,
   "forms": [
     {
       "name": "Normal",

@@ -2,6 +2,7 @@
   "uid": "18-mega",
   "name": "Pidgeot",
   "number": 18,
+  "generation": 1,
   "forms": [
     {
       "name": "Normal",

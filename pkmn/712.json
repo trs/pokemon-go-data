@@ -2,6 +2,7 @@
   "uid": "712",
   "name": "Bergmite",
   "number": 712,
+  "generation": 6,
   "forms": [
     {
       "name": "Normal",

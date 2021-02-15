@@ -2,6 +2,7 @@
   "uid": "156",
   "name": "Quilava",
   "number": 156,
+  "generation": 2,
   "forms": [
     {
       "name": "Normal",

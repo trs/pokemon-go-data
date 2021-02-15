@@ -2,6 +2,7 @@
   "uid": "123",
   "name": "Scyther",
   "number": 123,
+  "generation": 1,
   "forms": [
     {
       "name": "Normal",

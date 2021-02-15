@@ -2,6 +2,7 @@
   "uid": "704",
   "name": "Goomy",
   "number": 704,
+  "generation": 6,
   "forms": [
     {
       "name": "Normal",

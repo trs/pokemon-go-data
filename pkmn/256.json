@@ -2,6 +2,7 @@
   "uid": "256",
   "name": "Combusken",
   "number": 256,
+  "generation": 3,
   "forms": [
     {
       "name": "Normal",

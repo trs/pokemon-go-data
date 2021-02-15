@@ -2,6 +2,7 @@
   "uid": "132",
   "name": "Ditto",
   "number": 132,
+  "generation": 1,
   "forms": [
     {
       "name": "Normal",

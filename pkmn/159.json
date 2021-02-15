@@ -2,6 +2,7 @@
   "uid": "159",
   "name": "Croconaw",
   "number": 159,
+  "generation": 2,
   "forms": [
     {
       "name": "Normal",

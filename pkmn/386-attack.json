@@ -2,6 +2,7 @@
   "uid": "386-attack",
   "name": "Deoxys",
   "number": 386,
+  "generation": 3,
   "forms": [
     {
       "name": "Attack",

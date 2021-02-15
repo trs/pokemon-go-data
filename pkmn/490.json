@@ -2,6 +2,7 @@
   "uid": "490",
   "name": "Manaphy",
   "number": 490,
+  "generation": 4,
   "forms": [
     {
       "name": "Normal",

@@ -2,6 +2,7 @@
   "uid": "661",
   "name": "Fletchling",
   "number": 661,
+  "generation": 6,
   "forms": [
     {
       "name": "Normal",

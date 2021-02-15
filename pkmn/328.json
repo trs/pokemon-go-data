@@ -2,6 +2,7 @@
   "uid": "328",
   "name": "Trapinch",
   "number": 328,
+  "generation": 3,
   "forms": [
     {
       "name": "Normal",

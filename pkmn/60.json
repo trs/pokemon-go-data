@@ -2,6 +2,7 @@
   "uid": "60",
   "name": "Poliwag",
   "number": 60,
+  "generation": 1,
   "forms": [
     {
       "name": "Normal",

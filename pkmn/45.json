@@ -2,6 +2,7 @@
   "uid": "45",
   "name": "Vileplume",
   "number": 45,
+  "generation": 1,
   "forms": [
     {
       "name": "Normal",

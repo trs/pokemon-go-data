@@ -2,6 +2,7 @@
   "uid": "237",
   "name": "Hitmontop",
   "number": 237,
+  "generation": 2,
   "forms": [
     {
       "name": "Normal",

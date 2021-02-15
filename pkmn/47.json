@@ -2,6 +2,7 @@
   "uid": "47",
   "name": "Parasect",
   "number": 47,
+  "generation": 1,
   "forms": [
     {
       "name": "Normal",

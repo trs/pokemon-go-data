@@ -2,6 +2,7 @@
   "uid": "708",
   "name": "Phantump",
   "number": 708,
+  "generation": 6,
   "forms": [
     {
       "name": "Normal",

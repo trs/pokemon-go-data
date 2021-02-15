@@ -2,6 +2,7 @@
   "uid": "407",
   "name": "Roserade",
   "number": 407,
+  "generation": 4,
   "forms": [
     {
       "name": "Normal",

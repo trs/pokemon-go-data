@@ -2,6 +2,7 @@
   "uid": "42",
   "name": "Golbat",
   "number": 42,
+  "generation": 1,
   "forms": [
     {
       "name": "Normal",

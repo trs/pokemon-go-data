@@ -2,6 +2,7 @@
   "uid": "541",
   "name": "Swadloon",
   "number": 541,
+  "generation": 5,
   "forms": [
     {
       "name": "Normal",

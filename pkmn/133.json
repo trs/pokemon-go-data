@@ -2,6 +2,7 @@
   "uid": "133",
   "name": "Eevee",
   "number": 133,
+  "generation": 1,
   "forms": [
     {
       "name": "Normal",

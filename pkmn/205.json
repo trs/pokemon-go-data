@@ -2,6 +2,7 @@
   "uid": "205",
   "name": "Forretress",
   "number": 205,
+  "generation": 2,
   "forms": [
     {
       "name": "Normal",

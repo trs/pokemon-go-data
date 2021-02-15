@@ -2,6 +2,7 @@
   "uid": "269",
   "name": "Dustox",
   "number": 269,
+  "generation": 3,
   "forms": [
     {
       "name": "Normal",

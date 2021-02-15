@@ -2,6 +2,7 @@
   "uid": "530",
   "name": "Excadrill",
   "number": 530,
+  "generation": 5,
   "forms": [
     {
       "name": "Normal",

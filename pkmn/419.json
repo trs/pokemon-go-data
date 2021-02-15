@@ -2,6 +2,7 @@
   "uid": "419",
   "name": "Floatzel",
   "number": 419,
+  "generation": 4,
   "forms": [
     {
       "name": "Normal",

@@ -2,6 +2,7 @@
   "uid": "48",
   "name": "Venonat",
   "number": 48,
+  "generation": 1,
   "forms": [
     {
       "name": "Normal",

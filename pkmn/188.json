@@ -2,6 +2,7 @@
   "uid": "188",
   "name": "Skiploom",
   "number": 188,
+  "generation": 2,
   "forms": [
     {
       "name": "Normal",

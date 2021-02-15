@@ -2,6 +2,7 @@
   "uid": "556",
   "name": "Maractus",
   "number": 556,
+  "generation": 5,
   "forms": [
     {
       "name": "Normal",

@@ -2,6 +2,7 @@
   "uid": "140",
   "name": "Kabuto",
   "number": 140,
+  "generation": 1,
   "forms": [
     {
       "name": "Normal",

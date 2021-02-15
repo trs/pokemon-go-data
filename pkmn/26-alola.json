@@ -2,6 +2,7 @@
   "uid": "26-alola",
   "name": "Raichu",
   "number": 26,
+  "generation": 1,
   "forms": [
     {
       "name": "Alola",

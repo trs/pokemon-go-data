@@ -2,6 +2,7 @@
   "uid": "3-mega",
   "name": "Venusaur",
   "number": 3,
+  "generation": 1,
   "forms": [
     {
       "name": "Normal",

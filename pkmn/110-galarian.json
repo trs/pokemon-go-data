@@ -2,6 +2,7 @@
   "uid": "110-galarian",
   "name": "Weezing",
   "number": 110,
+  "generation": 1,
   "forms": [
     {
       "name": "Galarian",

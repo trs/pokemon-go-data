@@ -2,6 +2,7 @@
   "uid": "700",
   "name": "Sylveon",
   "number": 700,
+  "generation": 6,
   "forms": [
     {
       "name": "Normal",

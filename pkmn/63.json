@@ -2,6 +2,7 @@
   "uid": "63",
   "name": "Abra",
   "number": 63,
+  "generation": 1,
   "forms": [
     {
       "name": "Normal",

@@ -2,6 +2,7 @@
   "uid": "27",
   "name": "Sandshrew",
   "number": 27,
+  "generation": 1,
   "forms": [
     {
       "name": "Normal",

@@ -2,6 +2,7 @@
   "uid": "76-alola",
   "name": "Golem",
   "number": 76,
+  "generation": 1,
   "forms": [
     {
       "name": "Alola",

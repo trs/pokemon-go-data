@@ -2,6 +2,7 @@
   "uid": "126",
   "name": "Magmar",
   "number": 126,
+  "generation": 1,
   "forms": [
     {
       "name": "Normal",

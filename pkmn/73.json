@@ -2,6 +2,7 @@
   "uid": "73",
   "name": "Tentacruel",
   "number": 73,
+  "generation": 1,
   "forms": [
     {
       "name": "Normal",

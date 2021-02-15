@@ -2,6 +2,7 @@
   "uid": "221",
   "name": "Piloswine",
   "number": 221,
+  "generation": 2,
   "forms": [
     {
       "name": "Normal",

@@ -2,6 +2,7 @@
   "uid": "213",
   "name": "Shuckle",
   "number": 213,
+  "generation": 2,
   "forms": [
     {
       "name": "Normal",

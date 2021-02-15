@@ -2,6 +2,7 @@
   "uid": "331",
   "name": "Cacnea",
   "number": 331,
+  "generation": 3,
   "forms": [
     {
       "name": "Normal",

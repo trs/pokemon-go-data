@@ -2,6 +2,7 @@
   "uid": "117",
   "name": "Seadra",
   "number": 117,
+  "generation": 1,
   "forms": [
     {
       "name": "Normal",

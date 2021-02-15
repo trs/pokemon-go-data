@@ -2,6 +2,7 @@
   "uid": "91",
   "name": "Cloyster",
   "number": 91,
+  "generation": 1,
   "forms": [
     {
       "name": "Normal",

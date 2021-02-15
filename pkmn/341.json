@@ -2,6 +2,7 @@
   "uid": "341",
   "name": "Corphish",
   "number": 341,
+  "generation": 3,
   "forms": [
     {
       "name": "Normal",

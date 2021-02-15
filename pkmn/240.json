@@ -2,6 +2,7 @@
   "uid": "240",
   "name": "Magby",
   "number": 240,
+  "generation": 2,
   "forms": [
     {
       "name": "Normal",

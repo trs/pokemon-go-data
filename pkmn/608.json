@@ -2,6 +2,7 @@
   "uid": "608",
   "name": "Lampent",
   "number": 608,
+  "generation": 5,
   "forms": [
     {
       "name": "Normal",

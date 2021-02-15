@@ -2,6 +2,7 @@
   "uid": "5",
   "name": "Charmeleon",
   "number": 5,
+  "generation": 1,
   "forms": [
     {
       "name": "Normal",

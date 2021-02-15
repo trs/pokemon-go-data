@@ -2,6 +2,7 @@
   "uid": "306",
   "name": "Aggron",
   "number": 306,
+  "generation": 3,
   "forms": [
     {
       "name": "Normal",

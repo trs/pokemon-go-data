@@ -2,6 +2,7 @@
   "uid": "655",
   "name": "Delphox",
   "number": 655,
+  "generation": 6,
   "forms": [
     {
       "name": "Normal",

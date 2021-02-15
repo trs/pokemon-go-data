@@ -2,6 +2,7 @@
   "uid": "456",
   "name": "Finneon",
   "number": 456,
+  "generation": 4,
   "forms": [
     {
       "name": "Normal",

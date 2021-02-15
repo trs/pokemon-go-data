@@ -2,6 +2,7 @@
   "uid": "255",
   "name": "Torchic",
   "number": 255,
+  "generation": 3,
   "forms": [
     {
       "name": "Normal",

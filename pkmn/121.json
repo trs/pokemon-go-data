@@ -2,6 +2,7 @@
   "uid": "121",
   "name": "Starmie",
   "number": 121,
+  "generation": 1,
   "forms": [
     {
       "name": "Normal",

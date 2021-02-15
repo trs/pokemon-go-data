@@ -2,6 +2,7 @@
   "uid": "223",
   "name": "Remoraid",
   "number": 223,
+  "generation": 2,
   "forms": [
     {
       "name": "Normal",

@@ -2,6 +2,7 @@
   "uid": "246",
   "name": "Larvitar",
   "number": 246,
+  "generation": 2,
   "forms": [
     {
       "name": "Normal",

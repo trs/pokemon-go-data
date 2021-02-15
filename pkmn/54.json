@@ -2,6 +2,7 @@
   "uid": "54",
   "name": "Psyduck",
   "number": 54,
+  "generation": 1,
   "forms": [
     {
       "name": "Normal",

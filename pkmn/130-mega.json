@@ -2,6 +2,7 @@
   "uid": "130-mega",
   "name": "Gyarados",
   "number": 130,
+  "generation": 1,
   "forms": [
     {
       "name": "Normal",

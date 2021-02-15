@@ -2,6 +2,7 @@
   "uid": "351",
   "name": "Castform",
   "number": 351,
+  "generation": 3,
   "forms": [
     {
       "name": "Normal",

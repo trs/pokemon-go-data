@@ -2,6 +2,7 @@
   "uid": "219",
   "name": "Magcargo",
   "number": 219,
+  "generation": 2,
   "forms": [
     {
       "name": "Normal",

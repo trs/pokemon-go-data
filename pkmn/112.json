@@ -2,6 +2,7 @@
   "uid": "112",
   "name": "Rhydon",
   "number": 112,
+  "generation": 1,
   "forms": [
     {
       "name": "Normal",

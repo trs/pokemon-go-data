@@ -2,6 +2,7 @@
   "uid": "459",
   "name": "Snover",
   "number": 459,
+  "generation": 4,
   "forms": [
     {
       "name": "Normal",

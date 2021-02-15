@@ -2,6 +2,7 @@
   "uid": "351-snowy",
   "name": "Castform",
   "number": 351,
+  "generation": 3,
   "forms": [
     {
       "name": "Snowy",

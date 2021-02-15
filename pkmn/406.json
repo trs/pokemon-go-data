@@ -2,6 +2,7 @@
   "uid": "406",
   "name": "Budew",
   "number": 406,
+  "generation": 4,
   "forms": [
     {
       "name": "Normal",

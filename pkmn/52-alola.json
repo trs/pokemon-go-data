@@ -2,6 +2,7 @@
   "uid": "52-alola",
   "name": "Meowth",
   "number": 52,
+  "generation": 1,
   "forms": [
     {
       "name": "Alola",

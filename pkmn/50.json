@@ -2,6 +2,7 @@
   "uid": "50",
   "name": "Diglett",
   "number": 50,
+  "generation": 1,
   "forms": [
     {
       "name": "Normal",

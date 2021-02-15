@@ -2,6 +2,7 @@
   "uid": "165",
   "name": "Ledyba",
   "number": 165,
+  "generation": 2,
   "forms": [
     {
       "name": "Normal",

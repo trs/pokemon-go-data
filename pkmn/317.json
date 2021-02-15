@@ -2,6 +2,7 @@
   "uid": "317",
   "name": "Swalot",
   "number": 317,
+  "generation": 3,
   "forms": [
     {
       "name": "Normal",

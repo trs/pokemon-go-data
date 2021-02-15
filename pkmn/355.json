@@ -2,6 +2,7 @@
   "uid": "355",
   "name": "Duskull",
   "number": 355,
+  "generation": 3,
   "forms": [
     {
       "name": "Normal",

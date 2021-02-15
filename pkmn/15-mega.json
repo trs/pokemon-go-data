@@ -2,6 +2,7 @@
   "uid": "15-mega",
   "name": "Beedrill",
   "number": 15,
+  "generation": 1,
   "forms": [
     {
       "name": "Normal",

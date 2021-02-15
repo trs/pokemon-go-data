@@ -2,6 +2,7 @@
   "uid": "238",
   "name": "Smoochum",
   "number": 238,
+  "generation": 2,
   "forms": [
     {
       "name": "Normal",

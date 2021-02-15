@@ -2,6 +2,7 @@
   "uid": "14",
   "name": "Kakuna",
   "number": 14,
+  "generation": 1,
   "forms": [
     {
       "name": "Normal",

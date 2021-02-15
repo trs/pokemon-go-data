@@ -2,6 +2,7 @@
   "uid": "507",
   "name": "Herdier",
   "number": 507,
+  "generation": 5,
   "forms": [
     {
       "name": "Normal",

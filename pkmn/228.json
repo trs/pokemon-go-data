@@ -2,6 +2,7 @@
   "uid": "228",
   "name": "Houndour",
   "number": 228,
+  "generation": 2,
   "forms": [
     {
       "name": "Normal",

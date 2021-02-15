@@ -2,6 +2,7 @@
   "uid": "11",
   "name": "Metapod",
   "number": 11,
+  "generation": 1,
   "forms": [
     {
       "name": "Normal",

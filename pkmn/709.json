@@ -2,6 +2,7 @@
   "uid": "709",
   "name": "Trevenant",
   "number": 709,
+  "generation": 6,
   "forms": [
     {
       "name": "Normal",

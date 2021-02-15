@@ -2,6 +2,7 @@
   "uid": "342",
   "name": "Crawdaunt",
   "number": 342,
+  "generation": 3,
   "forms": [
     {
       "name": "Normal",

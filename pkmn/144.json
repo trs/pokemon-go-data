@@ -2,6 +2,7 @@
   "uid": "144",
   "name": "Articuno",
   "number": 144,
+  "generation": 1,
   "forms": [
     {
       "name": "Normal",

@@ -2,6 +2,7 @@
   "uid": "699",
   "name": "Aurorus",
   "number": 699,
+  "generation": 6,
   "forms": [
     {
       "name": "Normal",

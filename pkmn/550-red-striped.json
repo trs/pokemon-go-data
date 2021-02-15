@@ -2,6 +2,7 @@
   "uid": "550-red-striped",
   "name": "Basculin",
   "number": 550,
+  "generation": 5,
   "forms": [
     {
       "name": "Red Striped",

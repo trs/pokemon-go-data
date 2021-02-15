@@ -2,6 +2,7 @@
   "uid": "492-land",
   "name": "Shaymin",
   "number": 492,
+  "generation": 4,
   "forms": [
     {
       "name": "Land",

@@ -2,6 +2,7 @@
   "uid": "445",
   "name": "Garchomp",
   "number": 445,
+  "generation": 4,
   "forms": [
     {
       "name": "Normal",

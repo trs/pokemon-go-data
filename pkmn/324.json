@@ -2,6 +2,7 @@
   "uid": "324",
   "name": "Torkoal",
   "number": 324,
+  "generation": 3,
   "forms": [
     {
       "name": "Normal",

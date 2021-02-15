@@ -2,6 +2,7 @@
   "uid": "82",
   "name": "Magneton",
   "number": 82,
+  "generation": 1,
   "forms": [
     {
       "name": "Normal",

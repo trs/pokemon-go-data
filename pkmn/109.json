@@ -2,6 +2,7 @@
   "uid": "109",
   "name": "Koffing",
   "number": 109,
+  "generation": 1,
   "forms": [
     {
       "name": "Normal",

@@ -2,6 +2,7 @@
   "uid": "502",
   "name": "Dewott",
   "number": 502,
+  "generation": 5,
   "forms": [
     {
       "name": "Normal",

@@ -2,6 +2,7 @@
   "uid": "1",
   "name": "Bulbasaur",
   "number": 1,
+  "generation": 1,
   "forms": [
     {
       "name": "Normal",

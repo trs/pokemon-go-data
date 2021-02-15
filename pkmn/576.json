@@ -2,6 +2,7 @@
   "uid": "576",
   "name": "Gothitelle",
   "number": 576,
+  "generation": 5,
   "forms": [
     {
       "name": "Normal",

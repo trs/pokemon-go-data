@@ -2,6 +2,7 @@
   "uid": "493",
   "name": "Arceus",
   "number": 493,
+  "generation": 4,
   "forms": [
     {
       "name": "Normal",

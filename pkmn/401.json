@@ -2,6 +2,7 @@
   "uid": "401",
   "name": "Kricketot",
   "number": 401,
+  "generation": 4,
   "forms": [
     {
       "name": "Normal",

@@ -2,6 +2,7 @@
   "uid": "314",
   "name": "Illumise",
   "number": 314,
+  "generation": 3,
   "forms": [
     {
       "name": "Normal",

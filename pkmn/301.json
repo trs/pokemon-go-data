@@ -2,6 +2,7 @@
   "uid": "301",
   "name": "Delcatty",
   "number": 301,
+  "generation": 3,
   "forms": [
     {
       "name": "Normal",

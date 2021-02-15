@@ -2,6 +2,7 @@
   "uid": "34",
   "name": "Nidoking",
   "number": 34,
+  "generation": 1,
   "forms": [
     {
       "name": "Normal",
